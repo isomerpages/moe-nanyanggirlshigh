@@ -406,9 +406,8 @@ Requirements:
 *   Able to work independently and a team player; and
 *   Relevant working experience in a school laboratory environment would be an advantage.
 
-* * *
 
-##### APPLICATION PROCEDURES
+#### APPLICATION PROCEDURES
 
 Staff recruitment is an ongoing process at Nanyang Girls' High School. We are constantly looking for suitably qualified and committed staff to join our team.
 
