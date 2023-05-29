@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - SBGE.md
       - Aesthetics.md
       - Humanities.md
       - Mathematics.md
