@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: NY Story
+    collection: ny-story
+  - title: NY Experience
+    collection: ny-experience
+  - title: NY Curriculum
+    collection: ny-curriculum
+  - title: Join Us
+    collection: join-us
+  - title: Quicklinks
+    collection: quicklinks
