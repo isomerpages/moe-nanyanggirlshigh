@@ -2,5 +2,6 @@ collections:
   ny-curriculum:
     output: true
     order:
+      - Curriculum Framework/.keep
       - Talent Development.md
       - Co–Curricular Activities.md
