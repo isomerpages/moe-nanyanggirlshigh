@@ -1,4 +1,5 @@
 collections:
   ny-curriculum:
     output: true
-    order: []
+    order:
+      - Co–Curricular Activities.md
