@@ -2,6 +2,7 @@ collections:
   ny-curriculum:
     output: true
     order:
+      - Curriculum Framework/Character and Leadership Development.md
       - Curriculum Framework/ICT, Data and Computer Science Curriculum.md
       - Curriculum Framework/Programmes.md
       - Curriculum Framework/Curriculum Framework.md
