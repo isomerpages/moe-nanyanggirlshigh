@@ -2,4 +2,5 @@ collections:
   ny-experience:
     output: true
     order:
+      - Academic.md
       - Enrichment.md
