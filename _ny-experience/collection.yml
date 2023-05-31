@@ -1,4 +1,5 @@
 collections:
   ny-experience:
     output: true
-    order: []
+    order:
+      - Enrichment.md
