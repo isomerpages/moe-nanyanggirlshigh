@@ -4,8 +4,8 @@ permalink: /ny-curriculum/curriculum-framework/principles/
 description: ""
 third_nav_title: Curriculum Framework
 ---
-PRINCIPLES OF DESIGN
---------------------
+## PRINCIPLES OF DESIGN
+
 
 Our IP curriculum is designed with the following principles:
 
