@@ -23,19 +23,21 @@ Our Academic Curriculum is broad-based at the lower secondary levels and is desi
 
 The categories in general are:
 
-1.  the&nbsp;**Core Academic Programme**&nbsp;that is for all students and is mainly conducted during school hours,
-2.  the&nbsp;**Advanced Academic Programmes**&nbsp;that are subject-specific for a selected group of Upper Secondary students with specific aptitude, attitude and strength. Students offer these subjects at greater depth of learning and lessons are conducted mainly during curriculum hours unless otherwise stated. Examples are Advanced Mathematics, Advanced Physics, Advanced Chemistry and Advanced Biology.
-3.  the&nbsp;**Academic Special Programmes**&nbsp;that are subject-specific for selected groups of students with specific aptitude, attitude and strength. There are two components:
-    1.  Advanced Academic Programme with customised talent development programmes. Examples are Art Elective Programme, Higher Music Programme, Bicultural Studies Programme, Humanities Programme and Science &amp; Math Talent Programme.
-    2.  Specialized Programmes outside curriculum hours in school such as Malay Special Programme or outside school such as 3rd Language offered at the Ministry of Education Language Centre.
-4.  the&nbsp;**Enrichment Programme**&nbsp;which offers options for all or selected students outside curriculum hours.
+<ol>
+<li>the&nbsp;<strong>Core Academic Programme</strong>&nbsp;that is for all students and is mainly conducted during school hours,</li>
+<li>the&nbsp;<strong>Advanced Academic Programmes</strong>&nbsp;that are subject-specific for a selected group of Upper Secondary students with specific aptitude, attitude and strength. Students offer these subjects at greater depth of learning and lessons are conducted mainly during curriculum hours unless otherwise stated. Examples are Advanced Mathematics, Advanced Physics, Advanced Chemistry and Advanced Biology.</li>
+<li>the&nbsp;<strong>Academic Special Programmes</strong>&nbsp;that are subject-specific for selected groups of students with specific aptitude, attitude and strength. There are two components:<br>
+a.  Advanced Academic Programme with customised talent development programmes. Examples are Art Elective Programme, Higher Music Programme, Bicultural Studies Programme, Humanities Programme and Science &amp; Math Talent Programme.<br>
+b.  Specialized Programmes outside curriculum hours in school such as Malay Special Programme or outside school such as 3rd Language offered at the Ministry of Education Language Centre.</li>
+<li>the&nbsp;<strong>Enrichment Programme</strong>&nbsp;which offers options for all or selected students outside curriculum hours.</li>
+</ol>
+
 
 Students who are eligible for&nbsp;**Academic Special Programmes**&nbsp;are only allowed to take&nbsp;**one**&nbsp;Special Programme.
 
-* * *
 
-ASSESSMENT POLICY
------------------
+## ASSESSMENT POLICY
+
 
 Assessment in NYGH is integral to all teaching and learning. Assessment exists primarily to support and encourage student learning by enabling both teachers and students to gather and analyse the extent to which desired knowledge, understanding, skills and attitudes are effectively taught, learnt and demonstrated. This is done through two broad categories of assessment: Formative Assessment and Summative Assessment.
 
