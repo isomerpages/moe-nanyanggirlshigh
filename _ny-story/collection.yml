@@ -2,4 +2,5 @@ collections:
   ny-story:
     output: true
     order:
+      - Global Alumni.md
       - Financial Matters.md
