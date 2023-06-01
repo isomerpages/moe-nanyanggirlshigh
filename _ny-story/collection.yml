@@ -2,5 +2,6 @@ collections:
   ny-story:
     output: true
     order:
+      - Corporate Social Responsibility.md
       - Global Alumni.md
       - Financial Matters.md
