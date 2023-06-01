@@ -15,8 +15,8 @@ With our deep and strong local and foreign engagements, Nanyang Girls’ High Sc
 
 * * *
 
-Friends of Our Global Classroom Programme 2010-Present
-------------------------------------------------------
+### Friends of Our Global Classroom Programme 2010-Present
+
 
 ##### BEIJING
 
@@ -146,8 +146,8 @@ Ba Dinh Secondary School, Ho Chi Minh City
 
 * * *
 
-Strategic Alliance of Global Educators (SAGE)
----------------------------------------------
+### Strategic Alliance of Global Educators (SAGE)
+
 
 High School Affiliated to Fudan University  
 Hwa Chong Institution  
@@ -165,8 +165,7 @@ Nanshan High School
 
 * * *
 
-Strategic Educational Alliance of Southeast Asia (SEA2)
--------------------------------------------------------
+### Strategic Educational Alliance of Southeast Asia (SEA2)
 
 Assumption College  
 Hanoi- Amsterdam High School For the Gifted  
