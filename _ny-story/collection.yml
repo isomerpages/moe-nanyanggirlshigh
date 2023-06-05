@@ -2,6 +2,7 @@ collections:
   ny-story:
     output: true
     order:
+      - Achievements.md
       - BOD & Management Team.md
       - Global Partners.md
       - Corporate Social Responsibility.md
