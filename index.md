@@ -20,8 +20,8 @@ sections:
           url: /privacy/
   - infopic:
       title: Open House 2023
-      button: facebook updates
-      url: https://www.facebook.com/NanyangGirlsHighSchool/
+      button: explore nygh showcases
+      url: https://openhousenygh.com/
       image: /images/banner1.png
       alt: Image alt text
   - resources:
