@@ -33,4 +33,3 @@ Today, Nanyang has expanded into three well-established institutions: Nanyang Gi
 <img style="width:500px" src="/images/latestaddition.png">
 <br>
 #### [View in Full Screen Here](https://express.adobe.com/page/YM14pZjrBNvHC/)
-
