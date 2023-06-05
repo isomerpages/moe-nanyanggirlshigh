@@ -2,7 +2,7 @@ collections:
   ny-story:
     output: true
     order:
-      - Milestones.md
+      - About Us.md
       - Architecture Transformation.md
       - Achievements.md
       - BOD & Management Team.md
