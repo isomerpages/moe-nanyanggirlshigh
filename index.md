@@ -24,4 +24,8 @@ sections:
       url: https://www.facebook.com/NanyangGirlsHighSchool/
       image: /images/banner1.png
       alt: Image alt text
+  - resources:
+      title: News
+      subtitle: our latest & archives
+      button: Read more
 ---
