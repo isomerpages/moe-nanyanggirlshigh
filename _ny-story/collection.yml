@@ -2,6 +2,7 @@ collections:
   ny-story:
     output: true
     order:
+      - Architecture Transformation.md
       - Achievements.md
       - BOD & Management Team.md
       - Global Partners.md
