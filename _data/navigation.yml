@@ -9,4 +9,9 @@ links:
   - title: Join Us
     collection: join-us
   - title: Quicklinks
-    collection: quicklinks
+    url: /quicklinks
+    sublinks:
+      - title: News
+        url: /news/
+      - title: Events
+        url: /events/
