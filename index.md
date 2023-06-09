@@ -30,6 +30,12 @@ sections:
       alt: Image alt text
       url: https://www.nanyang.org.sg/
       button: Nanyang.org.sg
+  - infopic:
+      title: A Founding Member of
+      button: Sagesch.org
+      url: https://sagesch.org/
+      image: /images/founding.png
+      alt: Image alt text
   - resources:
       title: News
       subtitle: our latest & archives
