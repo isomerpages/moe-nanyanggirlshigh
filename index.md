@@ -24,6 +24,10 @@ sections:
       url: https://openhousenygh.com/
       image: /images/banner1.png
       alt: Image alt text
+  - infopic:
+      title: Our Partners
+      image: /images/ourpartners.png
+      alt: Image alt text
   - resources:
       title: News
       subtitle: our latest & archives
