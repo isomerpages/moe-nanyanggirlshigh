@@ -28,6 +28,8 @@ sections:
       title: Our Partners
       image: /images/ourpartners.png
       alt: Image alt text
+      url: https://www.nanyang.org.sg/
+      button: Nanyang.org.sg
   - resources:
       title: News
       subtitle: our latest & archives
