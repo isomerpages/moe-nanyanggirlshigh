@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Click [HERE](/files/el_impt_info_for_sec_1_students_ay2022.pdf) for details
