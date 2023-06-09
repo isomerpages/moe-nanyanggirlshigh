@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+**AY2022 Secondary1 Booklist**
+
+Click [HERE](/files/nygh_ay2022_s1_booklist.pdf) for details
+
+**AY2022 Sale of School Uniforms**
+
+Click [HERE](/files/nygh_sale_of_school_uniforms.pdf) for details
