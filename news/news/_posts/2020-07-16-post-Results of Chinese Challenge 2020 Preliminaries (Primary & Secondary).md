@@ -10,7 +10,7 @@ image: ""
 <br>
 
 
-##### **PRIMARY SCHOOL CATEGORY**
+#### **PRIMARY SCHOOL CATEGORY**
 
 **Congratulations to the following schools that have made it to the Final.**
 
@@ -46,7 +46,7 @@ image: ""
 | 19 | Temasek Primary School | 淡马锡小学 | Qiu Tailai | 邱泰来 |
 | 20 | Xingnan Primary School | 醒南小学 | Liu Shicheng | 刘是成 |
 
-##### **SECONDARY SCHOOL CATEGORY**
+#### **SECONDARY SCHOOL CATEGORY**
 
 **Congratulations to the following schools that have made it to the Final.**
 
