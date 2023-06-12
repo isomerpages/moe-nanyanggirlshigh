@@ -57,72 +57,73 @@ description: ""
 
 2019
 ----
-<a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+<a href="">
+<img style="width:500px" src="/images/genny_2019_open_house_edition_1.jpg">
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_2019_open_house_edition_1.jpg?itok=CAuGDFju)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2019_open_house_edition.pdf)
 
 [2019 OPEN HOUSE EDITION](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2019_open_house_edition.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+	
+</a><a href="/files/genny_2019_ny_family_edition.pdf">
+<img style="width:500px" src="/images/genny_2019_ny_family_edition_1.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_2019_ny_family_edition_1.jpg?itok=TeTY9X9H)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2019_ny_family_edition.pdf)
 
-[2019 FAMILY EDITION](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2019_ny_family_edition.pdf)
-
+[2019 FAMILY EDITION](/files/genny_2019_ny_family_edition.pdf)
+	
 	
 ## 2018
 
 	
-	
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+<a href="">
+<img style="width:500px" src="/images/genny2018_1_thumbnail.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny2018_1_thumbnail.jpg?itok=ihOk0WyZ)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2018issue1.pdf)
 
 [2018 ISSUE 1](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2018issue1.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+	
+<a href="http://spark.adobe.com/page/Tm6uoXEYbr2Oz/">
+<img style="width:500px" src="/images/thumb_nygen_2018issue1.jpg">
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/thumb_nygen_2018issue1.jpg?itok=382JF4TP)](http://spark.adobe.com/page/Tm6uoXEYbr2Oz/)
 
 [2018 ISSUE 1 ONLINE VERSION](http://spark.adobe.com/page/Tm6uoXEYbr2Oz/)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+	
+</a><a href="http://spark.adobe.com/page/BPT2e8IaDFZvb/">
+<img style="width:500px" src="/images/2018_issue_2_thumbnail.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/2018_issue_2_thumbnail.jpg?itok=VEb83jSW)](http://spark.adobe.com/page/BPT2e8IaDFZvb/)
 
 [2018 ISSUE 2](http://spark.adobe.com/page/BPT2e8IaDFZvb/)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+
+	
+<a href="">
+<img style="width:500px" src="/images/family_edition_2018_thumbnail_0.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/family_edition_2018_thumbnail_0.jpg?itok=KCVR0ZfW)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/family_edition_2018_highres_pdf.pdf)
+
 
 [2018 FAMILY EDITION](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/family_edition_2018_highres_pdf.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+
+<a href="http://spark.adobe.com/page/1cI1izGYsfr6A/">
+<img style="width:500px" src="/images/web_thumb_2018_iss_3.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/web_thumb_2018_iss_3.jpg?itok=-VoV8AMN)](http://spark.adobe.com/page/1cI1izGYsfr6A/)
+
 
 [2018 ISSUE 3](http://spark.adobe.com/page/1cI1izGYsfr6A/)
 
-2017
-----
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+## 2017
+
+<a href="/files/revised_for_web_2.pdf">
+<img style="width:500px" src="/images/genny_thumbnail_1.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_thumbnail_1.jpg?itok=JWkQ3Hj9)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/revised_for_web_2.pdf)
 
-[2017 ISSUE 1](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/revised_for_web_2.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
+
+[2017 ISSUE 1](/files/revised_for_web_2.pdf)
+
+<a href="https://www.flickr.com/photos/148465641@">
 <img style="width:500px" src="/images/">
 <br>
 
