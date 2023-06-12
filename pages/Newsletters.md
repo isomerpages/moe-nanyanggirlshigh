@@ -20,15 +20,16 @@ description: ""
 
 [GENERATION NY ONLINE](http://generationny.home.blog/)
 
-2021
-----</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+## 2021
+	
+	
+</a><a href="/files/nygh_v3.pdf">
+<img style="width:500px" src="/images/newsletter-cover-portrait.jpg">
 <br>
 
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/newsletter-cover-portrait.jpg?itok=2fmHNPjA)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_v3.pdf)
-
 [2021 ISSUE 1](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_v3.pdf)
+	
 </a><a href="https://www.flickr.com/photos/148465641@">
 <img style="width:500px" src="/images/">
 <br>
