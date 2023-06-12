@@ -123,62 +123,66 @@ description: ""
 
 [2017 ISSUE 1](/files/revised_for_web_2.pdf)
 
-<a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+<a href="/files/genny_2017issue2.pdf">
+<img style="width:500px" src="/images/thumb_nygen_2017issue_2_0.jpg">
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/thumb_nygen_2017issue_2_0.jpg?itok=hj9a-OzO)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2017issue2.pdf)
 
-[2017 ISSUE 2](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2017issue2.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+
+[2017 ISSUE 2](/files/genny_2017issue2.pdf)
+	
+</a><a href="/files/">
+<img style="width:500px" src="/images/genny_thumb_2017issue3.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_thumb_2017issue3.jpg?itok=OrYDqm_t)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/gen_ny_2017_issue_3_compressed.pdf)
 
-[2017 ISSUE 3](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/gen_ny_2017_issue_3_compressed.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+
+<b>file more than 5mb</b>
+	[2017 ISSUE 3](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/gen_ny_2017_issue_3_compressed.pdf)
+	
+<a href="">
+<img style="width:500px" src="/images/2017_4_thumbnail.jpg">
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/2017_4_thumbnail.jpg?itok=MV0pdyZx)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_newsletter_nov_2017_online_0.pdf)
-
-[2017 ISSUE 4](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_newsletter_nov_2017_online_0.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+<b>file more than 5mb</b> [2017 ISSUE 4](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_newsletter_nov_2017_online_0.pdf)
+	
+	
+</a><a href="http://spark.adobe.com/page/LXbTOOkdAPHk5/">
+<img style="width:500px" src="/images/gen_ny_thumb_2017issue3_0.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/gen_ny_thumb_2017issue3_0.jpg?itok=wYTgON5V)](http://spark.adobe.com/page/LXbTOOkdAPHk5/)
+
 
 [2017 SPECIAL EDITION](http://spark.adobe.com/page/LXbTOOkdAPHk5/)
 
 ## 2016
 
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+<a href="">
+<img style="width:500px" src="/images/genny_2016_issue_1_thumbnail.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_2016_issue_1_thumbnail.jpg?itok=kx-Zk0hv "GenNY 2016 Issue 1_Thumbnail")](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/generation_ny_issue_1_2016.pdf)
+<b>file more than 5mb</b>
 
 [2016 ISSUE 1](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/generation_ny_issue_1_2016.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+	
+<a href="">
+<img style="width:500px" src="/images/genny_2016_issue_2_thumbnail.jpg"></a>
 <br>
 
-[![GenNY 2016 Issue 2_Thumbnail](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_2016_issue_2_thumbnail.jpg?itok=7g5t0wYc "GenNY 2016 Issue 2_Thumbnail")](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/generation_ny_issue_2_2016_0.pdf)
 
-[2016 ISSUE 2](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/generation_ny_issue_2_2016_0.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+
+<b>file more than 5mb</b>[2016 ISSUE 2](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/generation_ny_issue_2_2016_0.pdf)
+	
+<a href="">
+<img style="width:500px" src="/images/genny_2016_issue_3_thumbnail.jpg"></a>
 <br>
 
-[![GenNY 2016 Issue 3_Thumbnail](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_2016_issue_3_thumbnail.jpg?itok=EHpmAptL "GenNY 2016 Issue 3_Thumbnail")](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nynewsletter_issue3_2016.pdf)
 
-[2016 ISSUE 3](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nynewsletter_issue3_2016.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+<b>file more than 5mb</b>[2016 ISSUE 3](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nynewsletter_issue3_2016.pdf)
+	
+<a href="">
+<img style="width:500px" src="/images/genny_2016_issue_4_thumbnail.jpg">
 <br>
 
-[![genny_2016_issue_4_thumbnail.jpg](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/genny_2016_issue_4_thumbnail.jpg?itok=XSR6puHv "genny_2016_issue_4_thumbnail.jpg")](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_2016_nov_issue_v4.pdf)
 
-[2016 ISSUE 4](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_2016_nov_issue_v4.pdf)</a>
+<b>file more than 5mb</b>[2016 ISSUE 4](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_2016_nov_issue_v4.pdf)</a>
