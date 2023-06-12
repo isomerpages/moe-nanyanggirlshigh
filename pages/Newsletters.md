@@ -6,7 +6,7 @@ description: ""
 ## 2022
 
 <a href="/files/nyfamily_edition_2022_for_web.pdf">
-<img style="width:500px" src="/images/genny_family_edition_2022.jpg">
+<img style="width:500px" src="/images/genny_family_edition_2022.jpg"></a>
 <br>
 
 
@@ -15,7 +15,7 @@ description: ""
 ### Online Newsletter
 
 	
-</a><a href="http://generationny.home.blog/"><img style="width:500px" src="/images/genny-thumbnail-1.jpg">
+<a href="http://generationny.home.blog/"><img style="width:500px" src="/images/genny-thumbnail-1.jpg"></a>
 <br>
 
 [GENERATION NY ONLINE](http://generationny.home.blog/)
@@ -23,41 +23,41 @@ description: ""
 ## 2021
 	
 	
-</a><a href="/files/nygh_v3.pdf">
-<img style="width:500px" src="/images/newsletter-cover-portrait.jpg">
+<a href="/files/nygh_v3.pdf">
+<img style="width:500px" src="/images/newsletter-cover-portrait.jpg"></a>
 <br>
 
 
-[2021 ISSUE 1](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_v3.pdf)
+[2021 ISSUE 1](/files/nygh_v3.pdf)
 	
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+<a href="/files/nygh_web_version.pdf">
+<img style="width:500px" src="/images/2021_issue02.png">
+<br></a>
+
+
+[2021 FAMILY EDITION](/files/nygh_web_version.pdf)
+
+## 2020
+
+<a href="/files/2020_open_house_edition.pdf">
+<img style="width:500px" src="/images/2020_open_house_edition-1.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/2021_issue02.png?itok=7YmZ82nr)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_web_version.pdf)
 
-[2021 FAMILY EDITION](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/nygh_web_version.pdf)
 
-2020
-----
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
+[2020 OPEN HOUSE EDITION](/files/2020_open_house_edition.pdf)
+
+
+<a href="/files/2020_family_edition.pdf">
+<img style="width:500px" src="/images/2020_family_edition-1.jpg"></a>
 <br>
 
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/2020_open_house_edition-1.jpg?itok=HqluDRbH)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/2020_open_house_edition.pdf)
 
-[2020 OPEN HOUSE EDITION](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/2020_open_house_edition.pdf)
-</a><a href="https://www.flickr.com/photos/148465641@">
-<img style="width:500px" src="/images/">
-<br>
-
-[![](https://www.nygh.edu.sg/sites/default/files/styles/newsletter__420x595_/public/newsletters/2020_family_edition-1.jpg?itok=C-wQDEJL)](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/2020_family_edition.pdf)
-
-[2020 FAMILY EDITION](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/2020_family_edition.pdf)
+[2020 FAMILY EDITION](/files/2020_family_edition.pdf)
 
 2019
 ----
-</a><a href="https://www.flickr.com/photos/148465641@">
+<a href="https://www.flickr.com/photos/148465641@">
 <img style="width:500px" src="/images/">
 <br>
 
