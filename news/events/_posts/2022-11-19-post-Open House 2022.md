@@ -6,3 +6,22 @@ layout: post
 description: ""
 image: ""
 ---
+<img style="width:500px" src="/images/web_banner-825x460.png">
+<br>
+
+
+*   **Start**&nbsp;8:00 AM - Nov 19 2022
+*   **End**&nbsp;12:00 PM - Nov 19 2022
+*   &nbsp;Nanyang Girls’ High School
+
+  
+
+It's time to bring the virtual experience back to reality! We are hosting the physical Open House on 19 Nov 2022, Saturday.&nbsp;
+
+There will be booths set up to showcase our holistic programmes and CCAs. Visit us and learn more about the curriculum and programmes that we offer to nurture our girls into women of character, empowered learners and agents of change. Talk to our students to understand what it means to be a Nanyang Girl.&nbsp;
+
+Please note that：&nbsp;
+
+1\. TraceTogether App/Token is required to enter the campus.&nbsp;
+
+2\. As the Friend of LTA, we encourage everyone to take public transport. There will be no parking provided.
