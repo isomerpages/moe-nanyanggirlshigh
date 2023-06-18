@@ -179,4 +179,6 @@ This event is jointly organised by Singapore Press Holdings Chinese Media Group 
 
 ##### APPLICATION FORMS
 
+Note: This application form is in excel, isomer only supports file in pdf. need to convert  accordingly
+
 *   [**NATIONAL CHINESE CHALLENGE 2020 (SECONDARY)**](https://www.nygh.edu.sg/sites/default/files/nationalchallenge_form_sec_2020_0.xlsx)
