@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+*   **Start** 8:30 AM - Nov 1 2021
+*   **End** 1:30 PM - Nov 1 2021
+*   **Location** Nanyang Girls’ High School
+
+  
+
+Please click [HERE](/join-us/as_students) to view details.
