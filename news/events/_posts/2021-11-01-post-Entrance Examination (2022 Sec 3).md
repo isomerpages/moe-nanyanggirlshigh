@@ -12,4 +12,4 @@ image: ""
 
   
 
-Please click [HERE](/join-us/as_students) to view details.
+Please click [HERE](/join-us/as-students) to view details.
