@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/banner2.png
   - resources:
-      title: News
+      title: Announcements
       subtitle: our latest & archives
       button: Read more
   - infopic:
-      title: Open House 2023
-      button: explore nygh showcases
+      title: News
+      button: Waht's happening
       url: https://openhousenygh.com/
       image: /images/banner1.png
       alt: Image alt text
@@ -22,23 +22,10 @@ sections:
       title: Our Partners
       image: /images/ourpartners.png
       alt: Image alt text
-      url: https://www.nanyang.org.sg/
-      button: Nanyang.org.sg
   - infopic:
       title: A Founding Member of
       button: Sagesch.org
       url: https://sagesch.org/
       image: /images/founding.png
-      alt: Image alt text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
 ---
