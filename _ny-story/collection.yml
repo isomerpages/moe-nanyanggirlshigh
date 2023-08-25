@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - About Us.md
+      - BOD & Management Team.md
       - Architecture Transformation.md
       - Achievements.md
-      - BOD & Management Team.md
       - Global Partners.md
-      - Corporate Social Responsibility.md
       - Global Alumni.md
       - Financial Matters.md
+      - Corporate Social Responsibility.md
