@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/banner2.png
+  - resources:
+      title: News
+      subtitle: our latest & archives
+      button: Read more
   - infopic:
       title: Open House 2023
       button: explore nygh showcases
@@ -26,10 +30,6 @@ sections:
       url: https://sagesch.org/
       image: /images/founding.png
       alt: Image alt text
-  - resources:
-      title: News
-      subtitle: our latest & archives
-      button: Read more
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
