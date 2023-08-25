@@ -15,7 +15,7 @@ sections:
   - infopic:
       title: News
       button: Waht's happening
-      url: https://openhousenygh.com/
+      url: /news
       image: /images/banner1.png
       alt: Image alt text
   - infopic:
