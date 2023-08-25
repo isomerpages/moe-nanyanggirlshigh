@@ -13,6 +13,5 @@ Latest news on [Facebook](https://www.facebook.com/NanyangGirlsHighSchool)
 
 GenNY Editions
 
-2023 Gen NY Family Edition
+2023 Gen NY Family Edition [PDF](/files/Newsletters/2020_family_edition.pdf)
 ![](/images/genny_family_edition_2022.jpg)
-
