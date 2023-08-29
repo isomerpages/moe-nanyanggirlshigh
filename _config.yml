@@ -1,20 +1,20 @@
 title: Nanyang Girls' High Shool
 url: https://www.nygh.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/school-crest.png
 colors:
-  primary-color: "#13ddd8"
-  secondary-color: "#4a4a4a"
+  primary-color: "#0fbdf2"
+  secondary-color: "#ffc400"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#00558d"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#00558d"
     - title: media-color-three
-      color: "#00838f"
+      color: "#00558d"
     - title: media-color-four
-      color: "#00838f"
+      color: "#00558d"
     - title: media-color-five
-      color: "#00838f"
+      color: "#00558d"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
