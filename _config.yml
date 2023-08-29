@@ -3,7 +3,7 @@ url: https://www.nygh.edu.sg
 favicon: /images/school-crest.png
 colors:
   primary-color: "#0fbdf2"
-  secondary-color: "#ffc400"
+  secondary-color: "#00558d"
   media-colors:
     - title: media-color-one
       color: "#00558d"
