@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner2.png
+      background: /images/schoolfacadenew.jpg
   - resources:
       title: Announcements
       subtitle: our latest & archives
