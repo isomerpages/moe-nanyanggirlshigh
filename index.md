@@ -20,12 +20,12 @@ sections:
       alt: Image alt text
   - infopic:
       title: Our Partners
-      image: /images/ourpartners.png
+      image: /images/partner-logos.png
       alt: Image alt text
   - infopic:
       title: A Founding Member of
       button: Sagesch.org
       url: https://sagesch.org/
-      image: /images/founding.png
+      image: /images/founder-logos.png
       alt: Image alt text
 ---
