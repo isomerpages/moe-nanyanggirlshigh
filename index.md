@@ -10,11 +10,10 @@ sections:
       background: /images/schoolfacadenew.jpg
   - resources:
       title: Announcements
-      subtitle: our latest & archives
       button: Read more
   - infopic:
       title: News
-      button: Waht's happening
+      button: Read our latest news
       url: /news
       image: /images/banner1.png
       alt: Image alt text
