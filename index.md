@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Nanyang Girls' High Shool
-description: An Isomer site of the Singapore Government
+description: Official website of Nanyang Girls' High School in Singapore
 image: /images/school-crest.png
 permalink: /
 notification: ""
