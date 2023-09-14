@@ -9,8 +9,9 @@ description: ""
 <img style="width:500px" src="/images/genny_family_edition_2022.jpg"></a>
 <br>
 
-
 [GENNY FAMILY EDITION](/files/nyfamily_edition_2022_for_web.pdf)
+
+<hr>
 
 ### Online Newsletter
 
@@ -19,6 +20,8 @@ description: ""
 <br>
 
 [GENERATION NY ONLINE](http://generationny.home.blog/)
+
+<hr>
 
 ## 2021
 	
@@ -36,6 +39,7 @@ description: ""
 
 
 [2021 FAMILY EDITION](/files/nygh_web_version.pdf)
+<hr>
 
 ## 2020
 
@@ -55,6 +59,8 @@ description: ""
 
 [2020 FAMILY EDITION](/files/2020_family_edition.pdf)
 
+<hr>
+
 2019
 ----
 <a href="">
@@ -71,7 +77,8 @@ description: ""
 
 [2019 FAMILY EDITION](/files/genny_2019_ny_family_edition.pdf)
 	
-	
+<hr>
+
 ## 2018
 
 	
@@ -112,6 +119,8 @@ description: ""
 
 
 [2018 ISSUE 3](http://spark.adobe.com/page/1cI1izGYsfr6A/)
+
+<hr>
 
 ## 2017
 
@@ -154,6 +163,8 @@ description: ""
 
 
 [2017 SPECIAL EDITION](http://spark.adobe.com/page/LXbTOOkdAPHk5/)
+
+<hr>
 
 ## 2016
 
