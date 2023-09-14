@@ -3,11 +3,16 @@ title: NYGH News
 permalink: /news/
 description: NYGH news
 ---
-# **Latest news on**
+### **Latest news on**
 
-![](/images/instagram_glyph_gradient_rgb.png)[Instagram](https://www.instagram.com/nygh_official/) 
+<a href="https://www.instagram.com/nygh_official/">
+<img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/instagram_glyph_gradient_rgb.png"></a>
+<a href="https://www.facebook.com/NanyangGirlsHighSchool">
+<img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/f_logo_rgb-blue_250.png"></a>
 
-Latest news on [Facebook](https://www.facebook.com/NanyangGirlsHighSchool)
+<br style="clear:both">
+
+<hr>
 
 [Generation NY](http://generationny.home.blog/): Our online newsletter
 
