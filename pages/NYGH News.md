@@ -3,9 +3,9 @@ title: NYGH News
 permalink: /news/
 description: NYGH news
 ---
-Here goes the overview of NYGH news. 
+# **Latest news on**
 
-Latest news on [Instagram](https://www.instagram.com/nygh_official/)
+![](/images/instagram_glyph_gradient_rgb.png)[Instagram](https://www.instagram.com/nygh_official/) 
 
 Latest news on [Facebook](https://www.facebook.com/NanyangGirlsHighSchool)
 
