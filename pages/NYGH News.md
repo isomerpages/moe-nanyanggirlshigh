@@ -7,9 +7,9 @@ description: NYGH news
 
 ### **Social Media**
 
-<a href="https://www.instagram.com/nygh_official/">
+<a target="\_blank" href="https://www.instagram.com/nygh_official/">
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/instagram_glyph_gradient_rgb.png"></a>
-<a href="https://www.facebook.com/NanyangGirlsHighSchool">
+<a target="\_blank" href="https://www.facebook.com/NanyangGirlsHighSchool">
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/f_logo_rgb-blue_250.png"></a>
 <br style="clear:both">
 
@@ -17,7 +17,7 @@ description: NYGH news
 
 ### **Online Newsletter: Generation NY**
 
-<a href="http://generationny.home.blog/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny-thumbnail-1.jpg"></a>
+<a target="\_blank" href="http://generationny.home.blog/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny-thumbnail-1.jpg"></a>
 <br style="clear:both">
 
 <hr>
