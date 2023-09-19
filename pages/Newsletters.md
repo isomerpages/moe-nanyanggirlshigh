@@ -3,80 +3,63 @@ title: Newsletters
 permalink: /newsletters/
 description: ""
 ---
-## 2022
+### **2022 Generation NY**
 
-<a href="/files/nyfamily_edition_2022_for_web.pdf">
-<img style="width:500px" src="/images/genny_family_edition_2022.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg"></a>
 <br>
+	<a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf">FAMILY EDITION</a>
+</div>
 
-[GENNY FAMILY EDITION](/files/nyfamily_edition_2022_for_web.pdf)
+<br style="clear:both">
 
 <hr>
 
-### Online Newsletter
 
+### **2021 Generation NY**
 	
-<a href="http://generationny.home.blog/"><img style="width:500px" src="/images/genny-thumbnail-1.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/nygh_v3.pdf"><img style="width:200px;" src="/images/newsletter-cover-portrait.jpg"></a>
 <br>
+	<a target="\_blank" href="/files/nygh_v3.pdf">ISSUE 1</a>
+</div>
+<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/nygh_web_version.pdf"><img style="width:200px;" src="/images/2021_issue02.png"></a>
+<br>
+	<a target="\_blank" href="/files/nygh_web_version.pdf">FAMILY EDITION</a>
+</div>
 
-[GENERATION NY ONLINE](http://generationny.home.blog/)
+<br style="clear:both">
 
 <hr>
 
-## 2021
-	
-	
-<a href="/files/nygh_v3.pdf">
-<img style="width:500px" src="/images/newsletter-cover-portrait.jpg"></a>
+### **2020 Generation NY**
+
+<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/2020_open_house_edition.pdf"><img style="width:200px;" src="/images/2020_open_house_edition-1.jpg"></a>
 <br>
-
-
-[2021 ISSUE 1](/files/nygh_v3.pdf)
-	
-<a href="/files/nygh_web_version.pdf">
-<img style="width:500px" src="/images/2021_issue02.png">
-<br></a>
-
-
-[2021 FAMILY EDITION](/files/nygh_web_version.pdf)
-<hr>
-
-## 2020
-
-<a href="/files/2020_open_house_edition.pdf">
-<img style="width:500px" src="/images/2020_open_house_edition-1.jpg"></a>
+	<a target="\_blank" href="/files/2020_open_house_edition.pdf">OPEN HOUSE EDITION</a>
+</div>
+<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/2020_family_edition.pdf"><img style="width:200px;" src="/images/2020_family_edition-1.jpg"></a>
 <br>
+	<a target="\_blank" href="/files/2020_family_edition.pdf">FAMILY EDITION</a>
+</div>
 
+<br style="clear:both">
 
-
-[2020 OPEN HOUSE EDITION](/files/2020_open_house_edition.pdf)
-
-
-<a href="/files/2020_family_edition.pdf">
-<img style="width:500px" src="/images/2020_family_edition-1.jpg"></a>
-<br>
-
-
-[2020 FAMILY EDITION](/files/2020_family_edition.pdf)
 
 <hr>
 
-2019
-----
-<a href="">
-<img style="width:500px" src="/images/genny_2019_open_house_edition_1.jpg">
+### **2019 Generation NY**
+
+<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny_2019_open_house_edition_1.jpg"></a>
 <br>
-
-
-[2019 OPEN HOUSE EDITION](https://www.nygh.edu.sg/sites/default/files/newsletters_pdf/genny_2019_open_house_edition.pdf)
-	
-</a><a href="/files/genny_2019_ny_family_edition.pdf">
-<img style="width:500px" src="/images/genny_2019_ny_family_edition_1.jpg"></a>
+	<a target="\_blank" href="">OPEN HOUSE EDITION</a>
+	OPEN HOUSE EDITION
+</div>
+<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/genny_2019_ny_family_edition.pdf"><img style="width:200px;" src="/images/genny_2019_ny_family_edition_1.jpg"></a>
 <br>
+	<a target="\_blank" href="/files/genny_2019_ny_family_edition.pdf">FAMILY EDITION</a>
+</div>
 
+<br style="clear:both">
 
-[2019 FAMILY EDITION](/files/genny_2019_ny_family_edition.pdf)
-	
 <hr>
 
 ## 2018
