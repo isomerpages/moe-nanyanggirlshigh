@@ -15,7 +15,7 @@ sections:
       title: News
       button: Read our latest news
       url: /news
-      image: /images/banner1.png
+      image: /images/nygen-thumbnail.png
       alt: Image alt text
   - infopic:
       title: Our Partners
