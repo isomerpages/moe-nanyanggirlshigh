@@ -3,7 +3,9 @@ title: NYGH News
 permalink: /news/
 description: NYGH news
 ---
-### **Latest news on**
+## **Read our latest news on** 
+
+### **Social Media**
 
 <a href="https://www.instagram.com/nygh_official/">
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/instagram_glyph_gradient_rgb.png"></a>
@@ -14,6 +16,9 @@ description: NYGH news
 
 <hr>
 
+### **Newsletter: Generation NY**
+
+![](/images/genny-thumbnail-1.jpg)
 [Generation NY](http://generationny.home.blog/): Our online newsletter
 
 GenNY Editions
