@@ -3,15 +3,9 @@ title: Newsletters
 permalink: /newsletters/
 description: ""
 ---
-<style>
-a[href$=".pdf"\]:before {
-display:none;
-}	
-	</style>
-
 ### **2022 Generation NY**
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg">
 <br>
 	<a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf">FAMILY EDITION</a>
 </div>
@@ -23,12 +17,12 @@ display:none;
 
 ### **2021 Generation NY**
 	
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/nygh_v3.pdf"><img style="width:200px;" src="/images/newsletter-cover-portrait.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/newsletter-cover-portrait.jpg">
 <br>
 	<a target="\_blank" href="/files/nygh_v3.pdf">ISSUE 1</a>
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/nygh_web_version.pdf"><img style="width:200px;" src="/images/2021_issue02.png"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2021_issue02.png">
 <br>
 	<a target="\_blank" href="/files/nygh_web_version.pdf">FAMILY EDITION</a>
 </div>
@@ -39,12 +33,12 @@ display:none;
 
 ### **2020 Generation NY**
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/2020_open_house_edition.pdf"><img style="width:200px;" src="/images/2020_open_house_edition-1.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2020_open_house_edition-1.jpg">
 <br>
 	<a target="\_blank" href="/files/2020_open_house_edition.pdf">OPEN HOUSE EDITION</a>
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/2020_family_edition.pdf"><img style="width:200px;" src="/images/2020_family_edition-1.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2020_family_edition-1.jpg">
 <br>
 	<a target="\_blank" href="/files/2020_family_edition.pdf">FAMILY EDITION</a>
 </div>
@@ -56,12 +50,12 @@ display:none;
 
 ### **2019 Generation NY**
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny_2019_open_house_edition_1.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2019_open_house_edition_1.jpg">
 <br>
 OPEN HOUSE EDITION
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/genny_2019_ny_family_edition.pdf"><img style="width:200px;" src="/images/genny_2019_ny_family_edition_1.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2019_ny_family_edition_1.jpg">
 <br>
 	<a target="\_blank" href="/files/genny_2019_ny_family_edition.pdf">FAMILY EDITION</a>
 </div>
@@ -72,27 +66,27 @@ OPEN HOUSE EDITION
 
 ### **2018 Generation NY**
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny2018_1_thumbnail.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny2018_1_thumbnail.jpg">
 <br>
 ISSUE 1
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="http://spark.adobe.com/page/Tm6uoXEYbr2Oz/"><img style="width:200px;" src="/images/thumb_nygen_2018issue1.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/thumb_nygen_2018issue1.jpg">
 <br>
 	<a target="\_blank" href="http://spark.adobe.com/page/Tm6uoXEYbr2Oz/">ISSUE 1 ONLINE VERSION</a>
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="http://spark.adobe.com/page/BPT2e8IaDFZvb/"><img style="width:200px;" src="/images/2018_issue_2_thumbnail.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2018_issue_2_thumbnail.jpg">
 <br>
 	<a target="\_blank" href="http://spark.adobe.com/page/BPT2e8IaDFZvb/">ISSUE 2 ONLINE VERSION</a>
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/family_edition_2018_thumbnail_0.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/family_edition_2018_thumbnail_0.jpg">
 <br>
 FAMILY EDITION
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="http://spark.adobe.com/page/1cI1izGYsfr6A/"><img style="width:200px;" src="/images/web_thumb_2018_iss_3.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/web_thumb_2018_iss_3.jpg">
 <br>
 	<a target="\_blank" href="http://spark.adobe.com/page/1cI1izGYsfr6A/">ISSUE 3 ONLINE VERSION</a>
 </div>
@@ -103,27 +97,27 @@ FAMILY EDITION
 
 ### **2017 Generation NY**
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/revised_for_web_2.pdf"><img style="width:200px;" src="/images/genny_thumbnail_1.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_thumbnail_1.jpg">
 <br>
 	<a target="\_blank" href="/files/revised_for_web_2.pdf">ISSUE 1</a>
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/genny_2017issue2.pdf"><img style="width:200px;" src="/images/thumb_nygen_2017issue_2_0.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/thumb_nygen_2017issue_2_0.jpg">
 <br>
 	<a target="\_blank" href="/files/genny_2017issue2.pdf">ISSUE 2</a>
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny_thumb_2017issue3.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_thumb_2017issue3.jpg">
 <br>
 ISSUE 3
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/2017_4_thumbnail.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2017_4_thumbnail.jpg">
 <br>
 ISSUE 4
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="http://spark.adobe.com/page/LXbTOOkdAPHk5/"><img style="width:200px;" src="/images/gen_ny_thumb_2017issue3_0.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/gen_ny_thumb_2017issue3_0.jpg">
 <br>
 	<a target="\_blank" href="http://spark.adobe.com/page/LXbTOOkdAPHk5/">SPECIAL EDITION</a>
 </div>
@@ -134,7 +128,7 @@ ISSUE 4
 
 ### **2016 Generation NY**
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny_2016_issue_1_thumbnail.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2016_issue_1_thumbnail.jpg">
 <br>
 ISSUE 1
 </div>
@@ -144,12 +138,12 @@ ISSUE 1
 ISSUE 2
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny_2016_issue_3_thumbnail.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2016_issue_3_thumbnail.jpg">
 <br>
 ISSUE 3
 </div>
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny_2016_issue_4_thumbnail.jpg"></a>
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2016_issue_4_thumbnail.jpg">
 <br>
 ISSUE 4
 </div>
