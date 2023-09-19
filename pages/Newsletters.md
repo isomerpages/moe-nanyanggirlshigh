@@ -107,8 +107,6 @@ FAMILY EDITION
 	<a target="\_blank" href="/files/genny_2017issue2.pdf">ISSUE 2</a>
 </div>
 
-<br style="clear:both">
-
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_thumb_2017issue3.jpg">
 <br>
 ISSUE 3
@@ -118,8 +116,6 @@ ISSUE 3
 <br>
 ISSUE 4
 </div>
-
-<br style="clear:both">
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/gen_ny_thumb_2017issue3_0.jpg">
 <br>
