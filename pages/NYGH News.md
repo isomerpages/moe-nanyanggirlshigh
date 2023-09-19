@@ -16,12 +16,13 @@ description: NYGH news
 
 <hr>
 
-### **Newsletter: Generation NY**
+### **Online Newsletter: Generation NY**
 
-![](/images/genny-thumbnail-1.jpg)
-[Generation NY](http://generationny.home.blog/): Our online newsletter
+<a href="http://generationny.home.blog/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny-thumbnail-1.jpg"></a>
+<br style="clear:both">
 
-GenNY Editions
+<hr>
 
-2023 Gen NY Family Edition [PDF](/files/Newsletters/2020_family_edition.pdf)
-![](/images/genny_family_edition_2022.jpg)
+### **PDF Newsletter: Generation NY**
+
+<img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny_family_edition_2022.jpg">
