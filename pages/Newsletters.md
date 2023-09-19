@@ -3,6 +3,12 @@ title: Newsletters
 permalink: /newsletters/
 description: ""
 ---
+<style>
+a[href$=".pdf"\]:before {
+display:none;
+}	
+	</style>
+
 ### **2022 Generation NY**
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg"></a>
@@ -150,4 +156,4 @@ ISSUE 4
 
 <br style="clear:both">
 		
-<hr>		
+<hr>
