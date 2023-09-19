@@ -3,7 +3,7 @@ title: NYGH News
 permalink: /news/
 description: NYGH news
 ---
-## **Read our latest news on** 
+## **Read our latest news on:** 
 
 ### **Social Media**
 
@@ -11,7 +11,6 @@ description: NYGH news
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/instagram_glyph_gradient_rgb.png"></a>
 <a href="https://www.facebook.com/NanyangGirlsHighSchool">
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/f_logo_rgb-blue_250.png"></a>
-
 <br style="clear:both">
 
 <hr>
@@ -25,4 +24,7 @@ description: NYGH news
 
 ### **PDF Newsletter: Generation NY**
 
-<img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny_family_edition_2022.jpg">
+<a href="/newsletters/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny_family_edition_2022.jpg"></a>
+<br style="clear:both">
+
+<hr>
