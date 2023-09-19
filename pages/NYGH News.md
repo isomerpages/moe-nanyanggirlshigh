@@ -3,7 +3,7 @@ title: NYGH News
 permalink: /news/
 description: NYGH news
 ---
-## **Read our latest news on:** 
+# **Read our latest news on:**
 
 ### **Social Media**
 
