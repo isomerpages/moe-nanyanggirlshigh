@@ -21,10 +21,12 @@ sections:
       title: Our Partners
       image: /images/partner-logos.png
       alt: Image alt text
+      url: /ourpartners
+      button: Visit our partners
   - infopic:
       title: A Founding Member of
-      button: Sagesch.org
-      url: https://sagesch.org/
+      button: our educational alliances
+      url: /alliances
       image: /images/founder-logos.png
       alt: Image alt text
 ---
