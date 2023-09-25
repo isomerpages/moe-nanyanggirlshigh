@@ -3,7 +3,6 @@ title: Our Alliances
 permalink: /alliances/
 description: ""
 ---
-
 <a target="\_blank" href="https://seaseasia.home.blog/"><img style="width:200px; float: left; margin: 10px 50px 10px 0px;" src="/images/sea2_iconlogo-c.png"></a>
 <br style="clear:both">
 ### **Strategic Educational Alliance of Southeast Asia**
@@ -13,8 +12,6 @@ SEA<sup>2</sup>&nbsp;aims to bring schools from Southeast Asia together to creat
 <li>Provide extended opportunities for students from across the region to work and play together, through experiential learning programmes, students’ forums, etc.</li>
 <li>Create platforms for member schools to further reach out to education institutions in other regions to enrich the learning experiences and development of students and educators</li>
 </ul>   
-
-**Website: https://seaseasia.home.blog/**
 
 <hr style="margin: 80px 0;">
 
@@ -33,5 +30,3 @@ Four Specialist Sectors of SAGE :
 	<li>&nbsp;Experiential Learning  </li>
 	<li>&nbsp;Student Well-Being</li>
 </ol>
-
-**Website: https://sagesch.org/**
