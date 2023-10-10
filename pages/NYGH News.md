@@ -3,9 +3,7 @@ title: NYGH News
 permalink: /news/
 description: NYGH news
 ---
-# **Read our latest news on:**
-
-### **Social Media**
+### **Read our latest news on:**
 
 <a target="\_blank" href="https://www.instagram.com/nygh_official/">
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/instagram_glyph_gradient_rgb.png"></a>
