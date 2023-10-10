@@ -22,7 +22,7 @@ description: NYGH news
 
 ### **PDF Newsletter: Generation NY**
 
-<a href="/newsletters/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny_family_edition_2022.jpg"></a>
+<a href="/newsletters/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/2023_genny_family_edition_thumbnail.png"></a>
 <br style="clear:both">
 
 <hr>
