@@ -7,8 +7,8 @@ description: ""
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2023_genny_family_edition_thumbnail.png">
 <br>
-FAMILY EDITION
-</div>
+	<a target="\_blank" href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf">FAMILY EDITION
+</a></div><a target="\_blank" href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf">
 
 <br style="clear:both">
 
@@ -16,9 +16,9 @@ FAMILY EDITION
 
 ### **2022 Generation NY**
 
-<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg">
+</a><div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg">
 <br>
-	<a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf">FAMILY EDITION</a>
+	</a><a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf">FAMILY EDITION</a>
 </div>
 
 <br style="clear:both">
@@ -63,7 +63,7 @@ FAMILY EDITION
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2019_open_house_edition_1.jpg">
 <br>
-OPEN HOUSE EDITION
+<a target="\_blank" href="/files/Newsletters/genny_2019_open_house_edition.pdf">OPEN HOUSE EDITION</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2019_ny_family_edition_1.jpg">
@@ -79,7 +79,7 @@ OPEN HOUSE EDITION
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny2018_1_thumbnail.jpg">
 <br>
-ISSUE 1
+	<a target="\_blank" href="/files/Newsletters/genny_2018issue1.pdf">ISSUE 1</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/thumb_nygen_2018issue1.jpg">
@@ -94,7 +94,7 @@ ISSUE 1
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/family_edition_2018_thumbnail_0.jpg">
 <br>
-FAMILY EDITION
+	<a target="\_blank" href="/files/Newsletters/family_edition_2018.pdf">FAMILY EDITION</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/web_thumb_2018_iss_3.jpg">
@@ -120,12 +120,12 @@ FAMILY EDITION
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_thumb_2017issue3.jpg">
 <br>
-ISSUE 3
+	<a target="\_blank" href="/files/Newsletters/gen_ny_2017_issue_3_compressed.pdf">ISSUE 3</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2017_4_thumbnail.jpg">
 <br>
-ISSUE 4
+	<a target="\_blank" href="/files/Newsletters/nygh_newsletter_nov_2017_online.pdf">ISSUE 4</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/gen_ny_thumb_2017issue3_0.jpg">
@@ -141,12 +141,12 @@ ISSUE 4
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2016_issue_1_thumbnail.jpg">
 <br>
-ISSUE 1
+	<a target="\_blank" href="/files/Newsletters/generation_ny_issue_1_2016.pdf">ISSUE 1</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href=""><img style="width:200px;" src="/images/genny_2016_issue_2_thumbnail.jpg"></a>
 <br>
-ISSUE 2
+	<a target="\_blank" href="/files/Newsletters/generation_ny_issue_2_2016_0.pdf">ISSUE 2</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2016_issue_3_thumbnail.jpg">
@@ -156,7 +156,7 @@ ISSUE 3
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2016_issue_4_thumbnail.jpg">
 <br>
-ISSUE 4
+	<a target="\_blank" href="/files/Newsletters/nygh_2016_nov_issue_v4.pdf">ISSUE 4</a>
 </div>
 
 <br style="clear:both">
