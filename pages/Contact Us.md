@@ -8,14 +8,14 @@ description: ""
 2 Linden Drive  <br>
 Singapore 288683
 
-Email:&nbsp;[nanyanggirls@nygh.edu.sg](mailto:nanyanggirls@nygh.edu.sg)  <br>
-Tel: (65) 6466 3275  <br>
-Fax: (65) 6466 7564
+**Email:**&nbsp;[nanyanggirls@nygh.edu.sg](mailto:nanyanggirls@nygh.edu.sg)  <br>
+**Tel:** (65) 6466 3275  <br>
+**Fax:** (65) 6466 7564
 
-Bus Services:&nbsp;&nbsp;  <br>
+**Bus Services:**&nbsp;&nbsp;  <br>
 66, 67, 74, 151, 151A, 154, 156, 157, 170, 174, 852, 961
 
-Nearest MRT:  <br>
+**Nearest MRT:**  <br>
 Sixth Avenue (DT7)
 
 ### Location Map
