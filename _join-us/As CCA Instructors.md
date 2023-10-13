@@ -105,7 +105,7 @@ Commencing 1 January 2024 to 31 December 2024
 </tbody>
 </table>
 
-To apply, please download a copy of the&nbsp;[APPLICATION FORM](/files/application_form_for_coach_or_instructor_0.pdf)&nbsp;and email it with supporting documents (eg.: Valid MOE registration, First Aid with CPR and AED certification, NROC membership, Dance CCA specialisation registration) to the following address latest by 15 December&nbsp;2022 12pm:
+o apply, please download a copy of the&nbsp;[APPLICATION FORM](/files/application_form_for_coach_or_instructor_0.pdf)&nbsp;and email it with supporting documents (eg.: Valid MOE registration, First Aid with CPR and AED certification, NROC membership, Dance CCA specialization registration) to the following address latest by&nbsp;29 September 2023 12pm:
 
 *   **Performing Arts:**&nbsp;[PERFORMING\_ARTS@NYGH.EDU.SG](mailto:performing_arts@nygh.edu.sg)
 *   **Sports &amp; Games:**&nbsp;[SPORTS\_GAMES@NYGH.EDU.SG](mailto:sports_games@nygh.edu.sg)
