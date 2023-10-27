@@ -20,14 +20,14 @@ Today, Nanyang has expanded into three well-established institutions: Nanyang Gi
 ###   HERITAGE
 <img style="width:500px" src="/images/heritagemap.png">
 
-##### <center>[View Stroy in Full Screen Here](https://express.adobe.com/page/B5w5Fh47zygSW/)</center>
+##### <center><a target="_blank" href="https://express.adobe.com/page/B5w5Fh47zygSW/"> View Stroy in Full Screen Here</a></center>
 <br>
 <br>
 
 ### Main Campus
 <img style="width:500px" src="/images/maincampus.png">
 
-##### <center>[View Stroy in Full Screen Here](https://express.adobe.com/page/wKXMOguXCmt9L/)</center>
+##### <center><a target="_blank" href="https://express.adobe.com/page/wKXMOguXCmt9L/">View Stroy in Full Screen Here</a></center>
 <br>	
 <br>
 
@@ -35,4 +35,4 @@ Today, Nanyang has expanded into three well-established institutions: Nanyang Gi
 <img style="width:500px" src="/images/latestaddition.png">
 <br>
 
-##### <center>[View Stroy in Full Screen Here](https://express.adobe.com/page/YM14pZjrBNvHC/)</center>
+##### <center><a target="_blank" href="https://express.adobe.com/page/YM14pZjrBNvHC/">View Stroy in Full Screen Here</a></center>
