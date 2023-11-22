@@ -1,15 +1,33 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/nyghlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: NY Story
+    collection: ny-story
+  - title: NY Experience
+    collection: ny-experience
+  - title: NY Curriculum
+    collection: ny-curriculum
+  - title: Join Us
+    collection: join-us
+  - title: Quicklinks
+    url: /quicklinks
+    sublinks:
+      - title: News
+        url: /news/
+      - title: Events
+        url: /news/events/
+      - title: School Calendar
+        url: https://calendar.google.com/calendar/embed?src=c_nigrkeo68hav1nmron3c2af474%40group.calendar.google.com&ctz=Asia%2FSingapore
+      - title: NYGH Portal
+        url: https://portal.nygh.edu.sg/
+      - title: NDLP Microsite
+        url: https://sites.google.com/nygh.edu.sg/nyghndlp
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login/
+      - title: NY Boarding School
+        url: http://www.nyboarding.edu.sg/
+      - title: NYGH Library
+        url: https://schoolibrary.moe.edu.sg/nygh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: Newsletters
+        url: /newsletters/
+  - title: 中文
+    url: https://www.cn.nygh.moe.edu.sg

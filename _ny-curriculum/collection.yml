@@ -1,0 +1,13 @@
+collections:
+  ny-curriculum:
+    output: true
+    order:
+      - Curriculum Framework/.keep
+      - Curriculum Framework/Curriculum Framework.md
+      - Curriculum Framework/Principles.md
+      - Curriculum Framework/Teaching & Learning Framework.md
+      - Curriculum Framework/Character and Leadership Development.md
+      - Curriculum Framework/ICT & EDTECH.md
+      - Curriculum Framework/Programmes.md
+      - Talent Development.md
+      - Co–Curricular Activities.md
