@@ -2,13 +2,14 @@
 title: Newsletters
 permalink: /newsletters/
 description: ""
+variant: markdown
 ---
 ### **2023 Generation NY**
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2023_genny_family_edition_thumbnail.png">
 <br>
-	<a target="\_blank" href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf">FAMILY EDITION
-</a></div><a target="\_blank" href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf">
+<a target="\_blank" href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf">FAMILY EDITION
+</a></div>
 
 <br style="clear:both">
 
@@ -16,9 +17,9 @@ description: ""
 
 ### **2022 Generation NY**
 
-</a><div style="float: left; margin: 20px 80px 80px 0px;"><a target="\_blank" href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg">
+<div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_family_edition_2022.jpg">
 <br>
-	</a><a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf">FAMILY EDITION</a>
+<a target="\_blank" href="/files/nyfamily_edition_2022_for_web.pdf">FAMILY EDITION</a>
 </div>
 
 <br style="clear:both">
@@ -30,7 +31,7 @@ description: ""
 	
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/newsletter-cover-portrait.jpg">
 <br>
-	<a target="\_blank" href="/files/nygh_v3.pdf">ISSUE 1</a>
+<a target="\_blank" href="/files/nygh_v3.pdf">ISSUE 1</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2021_issue02.png">
@@ -46,12 +47,12 @@ description: ""
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2020_open_house_edition-1.jpg">
 <br>
-	<a target="\_blank" href="/files/2020_open_house_edition.pdf">OPEN HOUSE EDITION</a>
+<a target="\_blank" href="/files/2020_open_house_edition.pdf">OPEN HOUSE EDITION</a>
 </div>
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/2020_family_edition-1.jpg">
 <br>
-	<a target="\_blank" href="/files/2020_family_edition.pdf">FAMILY EDITION</a>
+<a target="\_blank" href="/files/2020_family_edition.pdf">FAMILY EDITION</a>
 </div>
 
 <br style="clear:both">
@@ -68,7 +69,7 @@ description: ""
 
 <div style="float: left; margin: 20px 80px 80px 0px;"><img style="width:200px;" src="/images/genny_2019_ny_family_edition_1.jpg">
 <br>
-	<a target="\_blank" href="/files/genny_2019_ny_family_edition.pdf">FAMILY EDITION</a>
+<a target="\_blank" href="/files/genny_2019_ny_family_edition.pdf">FAMILY EDITION</a>
 </div>
 
 <br style="clear:both">
