@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 ---
 #### Guided by the school’s culture of excellence and vision to produce respected members of society, NYGH aims:  
-&nbsp;
-
 <ol>
 <li>To be an exemplar of good practices for others as an organization</li>
 <li>To be socially responsible role models</li>
