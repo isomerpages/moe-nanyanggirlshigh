@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Details will be released by&nbsp;8am, 21 Dec 2023 via Parents Gateway</p>
+<h4>Details will be released by&nbsp;8am, 21 Dec 2023 via Parents Gateway</h4><p></p>
