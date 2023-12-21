@@ -10,7 +10,7 @@ description: ""
 .tg .th-20{border:none; background-color:#00558D;color:#FFF;text-align:center;vertical-align:top;font-size:20px; width:20%}
 .tg .th-80{border:none; background-color:#FFF;color:#00558D;text-align:left;vertical-align:top;font-size:20px; width:80%}
 .tg .tg-20{border:none; background-color:#FFF;color:#FFF;text-align:center;vertical-align:top;font-size:20px; width:20%}
-.tg .tg-80{border-bottom:none; background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-left:1px solid #00558D; font-size:15px; width:80%}	
+.tg .tg-80{border-bottom:none; background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-left:1px solid #00558D; font-size:15px !important; width:80%}	
 </style>
 
 <table class="tg">  
