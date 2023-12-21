@@ -14,12 +14,12 @@ While academic distinction continues to be the hallmark of Nanyang girls, the vi
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;padding:30px 30px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;
   overflow:hidden;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jt2s{color:#055b74;text-align:left;vertical-align:top;padding:20px }
-.tg .tg-0lax{text-align:left;vertical-align:top;padding:20px}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;
+  font-weight:normal;overflow:hidden;word-break:normal;}
+.tg .tg-jt2s{color:#055b74;text-align:left;vertical-align:top;padding:20px 0px;font-size:18px;}
+.tg .tg-0lax{text-align:left;vertical-align:top;padding:20px 0px 20px 30px;font-size:14px;}
 </style>
 <table class="tg">
 <thead>
