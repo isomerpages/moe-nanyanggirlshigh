@@ -2,12 +2,13 @@
 title: Architecture Transformation
 permalink: /ny-story/architecture-transformation/
 description: ""
+variant: markdown
 ---
 The façade of Nanyang Girls' High School has rapidly become an iconic landmark in the Bukit Timah area of Singapore. Tall pink-brick walls and majestic columns symetrically arranged around a towering clocktower. Yet, hiding inside the building are many more interesting architectual features.
 
 This page is a visual journey of the architecture and spaces that help to define Nanyang. An exploration of the changing face of the buildings: Past, present and future.
 
-<img style="width:400px" src="/images/nyghheritagemap.jpg">
+<img style="width:100%" src="/images/nyghheritagemap.jpg">
 <br>
 
 
@@ -17,22 +18,21 @@ To accommodate the increasing enrolment, in 1919, the school moved to No. 10, a 
 
 Today, Nanyang has expanded into three well-established institutions: Nanyang Girls’ High School, Nanyang Primary School and Nanyang Kindergarten. The year 2017 marked the centennial of the Nanyang Family of Schools. May the Nanyang Family continue to grow and shine.&nbsp;
 
-###   HERITAGE
-<img style="width:500px" src="/images/heritagemap.png">
-
-##### <center><a target="_blank" href="https://express.adobe.com/page/B5w5Fh47zygSW/"> View Stroy in Full Screen Here</a></center>
+###   Heritage (1917 - 1999)
+<a target="_blank" href="https://express.adobe.com/page/B5w5Fh47zygSW/"><img style="width:100%" src="/images/Heritage.png"></a>
+					
+<center><a target="_blank" href="https://express.adobe.com/page/B5w5Fh47zygSW/"> View Stroy in Full Screen Here</a></center>
 <br>
 <br>
 
 ### Main Campus
-<img style="width:500px" src="/images/maincampus.png">
+<a target="_blank" href="https://express.adobe.com/page/wKXMOguXCmt9L/"><img style="width:100%" src="/images/MainCampus.png"></a>
 
-##### <center><a target="_blank" href="https://express.adobe.com/page/wKXMOguXCmt9L/">View Stroy in Full Screen Here</a></center>
+<center><a target="_blank" href="https://express.adobe.com/page/wKXMOguXCmt9L/">View Stroy in Full Screen Here</a></center>
 <br>	
 <br>
 
 ### Latest Addition
-<img style="width:500px" src="/images/latestaddition.png">
-<br>
+<a target="_blank" href="https://express.adobe.com/page/YM14pZjrBNvHC/"><img style="width:100%" src="/images/Latest_Addition.png"></a>
 
-##### <center><a target="_blank" href="https://express.adobe.com/page/YM14pZjrBNvHC/">View Stroy in Full Screen Here</a></center>
+<center><a target="_blank" href="https://express.adobe.com/page/YM14pZjrBNvHC/">View Stroy in Full Screen Here</a></center>
