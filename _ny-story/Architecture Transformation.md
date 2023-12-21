@@ -25,14 +25,14 @@ Today, Nanyang has expanded into three well-established institutions: Nanyang Gi
 <br>
 <br>
 
-### Main Campus
+### Main Campus (Since 1996)
 <a target="_blank" href="https://express.adobe.com/page/wKXMOguXCmt9L/"><img style="width:100%" src="/images/MainCampus.png"></a>
 
 <center><a target="_blank" href="https://express.adobe.com/page/wKXMOguXCmt9L/">View Stroy in Full Screen Here</a></center>
 <br>	
 <br>
 
-### Latest Addition
+### Latest Addition (2015 - Present)
 <a target="_blank" href="https://express.adobe.com/page/YM14pZjrBNvHC/"><img style="width:100%" src="/images/Latest_Addition.png"></a>
 
 <center><a target="_blank" href="https://express.adobe.com/page/YM14pZjrBNvHC/">View Stroy in Full Screen Here</a></center>
