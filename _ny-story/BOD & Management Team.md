@@ -2,11 +2,18 @@
 title: BOD & Management Team
 permalink: /ny-story/bod-management-team/
 description: ""
+variant: markdown
 ---
-##### PATRON
+##### HONORARY PATRON
 
-Mr Lee Kuan Yew (1923 - 2015)  
-(Former Minister Mentor, Singapore)
+Mdm Wee Bee Hoon
+
+* * *
+
+##### HONORARY DIRECTORS
+
+Mr Ong Pang Boon  
+Mr Tang See Chim
 
 * * *
 
@@ -39,17 +46,24 @@ Mr Ang Peng Koon Patrick
 * * *
 
 **Treasurer**  
-Mdm Ong Sioe Hong
+Mr Lim Wenbin, Darren
+
+* * *
+
+**Assistant Secretary**  
+Ms Lee Siok Tuan
 
 * * *
 
 **Director**  
-Ms Lee Siok Tuan  
+Mdm Ong Sioe Hong  
 Mr Ong Tze Guan  
 Prof Su Guaning  
 Ms Mok Shoon Terk  
 Mr Lum Wen Sum Kelvin  
-Mr Lim Wenbin, Darren
+Ms Tea Wei Li  
+Ms Tjioe Ka In  
+Ms Siau Fong Fui
 
 * * *
 
