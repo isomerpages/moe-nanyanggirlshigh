@@ -19,16 +19,14 @@ While academic distinction continues to be the hallmark of Nanyang girls, the vi
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;
   font-weight:normal;overflow:hidden;word-break:normal;}
 .tg .tg-jt2s{color:#055b74;text-align:left;vertical-align:top;padding:20px 0px;font-size:18px;}
-.tg .tg-0lax{text-align:left;vertical-align:top;padding:20px 0px 20px 30px;font-size:14px;}
+.tg .tg-0lax{text-align:left;vertical-align:top;padding:20px 0px 20px 30px;font-size:15px;}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-jt2s">School <br>Heritage</th>
-    <th class="tg-0lax">Nanyang Girls’ High School was set up by a group of leaders from the United League of China, who were deeply inspired by Mr. Sun Yat-sen’s view that women should receive an education in order to play a more active role in serving their country.<br><br>Since its establishment in 1917, Nanyang Girls’ High School has remained true to her goal in grooming well-educated ladies who will contribute to society.</th>
-  </tr>
-</thead>
 <tbody>
+	<tr>
+    <td class="tg-jt2s">School <br>Heritage</td>
+    <td class="tg-0lax">Nanyang Girls’ High School was set up by a group of leaders from the United League of China, who were deeply inspired by Mr. Sun Yat-sen’s view that women should receive an education in order to play a more active role in serving their country.<br><br>Since its establishment in 1917, Nanyang Girls’ High School has remained true to her goal in grooming well-educated ladies who will contribute to society.</td>
+  </tr>
   <tr>
     <td class="tg-jt2s">Mission</td>
 		<td class="tg-0lax"><b>SCHOOL MISSION</b><br>We nurture women of character and purpose with bilingual and bicultural perspectives, empowering them to make a difference in the world.</td>
