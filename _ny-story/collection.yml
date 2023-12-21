@@ -2,6 +2,7 @@ collections:
   ny-story:
     output: true
     order:
+      - Milestones.md
       - About Us.md
       - BOD & Management Team.md
       - Achievements.md
