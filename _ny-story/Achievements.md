@@ -10,14 +10,14 @@ variant: markdown
 <img style="width:150px" src="/images/achievements1.png">
 
 The Singapore Quality Award (SQA) was launched in 1994 with the Prime Minister as its patron. It is the most prestigious award conferred on organisations in recognition of their attainment of world-class standards of performance excellence.
-<br><br>
+<br>
 
 * * *
 
 ### School Excellence Award
 <br>
 <img style="width:120px" src="/images/achievements2.jpg">
-<br><br>
+<br>
 
 * * *
 
@@ -39,7 +39,7 @@ The School Distinction Award (SDA) recognises the high achieving schools with ex
 
 <img style="width:150px" src="/images/achievements4.jpg">
 The Character Development Award (CDA) recognises school for their efforts in developing good character in their students. This is represented by the triangle representing the Leadership, Culture and Systems, Processes and Structures that schools have put in place for effective character education. The circles represent efforts that schools have taken toward providing an all-round education to develop their students' character. Together, the triangle and circles depict a vibrant image of a child conveying our philosophy of putting the child at the centre of what we do.
-<br><br><br>
+<br>
 
 * * *
 
@@ -47,7 +47,7 @@ The Character Development Award (CDA) recognises school for their efforts in dev
 <br>
 <img style="width:150px" src="/images/achievements5.jpg">
 National Education (NE) is an important part of our education process. It aims to develop in our young the instinct for survival, national cohesion and confidence in our future. &nbsp;The NE Awards are given to schools in recognition of their NE efforts.
-<br><br><br>
+<br>
 
 * * *
 
@@ -62,7 +62,7 @@ Best Practice Award Teaching &amp; Learning
 The Best Practice Award (BPA) recognises schools for their effective processes and systems that lead to desirable education outcomes, academic or non-academic.
 
 There are 4 categories of award for the BPA: Organisational Effectiveness, Student All-Round Development, Staff Well-Being, and Teaching and Learning.
-<br><br>
+<br>
 
 * * *
 
@@ -74,7 +74,8 @@ There are 4 categories of award for the BPA: Organisational Effectiveness, Stude
 
 1st Award &nbsp;| &nbsp;4th Award &nbsp;| &nbsp;14th Award &nbsp;| &nbsp;11th Award &nbsp;| &nbsp;6th Award  
 The Sustained Achievement Award (SAA) recognises schools’ ability in sustaining good outcomes over a number of years, in either academic or non-academic areas.
-<br><br>
+<br>
+
 * * *
 
 ### Business Excellence Certifications
