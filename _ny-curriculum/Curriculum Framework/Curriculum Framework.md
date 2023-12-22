@@ -23,7 +23,6 @@ The aim of our curriculum is to nurture and develop the Nanyang student into:
 NYGH is where they grow in their knowledge and understanding and develop competencies and dispositions to prepare them for work and for life (refer to table below for the specific competencies).
 
 ## THE 3 AREAS OF GROWTH
-<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
