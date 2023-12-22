@@ -12,7 +12,7 @@ We are inviting interest applicants to operate the following stalls from January
 </ul>
 Date of Application: 26 December 2023 – 13 January 2024
 	
-<h4><strong>Criteria</strong></h4>
+## Criteria
 Applicants should meet the following criteria:
 <ol data-tight="true" class="tight">
 	<li>Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.</li>
@@ -23,7 +23,8 @@ Applicants should meet the following criteria:
 	<li>Successful applicant will need to apply for a food stall license from SFA.</li>
 	<li>Applicants with experience in running a school canteen stall or catering experience is preferred.</li><li>Applicants who adopt green practices are also preferred.</li>
 </ol>
-<h4><strong>Application Procedure</strong></h4>
+
+## Application Procedure
 <ol data-tight="true" class="tight">
 	<li>Application forms are available at our General Office (2 Linden Drive S288683) or can be downloaded <a href="/files/NYGH_Canteen_stall_application_form__updated2022_.pdf" target="_blank">here</a>.</li>
 	<li>Interested applicants must submit the following documents:</li>
