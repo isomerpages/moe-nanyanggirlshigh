@@ -23,5 +23,59 @@ The aim of our curriculum is to nurture and develop the Nanyang student into:
 NYGH is where they grow in their knowledge and understanding and develop competencies and dispositions to prepare them for work and for life (refer to table below for the specific competencies).
 
 ## THE 3 AREAS OF GROWTH
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .th-100{ background-color:#00558D;color:#FFF;text-align:center;vertical-align:top;font-size:20px; width:100%; vertical-align: middle; }
+.tg .th-50{ background-color:#FFF;color:#00558D;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:20px; width:50%;vertical-align: middle; }
+.tg .tg-50{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:50%;}	
+</style>
 
-<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; max-width: 100%; background-color: rgb(255, 255, 255); color: rgb(35, 31, 32); font-family: opensans-regular; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.3px; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" cellspacing="0" cellpadding="2" border="1"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; text-align: center;" colspan="2" class="rtecenter"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">Areas of Growth</strong></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">Knowledge and Understanding</td><td style="box-sizing: border-box;"><ul style="box-sizing: border-box; margin: 5px 0px; list-style-type: square; padding: 0px 0px 0px 22px;"><li style="box-sizing: border-box; margin-bottom: 5px;">Disciplinary Literacy</li><li style="box-sizing: border-box; margin-bottom: 5px;">Digital Literacy</li><li style="box-sizing: border-box; margin-bottom: 5px;">Socio-emotional Literacy</li><li style="box-sizing: border-box; margin-bottom: 5px;">Design Literacy</li></ul></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">Competencies</td><td style="box-sizing: border-box;"><ul style="box-sizing: border-box; margin: 5px 0px; list-style-type: square; padding: 0px 0px 0px 22px;"><li style="box-sizing: border-box; margin-bottom: 5px;">Communication</li><li style="box-sizing: border-box; margin-bottom: 5px;">Collaboration</li><li style="box-sizing: border-box; margin-bottom: 5px;">Creative Thinking &amp; Innovative Thinking</li><li style="box-sizing: border-box; margin-bottom: 5px;">Critical Thinking &amp; Problem-solving</li><li style="box-sizing: border-box; margin-bottom: 5px;">Cultural Intelligence</li><li style="box-sizing: border-box; margin-bottom: 5px;">Socio-emotional Intelligence</li></ul></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">Dispositions</td><td style="box-sizing: border-box;"><ul style="box-sizing: border-box; margin: 5px 0px; list-style-type: square; padding: 0px 0px 0px 22px;"><li style="box-sizing: border-box; margin-bottom: 5px;">Curiosity</li><li style="box-sizing: border-box; margin-bottom: 5px;">Empathy</li><li style="box-sizing: border-box; margin-bottom: 5px;">Resilience</li><li style="box-sizing: border-box; margin-bottom: 5px;">Responsible</li><li style="box-sizing: border-box; margin-bottom: 5px;">Growth Mindset</li><li style="box-sizing: border-box; margin-bottom: 5px;">Intellectual Flexibility</li><li style="box-sizing: border-box; margin-bottom: 5px;">Self-directed</li><li style="box-sizing: border-box; margin-bottom: 5px;">Resourcefulness</li><li style="box-sizing: border-box; margin-bottom: 5px;">Purpose &amp; Service</li></ul></td></tr></tbody></table>
+<table class="tg">  
+<tbody>
+<tr>
+    <th colspan="2" class="th-100">Areas of Growth</th>
+</tr>
+<tr>
+    <td class="th-50">Knowledge and Understanding</td>
+		<td class="tg-50">		
+			<ul>
+				<li>Disciplinary Literacy</li>
+				<li>Digital Literacy</li>
+				<li>Socio-emotional Literacy</li>
+				<li>Design Literacy</li>
+			</ul>	
+		</td>
+</tr>
+<tr>
+    <td class="th-50">Competencies</td>
+		<td class="tg-50">		
+			<ul>
+				<li>Communication</li>
+				<li>Collaboration</li>
+				<li>Creative Thinking &amp; Innovative Thinking</li>
+				<li>Critical Thinking &amp; Problem-solving</li>
+				<li>Cultural Intelligence</li>
+				<li>Socio-emotional Intelligence</li>
+			</ul>	
+		</td>
+</tr>
+	<tr>
+    <td class="th-50">Dispositions</td>
+		<td class="tg-50">		
+			<ul>
+				<li>Curiosity</li>
+				<li>Empathy</li>
+				<li>Resilience</li>
+				<li>Responsible</li>
+				<li>Growth Mindset</li>
+				<li>Intellectual Flexibility</li>
+				<li>Self-directed</li>
+				<li>Resourcefulness</li>
+				<li>Purpose &amp; Service</li>
+			</ul>	
+		</td>
+</tr>
+</tbody>
+</table>
