@@ -4,16 +4,16 @@ permalink: /join-us/as-canteen-operators/
 variant: markdown
 description: ""
 ---
-<p><strong>Nanyang Girls’ High School</strong> has a student enrolment of about 1600 students. We are located at No 2, Linden Drive S288683.</p>
-<p>We are inviting interest applicants to operate the following stalls from January 2024 onwards:</p>
+**Nanyang Girls’ High School** has a student enrolment of about 1600 students. We are located at No 2, Linden Drive S288683.
+We are inviting interest applicants to operate the following stalls from January 2024 onwards:
 <ul data-tight="true" class="tight">
 	<li>Western Food Stall</li>
 	<li>Vegetarian Food Stall</li>
 </ul>
-	<p>Date of Application: 26 December 2023 – 13 January 2024</p>
+Date of Application: 26 December 2023 – 13 January 2024
 	
 <h4><strong>Criteria</strong></h4>
-<p>Applicants should meet the following criteria:</p>
+Applicants should meet the following criteria:
 <ol data-tight="true" class="tight">
 	<li>Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.</li>
 	<li>Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</li>
