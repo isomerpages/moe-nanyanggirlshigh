@@ -8,7 +8,7 @@ description: ""
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border:none; font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .th-20{border:none; background-color:#00558D;color:#FFF;text-align:center;vertical-align:top;font-size:20px; width:20%; vertical-align: middle;}
-.tg .th-80{border:none; background-color:#FFF;color:#00558D;text-align:left;vertical-align:top;font-size:20px; width:80%}
+.tg .th-80{border:none;border-left:1px solid #00558D; background-color:#FFF;color:#00558D;text-align:left;vertical-align:top;font-size:20px; width:80%}
 .tg .tg-20{border:none; background-color:#FFF;color:#FFF;text-align:center;vertical-align:top;font-size:20px; width:20%}
 .tg .tg-80{border-bottom:none; background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-left:1px solid #00558D; font-size:15px !important; width:80%;}	
 </style>
@@ -347,6 +347,85 @@ Nanyang Girls' Boarding School was established.<br>
     <td class="tg-20">&nbsp;</td>
 	<td class="tg-80"><img src="/images/milestone_2011.jpg"><br></td>	
 </tr>			
+	
+<tr>
+    <th class="th-20">2012</th>
+		<th class="th-80">NYGH initiated the formation of the Strategic Alliance of Global Educators (SAGE).</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestones_2012.jpg"><br></td>	
+</tr>				
+	
+<tr>
+    <th class="th-20">2013</th>
+		<th class="th-80">Mdm Ong Sioe Hong was appointed the Chairperson of the Board of Directors. Mdm Wee Bee Hoon became the Honorary Chairperson.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2013.jpg"><br></td>	
+</tr>					
+<tr>
+    <th style="background-color:#FFF;" class="th-20">&nbsp;</th>
+		<th class="th-80">The school was conferred the Singapore Quality Award (SQA).</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2013_1.jpeg"><br></td>	
+</tr>				
+	
+<tr>
+    <th class="th-20">2014</th>
+		<th class="th-80">NYGH initiated the formation of the Strategic Educational Alliance of Southeast Asia (SEA<sup>2</sup>).</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2014.jpg"><br></td>	
+</tr>			
+	
+<tr>
+    <th class="th-20">2015</th>
+		<th class="th-80">Ms Ang Fung Fung was appointed Chairperson of the Board of Directors.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2015.jpg"><br></td>	
+</tr>				
+	
+<tr>
+    <th class="th-20">2017</th>
+		<th class="th-80">NYGH completed its building extension project. The new extension comprises a Performing Arts Centre Wing and an Indoor Sports Hall Wing.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2017.jpeg"><br></td>	
+</tr>			
+	
+<tr>
+    <th class="th-20">2018</th>
+		<th class="th-80">Mdm Heng Boey Hong moved on as Director of Mother Tongue Languages, MOE.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2018.jpeg"><br></td>	
+</tr>			
+<tr>
+    <th style="background-color:#FFF;" class="th-20">&nbsp;</th>
+		<th class="th-80">Mdm Ng Chuen-Yin joined the school as Principal.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2018_1.jpeg"><br></td>	
+</tr>					
+	
+<tr>
+    <th class="th-20">2023</th>
+		<th class="th-80">Ms Siau Fong Fui joined the school as Principal.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	  <td class="tg-80"><img src="/images/milestones_2023.jpeg"><br></td>	
+</tr>				
 	
 </tbody>
 </table>
