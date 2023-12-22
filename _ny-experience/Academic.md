@@ -2,13 +2,14 @@
 title: Academic
 permalink: /ny-experience/academic/
 description: ""
+variant: markdown
 ---
 ## Curriculum Overview
 
 
 The Academic Curriculum spans four years and prepares students for the Integrated Programme (IP). The IP curriculum aims to stretch students beyond the requirements of the O-Level examinations/syllabus and offers students a more challenging curriculum with meaningful assessments.
 
-<img style="width:500px" src="/images/nyghcurriculumframework.png">
+<img style="width:500px" src="/images/NYGH_Curriculum_Framework.png">
 <br>
 
 Since 2016, our school has adopted Dr Lynn Erickson’s Concept-based Approach in teaching and learning. It ensures that students develop deep conceptual understanding and thinking which will enable them to transfer knowledge and skills across time, situations and contexts.
