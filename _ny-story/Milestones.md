@@ -215,7 +215,7 @@ When Mdm Low passed away in 1994, the Low Pei Kim Bursary Fund was set up. This 
 <tr>
     <td class="tg-20">&nbsp;</td>
 	<td class="tg-80"><img src="/images/milestones_1995.jpg">
-		<p>Mrs Ng-Gan Lay Choo, an alumnus, became the 12th principal of the school as well as the 3rd alumnus to have assumed this duty.&nbsp;</p>&nbsp;  
+		<p>Mrs Ng-Gan Lay Choo, an alumnus, became the 12th principal of the school as well as the 3rd alumnus to have assumed this duty.&nbsp;</p>
 		<p>Mrs Ng-Gan studied physics at the University of Singapore and went on to specialize in Education at the National University of Singapore. &nbsp;She was the vice-principal of Tanjong Katong Girls’ School and principal of Zhonghua Secondary School before she became the principal of her alma mater.</p><br></td>	
 </tr>						
 	
@@ -252,20 +252,101 @@ Nanyang Girls' Boarding School was established.<br>
 <tr>
     <td class="tg-20">&nbsp;</td>
 	<td class="tg-80"><img src="/images/milestones_2001.jpeg">
-		<p>Mdm Mak Lai Ying succeeded Mrs Ng-Gan Lay Choo as the 13th principal of the school. </p>&nbsp;
+		<p>Mdm Mak Lai Ying succeeded Mrs Ng-Gan Lay Choo as the 13th principal of the school. </p>
 		<p>Mdm Mak graduated from National University of Singapore in 1982. &nbsp;In 1983, she received her diploma in education from London University and started her teaching career in Victoria Secondary School as a Mathematics and Economics teacher. She was Deputy Director of the National Education Branch at the ministry before her posting to head the school.</p><br></td>	
 </tr>				
 	
 <tr>
-    <th class="th-20">2001</th>
-		<th class="th-80">Mdm Mak Lai Ying became principal. Mrs Ng-Gan Lay Choo moved on to head a junior college.</th>
+    <th class="th-20">2002</th>
+		<th class="th-80">The Higher Music Programme was offered. The 'O' Level Music Programme which set the foundation for HMP was offered in 2000.</th>
 </tr>	
 <tr>
     <td class="tg-20">&nbsp;</td>
-	<td class="tg-80"><img src="/images/milestones_2001.jpeg">
-		<p>Mdm Mak Lai Ying succeeded Mrs Ng-Gan Lay Choo as the 13th principal of the school. </p>&nbsp;
-		<p>Mdm Mak graduated from National University of Singapore in 1982. &nbsp;In 1983, she received her diploma in education from London University and started her teaching career in Victoria Secondary School as a Mathematics and Economics teacher. She was Deputy Director of the National Education Branch at the ministry before her posting to head the school.</p><br></td>	
+	<td class="tg-80"><img src="/images/milestone_2002.jpg"><br></td>	
 </tr>					
+	
+<tr>
+    <th class="th-20">2004</th>
+		<th class="th-80">The Integrated Programme, in partnership with Hwa Chong Institution, was offered to 168 of the Secondary 3 students.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestones_2004.jpeg">
+		<p>In January 2004, NYGH officially started the Integrated Programme (IP), partnering The Chinese High School (Hwa Chong Institution). &nbsp;What was unique about the IP was that students no longer needed to take the GCE ‘O’ levels examinations. Upon graduation from Secondary 4, the students will gain direct admission to Hwa Chong Junior College and take the GCE ‘A’ levels examinations there. </p>
+		<p>Without the need for the ‘O’ levels, IP students would have more time and space to engage in more challenging tasks. Besides the core content subjects, the students would participate in various electives and exploratory activities to enrich their learning experience.  </p>
+		<p>Sabbaticals were introduced, with at least two weeks devoted to them annually. The aim of sabbaticals was to provide the students with opportunities to delve deeper into areas of their interest. Sabbaticals offered ranged from those related to academic subjects, such as Chinese, English, Mathematics, General Science, Chemistry, Life Science and Environmental Science, to areas outside the academic curriculum, like ancient Chinese Mathematics (中国古代数学), Animation, Bonsai, Film Appreciation, Gastronomy, Malay Culture, Song Composition and Traditional Chinese Arts (中国民间艺术). </p>
+		<p>The school had also already established an overseas enrichment programme for the students, which was subsequently known as the Global Classroom Programme.</p><br></td>	
+</tr>						
+
+<tr>
+    <th class="th-20">2005</th>
+		<th class="th-80">The Integrated Programme was offered to all Secondary 1 students. The Bicultural Studies Programme (Chinese) was implemented.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestone_2005.jpeg">
+		<p>The school’s continued emphasis on a bilingual education for its students led to the introduction of the Chinese Language Elective Programme (CLEP) and the Bicultural Studies Programme \[Chinese\], both of which aim&nbsp;at cultivating students who are effectively bilingual and well immersed in both cultures.</p><br></td>	
+</tr>			
+	
+<tr>
+    <th class="th-20">2006</th>
+		<th class="th-80">Miss Yap Wah Choo became principal as Mdm Mak Lai Ying moved on to head the Singapore International School in Hong Kong.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestones_2006.jpeg">
+		<p>The Superintendent of East 5, Miss Yap Wah Choo, became the 14th principal of the school.</p>
+		<p>Miss Yap completed her tertiary education at the former University of Singapore. She furthered her studies at the University of Pittsburgh and obtained a Master’s degree in educational research. &nbsp;She was the Superintendent of East 5 before her appointment as the principal of the school.</p><br></td>	
+</tr>		
+	
+<tr>
+    <th class="th-20">2007</th>
+		<th class="th-80">The last batch of 99 students sat for the GCE ‘O’ Level Examinations.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestone_2007.jpg"><br></td>	
+</tr>			
+	
+<tr>
+    <th class="th-20">2008</th>
+		<th class="th-80">The school became the West Zone Centre of Excellence (Chinese Studies and Culture).</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestones_2008.jpeg">
+		<p>In 2008, the school was made the West Zone Centre of Excellence for Chinese Studies and Culture. To mark this occasion, the school, in partnership with Business China and with the support of the Ministry of Education, organised the 2nd SAP Seminar on 10 April, with Acting Minister of Manpower, Mr Gan Kim Yong, as Guest of Honour.</p>
+		<p>In conjunction with the event, the school also hosted the inaugural Singapore-Shanghai Student Forum, involving all SAP schools as well as students and teachers from Shanghai. Among the distinguished guests were Senior Minister of State for Education, Ms Grace Fu, West Zone Schools Superintendent, Mrs Chia Ban Tin, and the Principal of Fudan High School in Shanghai, Mr Xie Yingping. The event was a success, with extensive coverage by the media and good reviews from all participants.</p><br></td>	
+</tr>		
+	
+<tr>
+    <th class="th-20">2009</th>
+		<th class="th-80">Miss Yap Wah Choo moved on as Director of Assessment and Research Division, Singapore Examinations and Assessment Board (SEAB).</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestone_2009.jpg"><br></td>	
+</tr>				
+	
+<tr>
+    <th class="th-20">2010</th>
+		<th class="th-80">Mdm Heng Boey Hong, an alumnus, joined the school as Principal.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestones_2010.jpeg">
+		<p>Mdm Heng majored in Chinese Studies and Economics from the National University of Singapore and joined Jurong Institute as a Chinese teacher.  She received her MA in Chinese Studies in 1997 and attended the Leadership in Education Programme by the National Institute of Education in 2002.</p>
+		<p>Mdm Heng spent 10 years in Nanyang Primary School, as the vice-principal from 1999 to 2002 and the principal from 2002 to 2009, before she joined the school.</p><br></td>	
+</tr>			
+	
+<tr>
+    <th class="th-20">2011</th>
+		<th class="th-80">Prototype 21st Century Class (a programme aimed at enhancing teaching and learning through 1-1 computing) was launched.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80"><img src="/images/milestone_2011.jpg"><br></td>	
+</tr>			
 	
 </tbody>
 </table>
