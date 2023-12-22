@@ -2,6 +2,7 @@
 title: Enrichment
 permalink: /ny-experience/enrichment/
 description: ""
+variant: markdown
 ---
 ## Global Classroom Programme (GCP)
 

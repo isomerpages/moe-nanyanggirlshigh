@@ -2,10 +2,8 @@
 title: Financial Matters
 permalink: /ny-story/financial-matters/
 description: ""
+variant: markdown
 ---
-### Financial Information -&nbsp;[CLICK HERE TO VIEW](/files/financial_information_2019_2020.pdf)
-
-
 The fees payable by students include school fees, miscellaneous fees, enrichment programmes and Co-Curricular Activities (CCA) co-payment.
 
 ## School Fees

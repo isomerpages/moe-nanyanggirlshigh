@@ -2,8 +2,9 @@
 title: About Us
 permalink: /ny-story/about-us/
 description: ""
+variant: markdown
 ---
-<img style="width:500px" src="/images/schoolfacadenew.jpg">
+<img style="width:100%" src="/images/schoolfacadenew.jpg">
 <br>
 <p>Nanyang Girls’ High School (NYGH) was founded in 1917.&nbsp;It is a premier independent and Special Assistance Plan (SAP) school with an intake of over 1500 girls ranging from Sec 1 to Sec 4.
 
@@ -13,21 +14,19 @@ While academic distinction continues to be the hallmark of Nanyang girls, the vi
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jt2s{color:#055b74;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;
+  overflow:hidden;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;
+  font-weight:normal;overflow:hidden;word-break:normal;}
+.tg .tg-jt2s{color:#055b74;text-align:left;vertical-align:top;padding:20px 0px;font-size:18px;}
+.tg .tg-0lax{text-align:left;vertical-align:top;padding:20px 0px 20px 30px;font-size:15px;}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-jt2s">School <br>Heritage</th>
-    <th class="tg-0lax">Nanyang Girls’ High School was set up by a group of leaders from the United League of China, who were deeply inspired by Mr. Sun Yat-sen’s view that women should receive an education in order to play a more active role in serving their country.<br><br>Since its establishment in 1917, Nanyang Girls’ High School has remained true to her goal in grooming well-educated ladies who will contribute to society.</th>
-  </tr>
-</thead>
 <tbody>
+	<tr>
+    <td class="tg-jt2s">School <br>Heritage</td>
+    <td class="tg-0lax">Nanyang Girls’ High School was set up by a group of leaders from the United League of China, who were deeply inspired by Mr. Sun Yat-sen’s view that women should receive an education in order to play a more active role in serving their country.<br><br>Since its establishment in 1917, Nanyang Girls’ High School has remained true to her goal in grooming well-educated ladies who will contribute to society.</td>
+  </tr>
   <tr>
     <td class="tg-jt2s">Mission</td>
 		<td class="tg-0lax"><b>SCHOOL MISSION</b><br>We nurture women of character and purpose with bilingual and bicultural perspectives, empowering them to make a difference in the world.</td>
@@ -62,11 +61,11 @@ A Nanyang girl is sincere and humble.</td>
   </tr>
   <tr>
     <td class="tg-jt2s">School<br>Song</td>
-    <td class="tg-0lax"><img style="width:400px" src="/images/schoolsonglyrics.png"></td>
+    <td class="tg-0lax"><img style="width:80%" src="/images/schoolsonglyrics.png"></td>
   </tr>
   <tr>
     <td class="tg-jt2s">School<br>Crest</td>
-    <td class="tg-0lax"><span style="font-weight:bold"><img style="width:100px" src="/images/school-crest.png">THE FIRST SCHOOL LOGO WAS A DIAMOND-SHAPED CREST ON WHICH WAS PRINTED THE SCHOOL NAME, IN CHINESE, AGAINST A LIGHT BLUE BACKGROUND. IT WAS DESIGNED BY A FORMER ART TEACHER OF THE SCHOOL, MADAM CHEN JUN WEN.<br><br>In 1968, a small amendment was made to it. The diamond-shaped crest was superimposed on top of a yellow ring emblem on which was printed the words 'Nanyang Girls' High'. This ring emblem rested on top of a yellow banner on which the school motto, in Chinese, was printed. When translated, the school motto reads 'Diligence', 'Prudence', 'Respectability' and 'Simplicity'.</span></td>
+    <td class="tg-0lax"><span style="font-weight:bold"><img style="width:100px" src="/images/school-crest.png"> <br>THE FIRST SCHOOL LOGO WAS A DIAMOND-SHAPED CREST ON WHICH WAS PRINTED THE SCHOOL NAME, IN CHINESE, AGAINST A LIGHT BLUE BACKGROUND. IT WAS DESIGNED BY A FORMER ART TEACHER OF THE SCHOOL, MADAM CHEN JUN WEN.</span><br><br>In 1968, a small amendment was made to it. The diamond-shaped crest was superimposed on top of a yellow ring emblem on which was printed the words 'Nanyang Girls' High'. This ring emblem rested on top of a yellow banner on which the school motto, in Chinese, was printed. When translated, the school motto reads 'Diligence', 'Prudence', 'Respectability' and 'Simplicity'.</td>
   </tr>
 </tbody>
 </table>
