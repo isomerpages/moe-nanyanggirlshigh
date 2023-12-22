@@ -2,8 +2,9 @@
 title: Enrichment
 permalink: /ny-experience/enrichment/
 description: ""
+variant: markdown
 ---
-## Global Classroom Programme (GCP)
+### Global Classroom Programme (GCP)
 
 
 GCP was designed to help our students discover the global diversity and develop a genuine understanding of people both within our country and beyond our shores.  As a school with a strong bicultural emphasis, this programme provides our students with opportunities to experience both the East and the West.  In travelling the country and the world, our students widen their horizons as they immerse themselves in different practices and cultures, moving towards becoming true global citizens.
@@ -19,7 +20,7 @@ GCP aims to achieve the following objectives:
 The experiential learning approach is adopted in this programme. Every trip focuses on at least one of the three experiential learning domains, with the longer trips covering all three aspects. Reflective activities are conducted during and after the trips and our teachers are trained facilitators.
 
 
-## Boarding School Experience LIGHT (BseLIGHT)
+### Boarding School Experience LIGHT (BseLIGHT)
 
 
 The Boarding School Experience **Bse**_LIGHT_ is a school activity exclusive to all current Secondary 4 students.
