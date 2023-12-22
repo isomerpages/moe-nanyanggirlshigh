@@ -7,8 +7,8 @@ description: ""
 <p><strong>Nanyang Girls’ High School</strong> has a student enrolment of about 1600 students. We are located at No 2, Linden Drive S288683.</p>
 <p>We are inviting interest applicants to operate the following stalls from January 2024 onwards:</p>
 <ul data-tight="true" class="tight">
-	<li><p>Western Food Stall</p></li>
-	<li><p>Vegetarian Food Stall</p></li>
+	<li>Western Food Stall</li>
+	<li>Vegetarian Food Stall</li>
 </ul>
 	<p>Date of Application: 26 December 2023 – 13 January 2024</p>
 	
