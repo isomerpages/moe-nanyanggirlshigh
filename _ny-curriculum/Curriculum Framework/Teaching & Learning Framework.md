@@ -3,6 +3,7 @@ title: Teaching & Learning Framework
 permalink: /ny-curriculum/curriculum-framework/student-development/
 description: ""
 third_nav_title: Curriculum Framework
+variant: markdown
 ---
 In NYGH, we seek to nurture Empowered Learners through our academic curriculum. As Empowered Learners, the students
 
@@ -21,4 +22,44 @@ We believe that learning takes place in caring and safe environments. Hence, we 
 
 In designing the learning experiences for students, our teachers bear in the mind the following design principles to keep the learning process dynamic and responsive:
 
-<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; max-width: 100%; background-color: rgb(255, 255, 255); color: rgb(35, 31, 32); font-family: opensans-regular; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.3px; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" width="800" cellspacing="0" cellpadding="2" border="1"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;" width="250">concept-centric</td><td style="box-sizing: border-box;">Through teachers’ skilful questioning and inductive pedagogical approaches, students develop strong mastery of the knowledge, processes and skills through a conceptual lens and are able to make connections between classroom learning and the world they live in.</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">authentic</td><td style="box-sizing: border-box;">Students are provided opportunities to engage with real and current issues that facilitate the understanding of concepts and the application of what they have learnt to different contexts. They will also immerse in interactions with teachers, peers and knowledgeable others to co-construct meaning from knowledge and experiences.</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">relevant</td><td style="box-sizing: border-box;">Students learn knowledge and develop skills and attributes that enable and prepare them for work and for life.</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">experiential</td><td style="box-sizing: border-box;">Teachers create learning opportunities that provide the students to learn with a Head-On, Heart-On and Hands-On approach and enable them to evaluate and reflect on their learning.</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">differentiated</td><td style="box-sizing: border-box;">Teachers plan for learning in heterogeneous settings and take into consideration the students’ backgrounds, readiness and skill levels, and interests when they design the learning content and process. Teachers create an inclusive classrooms and help every student attain her best.</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box;">developmentally appropriate</td><td style="box-sizing: border-box;">Activities and programmes are designed and/or curated to meet the different needs of the students, bearing in mind their level of cognitive, socio-emotional and physical development.</td></tr></tbody></table>
+<style type="text/css">
+.tl  {border-collapse:collapse;border-spacing:0;}
+.tl td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tl .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:20px; vertical-align: middle; width:30%;border-bottom:1px solid #FFF !important;}
+.tl .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+
+</style>
+
+<table style="width: 100%" class="tl">  
+<tbody>
+<tr>
+  <th class="th-30">concept-centric</th>
+	<td style="border-top:1px solid #00558D !important" class="tg-70">Through teachers’ skilful questioning and inductive pedagogical approaches, students develop strong mastery of the knowledge, processes and skills through a conceptual lens and are able to make connections between classroom learning and the world they live in.
+</td></tr>
+<tr>
+  <th class="th-30">authentic</th>
+	<td class="tg-70">Students are provided opportunities to engage with real and current issues that facilitate the understanding of concepts and the application of what they have learnt to different contexts. They will also immerse in interactions with teachers, peers and knowledgeable others to co-construct meaning from knowledge and experiences.
+</td></tr>
+<tr>
+  <th class="th-30">relevant</th>
+	<td class="tg-70">Students learn knowledge and develop skills and attributes that enable and prepare them for work and for life.
+</td></tr>
+<tr>
+  <th class="th-30">experiential</th>
+	<td class="tg-70">Teachers create learning opportunities that provide the students to learn with a Head-On, Heart-On and Hands-On approach and enable them to evaluate and reflect on their learning.
+</td></tr>
+<tr>
+  <th class="th-30">differentiated</th>
+	<td class="tg-70">Teachers plan for learning in heterogeneous settings and take into consideration the students’ backgrounds, readiness and skill levels, and interests when they design the learning content and process. Teachers create an inclusive classrooms and help every student attain her best.
+</td></tr>
+<tr>
+  <th class="th-30">developmentally appropriate</th>
+	<td class="tg-70">Activities and programmes are designed and/or curated to meet the different needs of the students, bearing in mind their level of cognitive, socio-emotional and physical development.
+</td></tr>
+</tbody></table>
+
+
+
+
+
+
