@@ -3,13 +3,47 @@ title: Programmes
 permalink: /ny-curriculum/curriculum-framework/experential-learning/
 description: ""
 third_nav_title: Curriculum Framework
+variant: markdown
 ---
 ## LIFE SKILLS PROGRAMMES
 
 
 Life skills programmes provide platforms for our students to develop life skills and engage in social emotional learning. Different types of experiences are crafted for the different levels.
 
-<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; max-width: 100%; background-color: rgb(255, 255, 255); color: rgb(35, 31, 32); font-family: opensans-regular; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.3px; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 446px;" cellspacing="0" cellpadding="0" border="1"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; text-align: center; width: 106px;" class="rtecenter"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">Level</strong></td><td style="box-sizing: border-box; text-align: center; width: 332px;" class="rtecenter"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">Description</strong></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 106px;">&nbsp;Secondary 1</td><td style="box-sizing: border-box; width: 332px;">&nbsp;Life Skills Camp</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 106px;">&nbsp;Secondary 2</td><td style="box-sizing: border-box; width: 332px;">&nbsp;Boarding School Experience</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 106px;">&nbsp;Secondary 3</td><td style="box-sizing: border-box; width: 332px;">&nbsp;Outward Bound Singapore (OBS) Course</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 106px;">&nbsp;Secondary 4</td><td style="box-sizing: border-box; width: 332px;">&nbsp;Life Skills Camp &amp; Career Conference/ Fair</td></tr></tbody></table>
+<style type="text/css">
+.lsp  {border-collapse:collapse;border-spacing:0;}
+.lsp td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.lsp .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:20px; vertical-align: middle; width:30%;}
+.lsp .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:20px; vertical-align: middle; width:70%;}
+.lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
+.lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+</style>
+
+<table style="width: 100%" class="lsp">  
+<tbody>
+<tr>
+  <th class="th-30">Level</th>
+	<th class="th-70">Description</th>
+</tr>
+<tr>
+    <td class="tg-30"> Secondary 1</td>
+		<td class="tg-70">Life Skills Camp</td>	
+</tr>
+<tr>
+    <td class="tg-30"> Secondary 2</td>
+		<td class="tg-70"> Boarding School Experience</td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 3</td>
+		<td class="tg-70">Outward Bound Singapore (OBS) Course</td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 4</td>
+		<td class="tg-70">Life Skills Camp &amp; Career Conference/ Fair</td>	
+</tr>
+	</tbody>
+	</table>
+
 
 ## COMMUNITY EDUCATION PROGRAMME
 
@@ -18,7 +52,32 @@ The aim of Community Education is to develop in our students the knowledge, skil
 
 The four-year Community Education Programme&nbsp;**(ComEd)**&nbsp;incorporates service-learning, experiential learning and leadership development in a scaffolded manner that progresses from Exploration to Inquiry to Agency.
 
-<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; max-width: 100%; background-color: rgb(255, 255, 255); color: rgb(35, 31, 32); font-family: opensans-regular; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.3px; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" cellspacing="0" cellpadding="0" border="1"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; text-align: center; width: 126px;" class="rtecenter"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">Level</strong></td><td style="box-sizing: border-box; text-align: center; width: 740px;" class="rtecenter"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">Description</strong></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 126px;">&nbsp;Secondary 1</td><td style="box-sizing: border-box; width: 740px;"><p style="box-sizing: border-box; margin: 0px 0px 25px;" dir="ltr"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">&nbsp;Exploration&nbsp;</strong></p><p style="box-sizing: border-box; margin: 0px;" dir="ltr">&nbsp;Community Education through Service to School and Cross-Cultural Learning</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 126px;">&nbsp;Secondary 2</td><td style="box-sizing: border-box; width: 740px;"><p style="box-sizing: border-box; margin: 0px 0px 25px;" dir="ltr"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">&nbsp;Exploration &amp; Inquiry&nbsp;</strong></p><p style="box-sizing: border-box; margin: 0px;" dir="ltr">&nbsp;Community Education through SPICE</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 126px;">&nbsp;Secondary 3</td><td style="box-sizing: border-box; width: 740px;"><p style="box-sizing: border-box; margin: 0px 0px 25px;" dir="ltr"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">&nbsp;Inquiry &amp; Agency&nbsp;</strong></p><p style="box-sizing: border-box; margin: 0px;" dir="ltr">&nbsp;Community Education through the Community Leadership Programme or Self-Initiated Service-Learning Projects</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; width: 126px;">&nbsp;Secondary 4</td><td style="box-sizing: border-box; width: 740px;"><p style="box-sizing: border-box; margin: 0px 0px 25px;" dir="ltr"><strong style="box-sizing: border-box; font-weight: 400 !important; font-family: opensans-bold;">&nbsp;Agency&nbsp;</strong></p><p style="box-sizing: border-box; margin: 0px;" dir="ltr">&nbsp;Community Education through the Community Leadership Programme, Self-Initiated Service-Learning Projects and/or&nbsp; Capstone Project</p></td></tr></tbody></table>
+
+<table style="width: 100%" class="lsp">  
+<tbody>
+<tr>
+  <th class="th-30">Level</th>
+	<th class="th-70">Description</th>
+</tr>
+<tr>
+    <td class="tg-30"> Secondary 1</td>
+	<td class="tg-70"><strong>Exploration</strong><br> Community Education through Service to School and Cross-Cultural Learning</td>	
+</tr>
+<tr>
+    <td class="tg-30"> Secondary 2</td>
+	<td class="tg-70"><strong> Exploration &amp; Inquiry</strong><br>  Community Education through SPICE</td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 3</td>
+		<td class="tg-70"><strong> Inquiry &amp; Agency</strong><br> Community Education through the Community Leadership Programme or Self-Initiated Service-Learning Projects</td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 4</td>
+	<td class="tg-70"><strong>Agency</strong><br>  Community Education through the Community Leadership Programme, Self-Initiated Service-Learning Projects and/or  Capstone Project</td>	
+</tr>
+	</tbody>
+	</table>
+
 
 ## STUDENT LEADERSHIP DEVELOPMENT
 
