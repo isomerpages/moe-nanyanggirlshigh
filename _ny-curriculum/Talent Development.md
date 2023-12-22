@@ -4,7 +4,7 @@ permalink: /ny-curriculum/talent-development/
 description: ""
 variant: markdown
 ---
-<img src="/images/dds-icons.png">
+<img style="width:400px" src="/images/dds-icons.png">
 
 
 ### TALENT DEVELOPMENT (TD)
