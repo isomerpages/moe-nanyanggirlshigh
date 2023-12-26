@@ -7,70 +7,148 @@ variant: markdown
 The fees payable by students include school fees, miscellaneous fees, enrichment programmes and Co-Curricular Activities (CCA) co-payment.
 
 ## School Fees
-
+<style type="text/css">
+.sf  {border-collapse:collapse;border-spacing:0;}
+.sf td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.sf .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:30%;}
+.sf .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:70%;}
+.sf .tg-30{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
+.sf .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+</style>
 
 School fees are collected through Giro at quarterly intervals in February, April, July and October.
 
 (a) The monthly rates for students who are Singapore Citizens are as follows:
 
-| LEVEL | YEAR 2022 &amp; THEREAFTER |
-| --- | --- |
-| Sec 1 | $250 |
-| Sec 2 | $250 |
-| Sec 3 | $300 |
-| Sec 4 | $300 |
+<table style="width: 100%" class="sf">  
+<tbody>
+<tr>
+  <th class="th-30">LEVEL</th>
+	<th class="th-70">YEAR 2023 &amp; THEREAFTER</th>
+</tr>
+<tr>
+    <td class="tg-30">Secondary 1</td>
+		<td class="tg-70">$250</td>	
+</tr>
+<tr>
+    <td class="tg-30">Secondary 2</td>
+		<td class="tg-70">$250</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 3</td>
+		<td class="tg-70">$300</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 4</td>
+		<td class="tg-70">$300</td>	
+</tr>
+	</tbody>
+	</table>
 
 (b) The monthly rates for students who are Permanent Residents are as follows:
-
-| LEVEL | UP TO 31 DECEMBER 2022 | WITH EFFECT FROM 1 JANUARY 2023 |
-| --- | --- | --- |
-| Sec 1 | $750 | $850 |
-| Sec 2 | $750 | $850 |
-| Sec 3 | $820 | $850 |
-| Sec 4 | $820 | $850 |
+<table style="width: 100%" class="sf">  
+<tbody>
+<tr>
+  <th class="th-30">LEVEL</th>
+	<th class="th-70">WITH EFFECT FROM 1 JANUARY 2024</th>
+</tr>
+<tr>
+    <td class="tg-30">Secondary 1</td>
+		<td class="tg-70">$880</td>	
+</tr>
+<tr>
+    <td class="tg-30">Secondary 2</td>
+		<td class="tg-70">$880</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 3</td>
+		<td class="tg-70">$880</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 4</td>
+		<td class="tg-70">$880</td>	
+</tr>
+	</tbody>
+	</table>
 
 (c) The monthly rates for Foreign Students from ASEAN countries are as follows:
-
-| LEVEL | UP TO 31 DECEMBER 2022 | WITH EFFECT FROM 1 JANUARY 2023 |
-| --- | --- | --- |
-| Sec 1 | $1250 | $1450 |
-| Sec 2 | $1250 | $1450 |
-| Sec 3 | $1400 | $1450 |
-| Sec 4 | $1400 | $1450 |
+<table style="width: 100%" class="sf">  
+<tbody>
+<tr>
+  <th class="th-30">LEVEL</th>
+	<th class="th-70">WITH EFFECT FROM 1 JANUARY 2024</th>
+</tr>
+<tr>
+    <td class="tg-30">Secondary 1</td>
+		<td class="tg-70">$1580.50</td>	
+</tr>
+<tr>
+    <td class="tg-30">Secondary 2</td>
+		<td class="tg-70">$1580.50</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 3</td>
+		<td class="tg-70">$1580.50</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 4</td>
+		<td class="tg-70">$1580.50</td>	
+</tr>
+	</tbody>
+	</table>
 
 (d) The monthly rates for Foreign Students from Non-ASEAN countries are as follows:
-
-| LEVEL | UP TO 31 DECEMBER 2022 | WITH EFFECT FROM 1 JANUARY 2023 |
-| --- | --- | --- |
-| Sec 1 | $1650 | $2200 |
-| Sec 2 | $1650 | $2200 |
-| Sec 3 | $1800 | $2200 |
-| Sec 4 | $1800 | $2200 |
-
-
-## Miscellaneous Fee
-
-All Students are required to pay miscellaneous fee of $750 per annum. This is collected through Giro on a half-yearly basis in March and August and covers the following items:
-
-*   Student Protection Plan (Group Insurance)
-*   School newsletter / publications
-*   Pupil transport for events like field trips and learning journeys
-*   Registration for selected external competitions
-*   Information &amp; Communication Technologies Education
-*   Subscription for e-portal and e-mail account
-*   Lifeskills camp for lower secondary
-*   Selected sabbaticals
-*   Selected enrichment programme
-
-## Enrichment Programme&nbsp;
-
-
-Enrichment Programmes which are beneficial to students will be conducted during the term or school holidays. The fees for these programmes will be collected through the students' Edusave Accounts or through the Inter-bank Giro scheme in May and September.
-
-## CCA Co-payment
+<table style="width: 100%" class="sf">  
+<tbody>
+<tr>
+  <th class="th-30">LEVEL</th>
+	<th class="th-70">WITH EFFECT FROM 1 JANUARY 2024</th>
+</tr>
+<tr>
+    <td class="tg-30">Secondary 1</td>
+		<td class="tg-70">$2398</td>	
+</tr>
+<tr>
+    <td class="tg-30">Secondary 2</td>
+		<td class="tg-70">$2398</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 3</td>
+		<td class="tg-70">$2398</td>	
+</tr>
+	<tr>
+    <td class="tg-30">Secondary 4</td>
+		<td class="tg-70">$2398</td>	
+</tr>
+	</tbody>
+	</table>
 
 
-Students are required to contribute a co-payment for the CCA they are in. The annual co-payment for each CCA will be made known to students by February. The amount payable will be deducted through the students' Edusave Accounts or through the Inter-bank Giro scheme
+## Miscellaneous Fees
+
+All Students are required to pay a miscellaneous fee of $750 per annum. This is collected through Giro
+on a half-yearly basis in March and August and covers the following items:
+
+* Student Protection Plan (Group Insurance)
+* Pupil transport for events like field trips and learning journeys
+* Registration for selected external competitions
+* Information &amp; Communication Technologies Education
+* Subscription for e-portal and e-mail account
+* Life Skills Programme
+* Selected enrichment programme
+
+## Enrichment Programmes
+
+Enrichment Programmes which are beneficial to students will be conducted during the term or school
+holidays. The fees for these programmes will be collected through the students’ Edusave Accounts or
+through the Inter-bank Giro scheme in May and September.
+
+## CCA Co-Payment
+
+
+Students are required to contribute a co-payment for the CCA they are in. The annual co-payment for
+each CCA will be made known to students by February. The amount payable will be deducted through
+the students’ Edusave Accounts or through the Inter-bank Giro scheme.
 
 ## COLLECTION OF FEES THROUGH EDUSAVE OR INTER-BANK GIRO SCHEME
 
