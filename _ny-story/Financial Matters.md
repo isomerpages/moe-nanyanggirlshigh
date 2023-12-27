@@ -348,9 +348,10 @@ Additional benefits :-<ul>
 	</tbody>
 	</table>
 
-
-@&nbsp;_PCI = Monthly GHI / No. of members in the household._<br>
-\*&nbsp;_The public transport subsidy will be based on the number of remaining months in the calendar year in which the application is approved._
+<p style="font-size:12pt; font-style:italic;">
+@ PCI = Monthly GHI / No. of members in the household.<br>
+* The public transport subsidy will be based on the number of remaining months in the calendar year in which the application is approved.
+</p>	
 <br>
 
 **2\. NYGH Financial Assistance**
