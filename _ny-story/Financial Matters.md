@@ -325,13 +325,13 @@ From 1 January 2023, the revised subsidy levels for MOE Independent School Bursa
 </tr>
 <tr>
     <td class="tg-30">GHI &lt;= $3,000; or<br>PCI &lt;= $750</td>
-	<td class="tg-70"><p style="font-size:15pt  !important;">100%. </p>
-Additional benefits :-<ul style="font-size:15pt !important;">
-			<li>Free textbooks and school attire.</li>
-			<li>Full subsidy of national exam fees.</li>
-			<li>Transport Subsidy: $17 transport per month* from the month of approval (for students taking public transport).</li>
-			<li>School Meal Subsidy</li>
-			</ul></td>	
+	<td class="tg-70">100%. <br><br>
+Additional benefits :<br>
+			• Free textbooks and school attire.<br>
+			• Full subsidy of national exam fees.<br>
+			• Transport Subsidy: $17 transport per month* from the month of approval (for students taking public transport).<br>
+		 • School Meal Subsidy
+			</td>	
 </tr>
 <tr>
     <td class="tg-30">GHI $3,001 - $4,400; or<br>PCI $751 - $1,100</td>
