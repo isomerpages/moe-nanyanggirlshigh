@@ -18,6 +18,8 @@ The fees payable by students include school fees, miscellaneous fees, enrichment
 .sf .tg-30{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
 .sf .tg-50{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:50%;}	
 .sf .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+.sf .tg-50 p{font-size:15px !important;}		
+.sf .tg-50 ul{font-size:15px !important;}		
 </style>
 
 School fees are collected through Giro at quarterly intervals in February, April, July and October.
@@ -181,51 +183,51 @@ It is compulsory for all students to take part in the Inter-bank Giro scheme. Pa
 	<th class="th-25">FOR THE PERIOD</th>
 </tr>
 <tr>
-    <td class="tg-25">29/02/24</td>
+    <td style="text-align:center" class="tg-25">29/02/24</td>
 		<td class="tg-50">School Fee (Quarter 1)</td>	
 		<td class="tg-25">January to March</td>	
 </tr>
 <tr>
-    <td class="tg-25">28/03/24</td>
+    <td style="text-align:center" class="tg-25">28/03/24</td>
 		<td class="tg-50">Miscellaneous Fee (1st Half Year)</td>	
 		<td class="tg-25">January to June</td>	
 </tr>
 <tr>
-    <td class="tg-25">25/04/24</td>
+    <td style="text-align:center" class="tg-25">25/04/24</td>
 		<td class="tg-50">School Fee (Quarter 2)</td>	
 		<td class="tg-25">April to June</td>	
 </tr>
 <tr>
-    <td class="tg-25">30/04/24<br>(tentative)</td>
+    <td style="text-align:center" class="tg-25">30/04/24<br>(tentative)</td>
 		<td class="tg-50">Personalised Digital Learning Programme Device<br> <i>(For Sec 1 students only; where applicable)</i></td>	
 		<td class="tg-25">N.A</td>	
 </tr>
 <tr>
-    <td class="tg-25">31/05/24</td>
+    <td style="text-align:center" class="tg-25">31/05/24</td>
 		<td class="tg-50">Enrichment Programme Fee<br> <i>(where applicable)</i></td>	
 		<td class="tg-25">January to June</td>	
 </tr>	
 <tr>
-    <td class="tg-25">28/06/24</td>
+    <td style="text-align:center" class="tg-25">28/06/24</td>
 		<td class="tg-50">CCA Co-Payment</td>	
 		<td class="tg-25">January to December</td>	
 </tr>		
 <tr>
-    <td class="tg-25">05/07/24</td>
+    <td style="text-align:center" class="tg-25">05/07/24</td>
 		<td class="tg-50">School Fee (Quarter 3)</td>	
 		<td class="tg-25">July to September</td>	
 </tr>			
 <tr>
-    <td class="tg-25">30/08/24</td>
+    <td style="text-align:center" class="tg-25">30/08/24</td>
 		<td class="tg-50">Miscellaneous Fee (2nd Half Year)</td>	
 		<td class="tg-25">July to December</td>	
 </tr>			
 <tr>
-    <td class="tg-25">30/09/24</td>
+    <td style="text-align:center" class="tg-25">30/09/24</td>
 		<td class="tg-50">Enrichment Programme Fee<br> <i>(where applicable)</i></td>	
 		<td class="tg-25">July to December</td>	
 </tr>				
-<tr><td class="tg-25">04/10/24</td>
+<tr><td style="text-align:center" class="tg-25">04/10/24</td>
 		<td class="tg-50">School Fee (Quarter 4)</td>	
 		<td class="tg-25">October to December</td>	
 </tr>				
