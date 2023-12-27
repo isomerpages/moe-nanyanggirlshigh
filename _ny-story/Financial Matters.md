@@ -311,11 +311,11 @@ Note: The recipient of the above scholarship can only be in receipt of one schol
 
 **1\. Ministry of Education Independent School Bursary**
 
-[CLICK HERE](https://www.nygh.edu.sg/sites/default/files/moe_isb_2023_updated_17_oct_2022.pdf)&nbsp;to download MOE ISB Application Form (2024)
+[CLICK HERE](/files/MOE_ISB_2024.pdf)&nbsp;to download MOE ISB Application Form (2024)
 
 *   The applicant must be a Singapore citizen
 
-From 1 January 2023, the revised subsidy levels for MOE Independent School Bursary (ISB) are to as follows:&nbsp;&nbsp;
+From 1 January 2023, the revised subsidy levels for MOE Independent School Bursary (ISB) are to as follows:
 
 <table style="width: 100%" class="sf">  
 <tbody>
@@ -358,6 +358,6 @@ Additional benefits :-<ul style="font-size:15pt">
 
 *   Students who do not qualify for the MOE ISB may apply for financial assistance under the Nanyang Girls' School Financial Assistance Scheme.
 
-[CLICK HERE](/files/nygh_fas_2023.pdf)&nbsp;to download NYGH FAS Application Form (2024).
+[CLICK HERE](/files/NYGH_FAS_2024.pdf) to download NYGH FAS Application Form (2024).
 
-[CLICK HERE](/files/textbk_n_uniform_2023_revised.pdf)&nbsp;to download NYGH FAS for Textbook / School Attire Form (2024).
+[CLICK HERE](/files/Textbk_n_Uniform_2024.pdf) to download NYGH FAS for Textbook / School Attire Form (2024).
