@@ -251,7 +251,7 @@ The following scholarships and bursaries are available to our students.
 
 #####   A. MINISTRY OF EDUCATION (MOE) SCHOLARSHIP
 
-**1.**&nbsp;[**MOE EDUSAVE SCHOLARSHIPS FOR STUDENTS OF INDEPENDENT SCHOOLS (ESIS)**](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)
+**1\.**&nbsp;[**MOE EDUSAVE SCHOLARSHIPS FOR STUDENTS OF INDEPENDENT SCHOOLS (ESIS)**](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)
 
 **2\. MOE UPLIFT Scholarship**
 
