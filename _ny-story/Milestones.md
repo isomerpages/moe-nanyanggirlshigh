@@ -424,12 +424,9 @@ Nanyang Girls' Boarding School was established.<br>
 </tr>	
 <tr>
     <td class="tg-20">&nbsp;</td>
-	  <td class="tg-80"><img src="/images/milestones_2023.jpeg"><br></td>	
+	  <td class="tg-80"><img src="/images/milestones_2023.jpeg">
+			<p>Ms Siau Fong Fui started her teaching career at Anglo-Chinese School (Barker Road) and Anderson Junior College, where she eventually became Vice Principal in the latter. Following that, she was also Vice Principal at Clementi Town Secondary School, served as the Deputy Director of the Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education, and then appointed as the Principal of Nan Chiau High School. In 2023, she became the 17th Principal of our school.</p><br></td>	
 </tr>				
 	
 </tbody>
 </table>
-
-
-
-
