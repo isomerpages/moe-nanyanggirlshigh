@@ -2,5 +2,4 @@ collections:
   talent-development:
     output: true
     order:
-      - Sciences.md
       - Leadership.md
