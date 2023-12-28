@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - BSP & CLEP.md
       - SBGE.md
       - Aesthetics.md
       - Humanities.md
