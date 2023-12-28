@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - Humanities.md
       - Mathematics.md
       - Sciences.md
       - Leadership.md
