@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum Framework
 variant: markdown
 ---
-The ICT curriculum in Nanyang Girls' High School is designed to equip our students with essential digital competencies necessary in the 21st century. Aligned with MOE’s EdTech Masterplan 2030, we integrate these digital competencies under the "Find, Think, Apply, Create" framework across our Total Curriculum.
+The ICT curriculum in Nanyang Girls' High School is designed to equip our students with essential digital competencies necessary in the 21<sup>st</sup> century. Aligned with MOE’s EdTech Masterplan 2030, we integrate these digital competencies under the "Find, Think, Apply, Create" framework across our Total Curriculum.
 
   
 Secondary One students will have a solid foundation in Applied Digital Skills and Cyber Wellness built into their day-to-day school life. In Secondary Two, the compulsory module, "Computational Thinking and Basic Coding in Python", goes beyond coding, fostering problem-solving and logical reasoning in students. These programmes pave the way for further exploration in the Upper Secondary years, during which students can opt for elective modules on Intermediate and Advanced Coding in Python, as well as Introduction to AI and Machine Learning. This tiered approach ensures a progressive and comprehensive learning journey in digital literacy.
