@@ -28,8 +28,10 @@ The categories in general are:
 <li>the&nbsp;<strong>Core Academic Programme</strong>&nbsp;that is for all students and is mainly conducted during school hours,</li>
 <li>the&nbsp;<strong>Advanced Academic Programmes</strong>&nbsp;that are subject-specific for a selected group of Upper Secondary students with specific aptitude, attitude and strength. Students offer these subjects at greater depth of learning and lessons are conducted mainly during curriculum hours unless otherwise stated. Examples are Advanced Mathematics, Advanced Physics, Advanced Chemistry and Advanced Biology.</li>
 <li>the&nbsp;<strong>Academic Special Programmes</strong>&nbsp;that are subject-specific for selected groups of students with specific aptitude, attitude and strength. There are two components:<br>
-a.  Advanced Academic Programme with customised talent development programmes. Examples are Art Elective Programme, Higher Music Programme, Bicultural Studies Programme, Humanities Programme and Science &amp; Math Talent Programme.<br>
-b.  Specialized Programmes outside curriculum hours in school such as Malay Special Programme or outside school such as 3rd Language offered at the Ministry of Education Language Centre.</li>
+	<ol style="list-style-type: lower-latin;">
+<li> Advanced Academic Programme with customised talent development programmes. Examples are Art Elective Programme, Higher Music Programme, Bicultural Studies Programme, Humanities Programme and Science &amp; Math Talent Programme.</li>
+<li> Specialized Programmes outside curriculum hours in school such as Malay Special Programme or outside school such as 3rd Language offered at the Ministry of Education Language Centre.</li>
+	</ol></li>
 <li>the&nbsp;<strong>Enrichment Programme</strong>&nbsp;which offers options for all or selected students outside curriculum hours.</li>
 </ol>
 
