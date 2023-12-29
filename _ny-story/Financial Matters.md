@@ -251,7 +251,7 @@ The following scholarships and bursaries are available to our students.
 
 #####   A. MINISTRY OF EDUCATION (MOE) SCHOLARSHIP
 
-**1\.**&nbsp;[**MOE EDUSAVE SCHOLARSHIPS FOR STUDENTS OF INDEPENDENT SCHOOLS (ESIS)**](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)
+**1\.**&nbsp;<a target="_blank" href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent"><b>MOE EDUSAVE SCHOLARSHIPS FOR STUDENTS OF INDEPENDENT SCHOOLS (ESIS)</b></a>
 
 **2\. MOE UPLIFT Scholarship**
 
@@ -311,7 +311,7 @@ Note: The recipient of the above scholarship can only be in receipt of one schol
 
 **1\. Ministry of Education Independent School Bursary**
 
-[CLICK HERE](/files/MOE_ISB_2024.pdf)&nbsp;to download MOE ISB Application Form (2024)
+<a target="_blank" href="/files/MOE_ISB_2024.pdf">CLICK HERE</a>&nbsp;to download MOE ISB Application Form (2024)
 
 *   The applicant must be a Singapore citizen
 
@@ -358,6 +358,6 @@ Additional benefits :<br>
 
 *   Students who do not qualify for the MOE ISB may apply for financial assistance under the Nanyang Girls' School Financial Assistance Scheme.
 
-[CLICK HERE](/files/NYGH_FAS_2024.pdf) to download NYGH FAS Application Form (2024).
+<a target="_blank" href="/files/NYGH_FAS_2024.pdf">CLICK HERE</a> to download NYGH FAS Application Form (2024).
 
-[CLICK HERE](/files/Textbk_n_Uniform_2024.pdf) to download NYGH FAS for Textbook / School Attire Form (2024).
+<a target="_blank" href="/files/Textbk_n_Uniform_2024.pdf">CLICK HERE</a> to download NYGH FAS for Textbook / School Attire Form (2024).
