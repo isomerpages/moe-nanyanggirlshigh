@@ -415,9 +415,8 @@ Staff recruitment is an ongoing process at Nanyang Girls' High School. We are co
 To apply, please download a copy of the relevant application form and email it to Human Resource Unit (Recruitment) at&nbsp;[CAREERS@NYGH.EDU.SG](mailto:careers@nygh.edu.sg).
 
 *  <a target="_blank" href="/files/employment_application_form_teaching.pdf">APPLICATION FORM FOR TEACHING POSITIONS</a>
-*   [APPLICATION FORM FOR TEACHING POSITIONS](/files/employment_application_form_teaching.pdf)
-*   [APPLICATION FORM FOR NON-TEACHING POSITIONS](/files/employment_application_form_non-teaching.pdf)
-*   [APPLICATION FORM FOR RELIEF STAFF POSITIONS](/files/employment_application_form_relief.pdf)
+*  <a target="_blank" href="/files/employment_application_form_non-teaching.pdf">APPLICATION FORM FOR NON-TEACHING POSITIONS</a>
+*  <a target="_blank" href="/files/employment_application_form_non-teaching.pdf">APPLICATION FORM FOR TEACHING POSITIONS</a>
 
 **You may also send your&nbsp;applications to:**&nbsp;  
   
