@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /talent-development/aesthetics/
 description: ""
+third_nav_title: Talent Development
 ---
 ### Art Elective Programme (AEP)
 

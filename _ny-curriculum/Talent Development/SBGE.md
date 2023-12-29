@@ -2,6 +2,7 @@
 title: SBGE
 permalink: /talent-development/sbge/
 description: ""
+third_nav_title: Talent Development
 ---
 The NYGH School-Based Gifted Education (SBGE) aims to provide instruction and enrichment that appropriately challenge and support these students. We aim to develop intellectual rigour, humanity and creativity in the youths and prepare them for responsible leadership and service to country and society.
 

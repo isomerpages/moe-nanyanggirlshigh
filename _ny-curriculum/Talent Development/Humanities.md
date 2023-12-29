@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /talent-development/humanities/
 description: ""
+third_nav_title: Talent Development
 ---
 #### The NYGH Humanities Programme (HP) was introduced with the aim to provide students with outstanding talents in the Humanities an enriched curriculum in terms of breadth and depth of coverage.  
 

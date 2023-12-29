@@ -2,6 +2,7 @@
 title: BSP & CLEP
 permalink: /talent-development/bsp-clep/
 description: ""
+third_nav_title: Talent Development
 ---
 ### Bicultural Studies Programme (Chinese)
 

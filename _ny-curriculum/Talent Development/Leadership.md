@@ -2,6 +2,7 @@
 title: Leadership
 permalink: /talent-development/leadership/
 description: ""
+third_nav_title: Talent Development
 ---
 The school aims to nurture all students to be role models and servant leaders, who are confident to lead those around them and remain resilient in the face of challenges and changes. Through a range of activities such as lesson discussions, on-the-job experiences and mentoring by teachers and seniors, students are developed to become caring and empathetic leaders who are capable of making informed choices, showing clarity and purpose in their thoughts and actions.  
  

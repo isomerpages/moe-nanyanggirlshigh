@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /talent-development/mathematics/
 description: ""
+third_nav_title: Talent Development
 ---
 ### Maths Olympiad Training
 

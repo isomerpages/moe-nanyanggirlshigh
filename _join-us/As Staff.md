@@ -2,16 +2,17 @@
 title: As Staff
 permalink: /join-us/as-staff/
 description: ""
+variant: markdown
 ---
 Founded in 1917, Nanyang Girls’ High School is a premier independent and Special Assistance Plan (SAP) school that provides an all-round holistic education to the students.
 
 It is an institution with a vibrant history, a rich tradition in bicultural education and a global perspective.
 
-Nanyang Girls’ High School invites applications from qualified, highly motivated individuals, to be part of the dynamic, committed and innovative workforce.
+Nanyang Girls’ High School invites applications from&nbsp;qualified, highly motivated individuals, to be part of the dynamic, committed and innovative workforce.
 
 ## We are looking for:
 
- 
+&nbsp;
 
 ##### SUBJECT HEAD, CHINA STUDIES
 
@@ -153,11 +154,11 @@ Requirements:
 
 * * *
 
-##### HISTORY & SOCIAL STUDIES TEACHER
+##### HISTORY &amp; SOCIAL STUDIES TEACHER
 
 Requirements:
 
-*   Relevant degree in subject areas; History & Social Studies;
+*   Relevant degree in subject areas; History &amp; Social Studies;
 *   Competent in subject area as well as CCE and co-curricular areas;
 *   Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;
 *   Have a good understanding of the concept-based approach to learning and interdisciplinary learning;
@@ -240,11 +241,11 @@ Requirements:
 
 Requirements:
 
-*   Relevant degree or Diploma in Design & Technology/Visual Art/Engineering;
+*   Relevant degree or Diploma in Design &amp; Technology/Visual Art/Engineering;
 *   Proficient in use of Maker tools and equipment, and able to demonstrate;
 *   Able to role-model safe practices in the MakerSpace;
 *   Familiarity with the objectives, concepts, and relevant learning experiences of Maker Education curriculum;
-*   Experience teaching any of the following will be preferred; Maker, D&T, Design Thinking or Visual Art;
+*   Experience teaching any of the following will be preferred; Maker, D&amp;T, Design Thinking or Visual Art;
 *   Competent in subject area as well as CCE and co-curricular areas;
 *   Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;
 *   Have a good understanding of the concept-based approach to learning and interdisciplinary learning;
@@ -277,11 +278,11 @@ Requirements:
 
 Requirements:
 
-*   Relevant degree or Diploma in Design & Technology/Visual Art/Engineering;
+*   Relevant degree or Diploma in Design &amp; Technology/Visual Art/Engineering;
 *   Proficient in use of Maker tools and equipment, and able to demonstrate;
 *   Able to role-model safe practices in the MakerSpace;
 *   Familiarity with the objectives, concepts, and relevant learning experiences of Maker Education curriculum;
-*   Experience teaching any of the following will be preferred; Maker, D&T, Design Thinking or Visual Art;
+*   Experience teaching any of the following will be preferred; Maker, D&amp;T, Design Thinking or Visual Art;
 *   Competent in subject area as well as CCE and co-curricular areas;
 *   Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;
 *   Have a good understanding of the concept-based approach to learning and interdisciplinary learning;
@@ -298,7 +299,7 @@ Responsibilities:
 
 To assist the Bursar in the following areas :
 
-  
+&nbsp;&nbsp;
 
 1.  Finance
 
@@ -308,27 +309,27 @@ To assist the Bursar in the following areas :
 *   Cash Flow Monitoring;
 *   Internal Controls;
 *   Submission of grant/funding reports to MOE;
-*   Administration of financial assistance for students & disbursement of the various funds;
+*   Administration of financial assistance for students &amp; disbursement of the various funds;
 *   Bank signatories, investment, tender and audit matters;
-*   Any other finance related matters. 
+*   Any other finance related matters.&nbsp;
 
-2.  HR Compensation & Benefits
+2.  HR Compensation &amp; Benefits
 
 *   Administration of staff remuneration and related matters;
-*   Staff group insurance & general insurance matters.
+*   Staff group insurance &amp; general insurance matters.
 
 3.  Board of Directors Matters
 
 *   Co-ordinating and preparation of papers for Board related meetings;
-*   Administration of retirement & re-appointment of directors;
+*   Administration of retirement &amp; re-appointment of directors;
 *   Administration of the company secretarial matters.
 
- 
+&nbsp;
 
 Requirements:
 
 *   Degree in Accountancy or its equivalent;
-*   Able to work independently with various internal & external stakeholders;
+*   Able to work independently with various internal &amp; external stakeholders;
 *   Able to navigate ambiguity, manage multiple assignments simultaneously and provide clarity and structure;
 *   Good knowledge of SAP HANA financial system;
 *   At least 5 years of relevant experience in accounting, financial planning/management and internal control is preferred.
@@ -342,7 +343,7 @@ Responsibilities:
 *   In-depth knowledge in at least one sport and ability to teach multiple sports for PE;
 *   Coaching ability is not essential but will be favourably considered.
 
- 
+&nbsp;
 
 Requirements:
 
@@ -361,7 +362,7 @@ Requirements:
 *   General Administration (competent in MS Office /office paperwork);
 *   Operational role (enjoy non desk-bound work);
 *   Enjoys people interactions;
-*   Competent in written & spoken Mandarin and English language;
+*   Competent in written &amp; spoken Mandarin and English language;
 *   Accommodation provided - stay-in three nights per week;
 *   5-day work week (including rostered weekends);
 *   Mature and Independent worker.
@@ -374,11 +375,11 @@ Tell us about yourself, your relevant work experience, and why you might fit thi
 
 Responsibilities:
 
-*   HR operations which includes recruitment, onboarding, training & development, benefits management and exit management;;
+*   HR operations which includes recruitment, onboarding, training &amp; development, benefits management and exit management;;
 *   Assist on p-filing and maintenance of HRIS database;
 *   Involve in ad hoc projects and administrative duties.
 
- 
+&nbsp;
 
 Requirements:
 
@@ -411,13 +412,13 @@ Requirements:
 
 Staff recruitment is an ongoing process at Nanyang Girls' High School. We are constantly looking for suitably qualified and committed staff to join our team.
 
-To apply, please download a copy of the relevant application form and email it to Human Resource Unit (Recruitment) at [CAREERS@NYGH.EDU.SG](mailto:careers@nygh.edu.sg).
+To apply, please download a copy of the relevant application form and email it to Human Resource Unit (Recruitment) at&nbsp;[CAREERS@NYGH.EDU.SG](mailto:careers@nygh.edu.sg).
 
-*   [APPLICATION FORM FOR TEACHING POSITIONS](/files/employment_application_form_teaching.pdf)
-*   [APPLICATION FORM FOR NON-TEACHING POSITIONS](/files/employment_application_form_non-teaching.pdf)
-*   [APPLICATION FORM FOR RELIEF STAFF POSITIONS](/files/employment_application_form_relief.pdf)
+*  <a target="_blank" href="/files/employment_application_form_teaching.pdf">APPLICATION FORM FOR TEACHING POSITIONS</a>
+*  <a target="_blank" href="/files/employment_application_form_non-teaching.pdf">APPLICATION FORM FOR NON-TEACHING POSITIONS</a>
+*  <a target="_blank" href="/files/employment_application_form_non-teaching.pdf">APPLICATION FORM FOR TEACHING POSITIONS</a>
 
-**You may also send your applications to:**   
+**You may also send your&nbsp;applications to:**&nbsp;  
   
 Human Resource Manager  
 Nanyang Girls’ High School  
