@@ -2,6 +2,7 @@
 title: Global Alumni
 permalink: /ny-story/global-alumni/
 description: ""
+variant: markdown
 ---
 Established in 1917, Nanyang Girls’ High School has an illustrious family of alumni who are based both in and outside Singapore.
 
@@ -9,5 +10,4 @@ Our alumni have continually shown strong support to the school by enriching our 
 
 Regardless of where our alumni are located, we want to create a comfortable platform where all our old girls can remain connected with their alma mater and friends.
 
-To reach out to all our alumni, we welcome all to join the [NANYANG SCHOOLS ALUMNI ASSOCIATION](http://nanyang.org.sg/).
-
+To reach out to all our alumni, we welcome all to join the&nbsp;<a target="_blank" href="http://nanyang.org.sg/">NANYANG SCHOOLS ALUMNI ASSOCIATION</a>.
