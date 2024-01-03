@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Nanyang Girls' High Shool
+title: Nanyang Girls' High School
 description: Official website of Nanyang Girls' High School in Singapore
 image: /images/school-crest.png
 permalink: /
