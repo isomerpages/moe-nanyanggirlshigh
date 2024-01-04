@@ -81,8 +81,8 @@ Ms Siau Fong Fui
 
 **Vice Principal**  
 Ms Ng Mien Mien Agnes  
-Dr Liu Shiueh Ling  
-Ms Goh Bee Lim Mabel
+Ms Goh Bee Lim Mabel<br>
+Mrs Ho-Tan Meei Yee Mae Pauline 
 
 * * *
 
@@ -91,5 +91,4 @@ Mrs Tan-Sim Joo Yee
 
 * * *
 
-Click [HERE](/images.orgchart2021.png) to view the School Organisation Chart.
-
+Click&nbsp;HERE&nbsp;to view the School Organisation Chart.
