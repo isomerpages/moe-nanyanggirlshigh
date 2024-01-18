@@ -66,20 +66,20 @@ School fees are collected through Giro at quarterly intervals in February, April
 		<th rowspan="1" colspan="1" class="th-15">TIME PERIOD</th>
 	</tr>	
 	<tr>
-		<td rowspan="3" colspan="1" class="tg-10">Respectful Relationships &amp; Safety</td>
-		<td rowspan="1" colspan="1" class="tg-15">Steady or Not<br>Lesson 1<br>(60 mins)</td>
+		<td rowspan="3" colspan="1" class="tg-10"><strong>Respectful Relationships &amp; Safety</strong></td>
+		<td rowspan="1" colspan="1" class="tg-15">Steady or Not<br><br>Lesson 1<br>(60 mins)</td>
 		<td rowspan="1" colspan="1" class="tg-30">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
-		<td rowspan="1" colspan="1" class="tg-30"><ul><li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li><li> Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li><li> Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li><li> Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></ul></td>
-		<td rowspan="1" colspan="1" class="tg-15"><p>Term 3 Week 2</p></td>
+		<td rowspan="1" colspan="1" class="tg-30"><ul><li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li><li>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li><li>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li><li>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></ul></td>
+		<td rowspan="1" colspan="1" class="tg-15">Term 3 Week 2</td>
 	</tr>	
 	<tr>
-		<td rowspan="1" colspan="1"><p>Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</p></td>
-		<td rowspan="1" colspan="1"><p>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</p><p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p></td>
-		<td rowspan="1" colspan="1"><p>● Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</p></td>
-		<td rowspan="1" colspan="1"><p>Term 3 Week 3</p></td>
+		<td rowspan="1" colspan="1" class="tg-15">Being Aware, Being Safe<br><br>Lesson 2<br>(60 mins)</td>
+		<td rowspan="1" colspan="1" class="tg-30">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+		<td rowspan="1" colspan="1" class="tg-30"><ul><li>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li></ul></td>
+		<td rowspan="1" colspan="1" class="tg-15">Term 3 Week 3</td>
 	</tr>
 	<tr>
-		<td rowspan="1" colspan="1"><p>More than Meets the Eye<br>Lesson 3<br>(60 mins)</p></td>
+		<td rowspan="1" colspan="1">More than Meets the Eye<br>Lesson 3<br>(60 mins)</td>
 		<td rowspan="1" colspan="1"><p>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</p><p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p></td>
 		<td rowspan="1" colspan="1"><p>● Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>● Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p></td>
 		<td rowspan="1" colspan="1"><p>Term 3 Week 4</p></td>
