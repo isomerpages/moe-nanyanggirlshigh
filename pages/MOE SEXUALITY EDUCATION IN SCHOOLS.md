@@ -40,20 +40,37 @@ description: ""
 	
 <h5>At Nanyang Girls’ High School, the following Sexuality Education lessons will be taught in <u>2024</u>:</h5>
 <h5><center><strong>SECONDARY 1</strong></center></h5>
-<table><tbody>
+
+<style type="text/css">
+.se  {border-collapse:collapse;border-spacing:0;}
+.se td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.se .th-10{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:10%;}
+.se .th-15{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:15%;}	
+.se .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:30%;}
+.se .tg-10{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:10%;}	
+.se .tg-15{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:15%;}	
+.se .tg-30{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
+.se .tg-30 ul{font-size:15px !important;}		
+</style>
+
+School fees are collected through Giro at quarterly intervals in February, April, July and October.
+
+(a) The monthly rates for students who are Singapore Citizens are as follows:
+
+<table style="width: 100%" class="se"><tbody>
 	<tr>
-		<th rowspan="1" colspan="1"><p>UNIT</p></th>
-		<th rowspan="1" colspan="1"><p>LESSON TITLE / DURATION</p></th>
-		<th rowspan="1" colspan="1"><p>LESSON OVERVIEW</p></th>
-		<th rowspan="1" colspan="1"><p>LESSON OBJECTIVES</p><p>At the end of the lesson, students will be able to:</p></th>
-		<th rowspan="1" colspan="1"><p>TIME PERIOD<br>(e.g. Term 1 Week 2)</p></th>
+		<th rowspan="1" colspan="1" class="th-10">UNIT</th>
+		<th rowspan="1" colspan="1" class="th-15">LESSON TITLE / DURATION</th>
+		<th rowspan="1" colspan="1" class="th-30">LESSON OVERVIEW</th>
+		<th rowspan="1" colspan="1" class="th-30">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+		<th rowspan="1" colspan="1" class="th-15">TIME PERIOD</th>
 	</tr>	
 	<tr>
-		<td rowspan="3" colspan="1"><p>Respectful Relationships &amp; Safety</p></td>
-		<td rowspan="1" colspan="1"><p>Steady or Not<br>Lesson 1<br>(60 mins)</p></td>
-		<td rowspan="1" colspan="1"><p>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</p></td>
-		<td rowspan="1" colspan="1"><p>● Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>● Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>● Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>● Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</p></td>
-		<td rowspan="1" colspan="1"><p>Term 3 Week 2</p></td>
+		<td rowspan="3" colspan="1" class="tg-10">Respectful Relationships &amp; Safety</td>
+		<td rowspan="1" colspan="1" class="tg-15">Steady or Not<br>Lesson 1<br>(60 mins)</td>
+		<td rowspan="1" colspan="1" class="tg-30">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+		<td rowspan="1" colspan="1" class="tg-30"><ul><li>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li><li> Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li><li> Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li><li> Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li></ul></td>
+		<td rowspan="1" colspan="1" class="tg-15"><p>Term 3 Week 2</p></td>
 	</tr>	
 	<tr>
 		<td rowspan="1" colspan="1"><p>Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</p></td>
