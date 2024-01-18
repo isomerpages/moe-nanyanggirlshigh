@@ -50,7 +50,7 @@ description: ""
 .se .tg-10{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:10%;}	
 .se .tg-15{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:15%;}	
 .se .tg-30{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
-.se .tg-30 ul{font-size:15px !important;}		
+.se .tg-30 ul{font-size:15px !important; line-height: inherit;}		
 </style>
 
 School fees are collected through Giro at quarterly intervals in February, April, July and October.
