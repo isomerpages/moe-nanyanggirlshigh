@@ -47,15 +47,11 @@ description: ""
 .se .th-10{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:10%;}
 .se .th-15{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:15%;}	
 .se .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:30%;}
-.se .tg-10{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:10%;}	
+.se .tg-10{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:10%; border-right:1px solid #00558D;}	
 .se .tg-15{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:15%;}	
 .se .tg-30{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
 .se .tg-30 ul{font-size:15px !important; line-height: inherit;}		
 </style>
-
-School fees are collected through Giro at quarterly intervals in February, April, July and October.
-
-(a) The monthly rates for students who are Singapore Citizens are as follows:
 
 <table style="width: 100%" class="se"><tbody>
 	<tr>
@@ -79,10 +75,10 @@ School fees are collected through Giro at quarterly intervals in February, April
 		<td rowspan="1" colspan="1" class="tg-15">Term 3 Week 3</td>
 	</tr>
 	<tr>
-		<td rowspan="1" colspan="1">More than Meets the Eye<br>Lesson 3<br>(60 mins)</td>
-		<td rowspan="1" colspan="1"><p>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</p><p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p></td>
-		<td rowspan="1" colspan="1"><p>● Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>● Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p></td>
-		<td rowspan="1" colspan="1"><p>Term 3 Week 4</p></td>
+		<td rowspan="1" colspan="1" class="tg-15">More than Meets the Eye<br><br>Lesson 3<br>(60 mins)</td>
+		<td rowspan="1" colspan="1" class="tg-30">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+		<td rowspan="1" colspan="1" class="tg-30"><ul><li>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li><li>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li></ul></td>
+		<td rowspan="1" colspan="1" class="tg-15">Term 3 Week 4</td>
 	</tr>
 </tbody></table>
 	
