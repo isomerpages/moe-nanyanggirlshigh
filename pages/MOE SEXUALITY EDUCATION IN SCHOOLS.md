@@ -47,10 +47,15 @@ description: ""
 .se .th-10{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:10%;}
 .se .th-15{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:15%;}	
 .se .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:30%;}
+.se .th-70{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:15px; vertical-align: middle; width:70%;}	
 .se .tg-10{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:10%; border-right:1px solid #00558D;}	
 .se .tg-15{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:15%;}	
 .se .tg-30{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
+.se .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}		
 .se .tg-30 ul li{font-size:15px !important; line-height: inherit;}		
+.se .tg-70 ol li{font-size:15px !important; line-height: inherit;}	
+.se .tg-70 ul li{font-size:15px !important; line-height: inherit;}		
+	
 </style>
 
 <table style="width: 100%" class="se"><tbody>
@@ -178,4 +183,29 @@ description: ""
 </tr>
 </tbody></table>
 
-<p>&nbsp;</p><p><strong><u>eTeens Programme</u></strong>:<br>8. <em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments – a mass talk segment and a classroom-based programme.</p><p>9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.</p><p><strong>At Nanyang Girls’ High School, the eTeens programme will be implemented as follows in 2023:</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Topics/Lessons</p></th><th rowspan="1" colspan="1"><p>Programme Learning Objectives</p></th><th rowspan="1" colspan="1"><p>Time Period<br>(e.g. Term 3 Week 9)</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mass Talk by HPB appointed vendor</p></td><td rowspan="1" colspan="1"><p>● Awareness of the different STIs and HIV/AIDS<br>● Modes of transmission<br>● Modes of protection, specifically on how the condom is used<br>● Consequences and impact of STIs/HIV</p></td><td rowspan="1" colspan="1"><p>Term 3 Week 10</p></td></tr><tr><td rowspan="1" colspan="1"><p>Classroom-based<br>Lesson</p></td><td rowspan="1" colspan="1"><p>● Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p></td><td rowspan="1" colspan="1"><p>Term 3 Week 10</p></td></tr></tbody></table><p>&nbsp;</p><p><strong>INFORMATION FOR PARENTS</strong><br>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p><p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/15dIQ0LpydoFB7sM6Fem51ot2gKh-FbAh/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed form is to be submitted by 17/02/2023.</p><p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1NJXtJ1ubXvHJNwLsa7TiTzxXxFpaRPzb/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed form is to be submitted by 17/02/2023.</p><p>13. Parents can contact the school at (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">ELIZABETH_NICOLE_CUTTER@NYGH.EDU.SG</a>) for discussion or to seek clarification about the school’s Sexuality Education programmme</p>
+<h5><i>eTeens</i> Programme:</h5>
+<ol start="8">
+	<li><i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.</li>
+	<li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. </li>
+</ol>	
+<p><strong>At Nanyang Girls’ High School, the eTeens programme will be implemented as follows in 2024:</strong></p>
+<table style="width: 100%" class="se"><tbody>
+	<tr>
+		<th rowspan="1" colspan="1" class="th-15">Topics/Lessons</th>
+		<th rowspan="1" colspan="1" class="th-70">Programme Learning Objectives</th>
+		<th rowspan="1" colspan="1" class="th-15">Time Period</th>
+	</tr>
+	<tr>
+		<td rowspan="1" colspan="1" class="tg-15">Mass Talk by HPB appointed vendor</td>
+		<td rowspan="1" colspan="1" class="tg-70"><ul><li>Raise awareness and provide knowledge on:
+			<ol style="list-style-type: lower-alpha;"><li>Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</li><li>Managing relationships and risky situations in a healthy way.</li></ol></li></ul>
+		</td><td rowspan="1" colspan="1" class="tg-15">Term 3 Week 10</td>
+	</tr>
+	<tr>
+		<td rowspan="1" colspan="1" class="tg-15">Classroom-based<br>Lesson</td>
+		<td rowspan="1" colspan="1" class="tg-70"><ul><li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li></ul></td>
+		<td rowspan="1" colspan="1" class="tg-15">Term 3 Week 10</td>
+	</tr>
+</tbody></table>
+
+<p>&nbsp;</p><p><strong>INFORMATION FOR PARENTS</strong><br>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p><p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/15dIQ0LpydoFB7sM6Fem51ot2gKh-FbAh/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed form is to be submitted by 17/02/2023.</p><p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1NJXtJ1ubXvHJNwLsa7TiTzxXxFpaRPzb/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed form is to be submitted by 17/02/2023.</p><p>13. Parents can contact the school at (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">ELIZABETH_NICOLE_CUTTER@NYGH.EDU.SG</a>) for discussion or to seek clarification about the school’s Sexuality Education programmme</p>
