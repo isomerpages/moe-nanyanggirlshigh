@@ -10,17 +10,15 @@ description: ""
 		<ol style="list-style-type: lower-alpha;">
 			<li>Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. </li>
 			<li>Guide students to make wise, informed and responsible decisions on sexuality matters. </li>
-			<li>Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </li>
-		</ol></li>
+			<li>Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </li></ol></li>
 	<li>The <strong>Key Messages</strong> of Sexuality Education are:
 			<ol style="list-style-type: lower-alpha;">
 				<li>Love and respect yourself as you love and respect others;</li>
 				<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
 				<li>Make responsible decisions for yourself, your family and society; and</li>
-				<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
-		</ol></li>
+				<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li></ol></li>
 </ol>
-		<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for more information on MOE Sexuality Education.</p>
 		
 <h4>OVERVIEW OF NANYANG GIRLS’ HIGH SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</h4>
 <ol start="4">
@@ -214,4 +212,4 @@ description: ""
 	<li>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year through Parents’ Gateway and is also downloadable <a href="https://drive.google.com/file/d/1irl86_7rf274Ve3Gu-GbiHQ-_6rLNbMk/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed form is to be submitted by 18/02/2024.</li>
 	<li>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year through Parents’ Gateway and is also downloadable <a href="https://drive.google.com/file/d/1ZdttxY67oOJQEApP2_1GxSyASQSzOtB4/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">HERE</a>. The completed form is to be submitted by 17/02/2023.</li>
 	<li>Parents can contact the school’s Sexuality Education Coordinator, Ms Elizabeth Cutter at <a href="mailto:elizabeth_nicole_cutter@nygh.edu.sg">elizabeth_nicole_cutter@nygh.edu.sg</a> or at 6506 7183 for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
-</ol>	
+</ol>
