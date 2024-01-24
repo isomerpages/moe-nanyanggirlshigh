@@ -1,0 +1,9 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - As Students.md
+      - As Nanyang Girls' Boarding Boarders.md
+      - As Member of Alumni Association.md
+      - As Staff.md
+      - As Canteen Operators.md
