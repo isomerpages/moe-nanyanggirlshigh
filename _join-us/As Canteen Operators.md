@@ -9,7 +9,7 @@ We are inviting interest applicants to operate the following stalls from January
 <ul data-tight="true" class="tight">
 	<li>Vegetarian Food Stall</li>
 </ul>
-Date of Application: 15 – 31 January 2024
+
 	
 ## Criteria
 Applicants should meet the following criteria:
@@ -25,7 +25,7 @@ Applicants should meet the following criteria:
 
 ## Application Procedure
 <ol data-tight="true" class="tight">
-	<li>Application forms are available at our General Office (2 Linden Drive S288683) or can be downloaded <a href="/files/NYGH_Canteen_stall_application_form__updated2024_.pdf" target="_blank">here</a>.</li>
+	<li>Application forms are available at our General Office (2 Linden Drive S288683) or can be downloaded <a href="/files/NYGH_Canteen_stall_application_form__20240201_.pdf" target="_blank">here</a>.</li>
 	<li>Interested applicants must submit the following documents:</li>
 	<ol style="list-style-type: lower-alpha;">
 		<li>Completed application form</li>
@@ -33,6 +33,6 @@ Applicants should meet the following criteria:
 		<li>Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.</li>
 		<li>Photocopy of the Identification Card (front &amp; back).</li>
 	</ol>
-	<p>Please submit the completed application form with the supporting documents to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by 31 January 2024.</p>
+	<p>Please submit the completed application form with the supporting documents to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by 29 Feb 2024.</p>
 	<li>Shortlisted applicants will be invited for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</li>
 </ol>
