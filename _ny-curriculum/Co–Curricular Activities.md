@@ -36,14 +36,14 @@ We strongly believe in fostering and nurturing our students’ talents and abili
 <tr>
     <td class="tg-25">Netball</td>
 		<td class="tg-25">Softball</td>	
-	  <td class="tg-25">Sports Club</td>	
-		<td class="tg-25">Table Tennis</td>	
+	  <td class="tg-25">Table Tennis</td>	
+		<td class="tg-25">Tennis</td>	
 </tr>
 <tr>
-    <td class="tg-25">Tennis</td>
 		<td class="tg-25">Track &amp; Field</td>	
 	  <td class="tg-25">Volleyball</td>	
 		<td class="tg-25">Wushu</td>	
+	  <td class="tg-25">&nbsp;</td>
 </tr>
 <tr><td>&nbsp;</td></tr>	
 <tr>
@@ -85,6 +85,10 @@ We strongly believe in fostering and nurturing our students’ talents and abili
 		<td class="tg-25">Nature Society</td>	
 	  <td class="tg-25">Outdoor Club</td>	
 </tr>	
+		<tr><td class="tg-25">Sports Club</td>	
+	  <td class="tg-25">&nbsp;</td>
+		<td class="tg-25">&nbsp;</td>	
+	  <td class="tg-25">&nbsp;</td>	
+</tr>	
 </tbody>
 </table>
-
