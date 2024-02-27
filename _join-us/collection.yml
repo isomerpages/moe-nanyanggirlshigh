@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - As Students.md
+      - As Staff.md
+      - As CCA Instructors.md
+      - As Canteen Operators.md
       - As Nanyang Girls' Boarding Boarders.md
       - As Member of Alumni Association.md
-      - As Staff.md
-      - As Canteen Operators.md
