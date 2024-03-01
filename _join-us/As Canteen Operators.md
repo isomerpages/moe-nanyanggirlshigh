@@ -33,6 +33,6 @@ Applicants should meet the following criteria:
 		<li>Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.</li>
 		<li>Photocopy of the Identification Card (front &amp; back).</li>
 	</ol>
-	<p>Please submit the completed application form with the supporting documents to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by 29 Feb 2024.</p>
+	<p>Please submit the completed application form with the supporting documents to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by 31 March 2024.</p>
 	<li>Shortlisted applicants will be invited for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</li>
 </ol>
