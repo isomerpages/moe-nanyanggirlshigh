@@ -13,7 +13,63 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for:</h2>
-<p>&nbsp;</p>
+<p>&nbsp;ADMIN OFFICER (PART-TIME)</p>
+<p>Responsibilities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Handle the reception counter at school general office – loan of items,
+room keys, lost and found items etc.;</p>
+</li>
+<li>
+<p>Attend to walk-in customers and phone calls;</p>
+</li>
+<li>
+<p>Record and distribute mails. Inform staff with school or personal parcel
+delivery;</p>
+</li>
+<li>
+<p>Monitor students with Leave School Early application, ensure they call
+to inform they reach home safely;</p>
+</li>
+<li>
+<p>Take care of students coming to sick bay, including the administration
+of simple first aid for students;</p>
+</li>
+<li>
+<p>Issue of S1 School Smart Card and Student Pass;</p>
+</li>
+<li>
+<p>Student print job service;</p>
+</li>
+<li>
+<p>Laminating school materials for staff/ school events (eg. Open House,
+GCP, CCA, etc.);</p>
+</li>
+<li>
+<p>Refreshment for school guests (order and washing up);</p>
+</li>
+<li>
+<p>Maintain the supplies of exam stationery; and</p>
+</li>
+<li>
+<p>Other ad-hoc duties as and when assigned by the School Senior Management
+Team.</p>
+</li>
+</ul>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCE “A” or “O” Level;</p>
+</li>
+<li>
+<p>Excellent communication skills, meticulous, good team player and ability
+to multi-task; and</p>
+</li>
+<li>
+<p>Prior experience working in a school will be an added advantage.</p>
+</li>
+</ul>
+<hr>
 <h5>ACCOUNTS MANAGER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
