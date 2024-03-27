@@ -1,38 +1,86 @@
 ---
 title: As Canteen Operators
 permalink: /join-us/as-canteen-operators/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-**Nanyang Girls’ High School** has a student enrolment of about 1600 students. We are located at No 2, Linden Drive S288683.
-We are inviting interest applicants to operate the following stalls from January 2024 onwards:
+<p><strong>Nanyang Girls’ High School</strong> has a student enrolment of
+about 1600 students. We are located at No 2, Linden Drive S288683. We are
+inviting interest applicants to operate the following stalls from January
+2024 onwards:</p>
 <ul data-tight="true" class="tight">
-	<li>Vegetarian Food Stall</li>
+<li>
+<p>Vegetarian Food Stall</p>
+</li>
 </ul>
-
-	
-## Criteria
-Applicants should meet the following criteria:
+<h2>Criteria</h2>
+<p>Applicants should meet the following criteria:</p>
 <ol data-tight="true" class="tight">
-	<li>Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.</li>
-	<li>Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</li>
-	<li>Maintain high standard of food and personal hygiene set out by Singapore Food Agency (SFA) for food handlers.</li>
-	<li>Applicant must be in personal attendance at the stall during operating hours.</li>
-	<li>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency).</li>
-	<li>Successful applicant will need to apply for a food stall license from SFA.</li>
-	<li>Applicants with experience in running a school canteen stall or catering experience is preferred.</li><li>Applicants who adopt green practices are also preferred.</li>
+<li>
+<p>Singapore Citizens or Singapore Permanent Residents aged 21 years old
+and above.</p>
+</li>
+<li>
+<p>Adhere to Healthy Meals in School Programme (HMSP) where all food sold
+must meet the programme requirement. Please see details at (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</p>
+</li>
+<li>
+<p>Maintain high standard of food and personal hygiene set out by Singapore
+Food Agency (SFA) for food handlers.</p>
+</li>
+<li>
+<p>Applicant must be in personal attendance at the stall during operating
+hours.</p>
+</li>
+<li>
+<p>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic
+Food Hygiene Course conducted by any of the accredited training providers
+appointed by WDA (Workforce Development Agency).</p>
+</li>
+<li>
+<p>Successful applicant will need to apply for a food stall license from
+SFA.</p>
+</li>
+<li>
+<p>Applicants with experience in running a school canteen stall or catering
+experience is preferred.</p>
+</li>
+<li>
+<p>Applicants who adopt green practices are also preferred.</p>
+</li>
 </ol>
-
-## Application Procedure
+<h2>Application Procedure</h2>
 <ol data-tight="true" class="tight">
-	<li>Application forms are available at our General Office (2 Linden Drive S288683) or can be downloaded <a href="/files/NYGH_Canteen_stall_application_form__2024_.pdf" target="_blank">here</a>.</li>
-	<li>Interested applicants must submit the following documents:</li>
-	<ol style="list-style-type: lower-alpha;">
-		<li>Completed application form</li>
-		<li>List of proposed menu and pricing for all items to be sold</li>
-		<li>Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.</li>
-		<li>Photocopy of the Identification Card (front &amp; back).</li>
-	</ol>
-	<p>Please submit the completed application form with the supporting documents to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by <b>31 March 2024</b>.</p>
-	<li>Shortlisted applicants will be invited for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</li>
+<li>
+<p>Application forms are available at our General Office (2 Linden Drive
+S288683) or can be downloaded <a href="/files/NYGH_Canteen_stall_application_form__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</li>
+<li>
+<p>Interested applicants must submit the following documents:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Completed application form</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items to be sold</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates including Basic Food Hygiene Course
+certificates of applicant and stall assistant/s.</p>
+</li>
+<li>
+<p>Photocopy of the Identification Card (front &amp; back).</p>
+</li>
 </ol>
+</li>
+<li>
+<p>Please submit the completed application form with the supporting documents
+to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by <strong>30 June 2024</strong>.</p>
+</li>
+<li>
+<p>Shortlisted applicants will be invited for an interview and will be required
+to provide food sampling for the School Canteen Selection Committee at
+the applicant’s own expense.</p>
+</li>
+</ol>
+<p></p>
