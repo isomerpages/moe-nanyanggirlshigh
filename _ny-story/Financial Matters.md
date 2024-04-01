@@ -193,7 +193,7 @@ It is compulsory for all students to take part in the Inter-bank Giro scheme. Pa
 		<td class="tg-25">January to June</td>	
 </tr>
 <tr>
-    <td style="text-align:center" class="tg-25">25/04/24</td>
+    <td style="text-align:center" class="tg-25">05/04/24</td>
 		<td class="tg-50">School Fee (Quarter 2)</td>	
 		<td class="tg-25">April to June</td>	
 </tr>
