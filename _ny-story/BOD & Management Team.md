@@ -91,4 +91,4 @@ Mrs Tan-Sim Joo Yee
 
 * * *
 
-Click [HERE](/files/KP_Org_chart2024_04.pdf) to view the School Organisation Chart.
+Click <a target="_blank" href="/files/KP_Org_chart2024_04.pdf">HERE</a> to view the School Organisation Chart.
