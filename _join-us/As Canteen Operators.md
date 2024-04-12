@@ -60,7 +60,7 @@ S288683) or can be downloaded <a href="/files/NYGH_Canteen_stall_application_for
 </li>
 <li>
 <p>Interested applicants must submit the following documents:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Completed application form</p>
 </li>
@@ -74,7 +74,7 @@ certificates of applicant and stall assistant/s.</p>
 <li>
 <p>Photocopy of the Identification Card (front &amp; back).</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>Please submit the completed application form with the supporting documents
