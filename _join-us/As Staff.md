@@ -56,215 +56,6 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>ADMIN OFFICER (PART-TIME)</h5>
-<p>Responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Handle the reception counter at school general office – loan of items,
-room keys, lost and found items etc.;</p>
-</li>
-<li>
-<p>Attend to walk-in customers and phone calls;</p>
-</li>
-<li>
-<p>Record and distribute mails. Inform staff with school or personal parcel
-delivery;</p>
-</li>
-<li>
-<p>Monitor students with Leave School Early application, ensure they call
-to inform they reach home safely;</p>
-</li>
-<li>
-<p>Take care of students coming to sick bay, including the administration
-of simple first aid for students;</p>
-</li>
-<li>
-<p>Issue of S1 School Smart Card and Student Pass;</p>
-</li>
-<li>
-<p>Student print job service;</p>
-</li>
-<li>
-<p>Laminating school materials for staff/ school events (eg. Open House,
-GCP, CCA, etc.);</p>
-</li>
-<li>
-<p>Refreshment for school guests (order and washing up);</p>
-</li>
-<li>
-<p>Maintain the supplies of exam stationery; and</p>
-</li>
-<li>
-<p>Other ad-hoc duties as and when assigned by the School Senior Management
-Team.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>GCE “A” or “O” Level;</p>
-</li>
-<li>
-<p>Excellent communication skills, meticulous, good team player and ability
-to multi-task; and</p>
-</li>
-<li>
-<p>Prior experience working in a school will be an added advantage.</p>
-</li>
-</ul>
-<hr>
-<h5>ACCOUNTS MANAGER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Finance/Accountancy or its equivalent;</p>
-</li>
-<li>
-<p>Relevant experience in the following areas will be preferred:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Budget preparation and monitoring</p>
-</li>
-<li>
-<p>Management account reporting</p>
-</li>
-<li>
-<p>GST accounting</p>
-</li>
-<li>
-<p>Internal controls</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Experience using SAP;</p>
-</li>
-<li>
-<p>Competent knowledge in Microsoft Excel; and</p>
-</li>
-<li>
-<p>Able to multi-task, work independently and lead a team.</p>
-</li>
-</ul>
-<hr>
-<h5>FOOD STUDIES ASSISTANT / KITCHEN ASSISTANT</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Proficient and knowledgeable in supporting Food Studies lessons in 2 kitchens
-concurrently (e.g. order &amp; purchase of food ingredients, assisting
-in pre/during/post lessons, etc.);</p>
-</li>
-<li>
-<p>Basic Food Safety and Hygiene training;</p>
-</li>
-<li>
-<p>Team player who has good interpersonal skills, meticulous, flexible and
-good personal hygiene; and</p>
-</li>
-<li>
-<p>Some experiences working in a school setting in the areas of work stated
-above will be helpful.</p>
-</li>
-</ul>
-<hr>
-<h5>TEMPORARY ART &amp; MAKER TECHNICIAN</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Minimum NITEC/Higher NITEC/Diploma in Design &amp; Technology or any Technical
-or Engineering course of study, with some training in Visual Arts;</p>
-</li>
-<li>
-<p>Proficient in use of hand tools and equipment;</p>
-</li>
-<li>
-<p>Able to provide logistics and technical support for the Maker and Art
-programmes to ensure smooth running of lessons;</p>
-</li>
-<li>
-<p>Able to perform regular preventive maintenance; ensure all machinery,
-tools and equipment are in good and safe working conditions for use;</p>
-</li>
-<li>
-<p>Able to provide a safe environment for after-school Art and Maker student
-activities;</p>
-</li>
-<li>
-<p>Able to assist in putting up art works at the art gallery and around the
-school;</p>
-</li>
-<li>
-<p>Strong team player; open to new ideas, great patience with students and
-adults;</p>
-</li>
-<li>
-<p>Enjoy collaborative work with colleagues across departments;</p>
-</li>
-<li>
-<p>Experience working in a secondary school in the Maker / D&amp;T / Art
-Department will be preferred; and</p>
-</li>
-<li>
-<p>Must be able to commit from March 2024 to May 2024.</p>
-</li>
-</ul>
-<hr>
-<h5>HUMAN RESOURCE EXECUTIVE</h5>
-<p>Responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>HR operations which includes recruitment, onboarding, training &amp; development,
-benefits management and exit management;</p>
-</li>
-<li>
-<p>Assist on p-filing and maintenance of HRIS database; and</p>
-</li>
-<li>
-<p>Involve in ad hoc projects and administrative duties.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma in Business Administration/Human Resource or equivalent;</p>
-</li>
-<li>
-<p>Preferably with 1-2 years experiences in HR generalist role;</p>
-</li>
-<li>
-<p>High level of interpersonal skills to handle sensitive and confidential
-situations and documentation;</p>
-</li>
-<li>
-<p>Resourceful, proactive, able to multi-task and work independently as well
-as in a team; and</p>
-</li>
-<li>
-<p>Tech savvy would be an advantage.</p>
-</li>
-</ul>
-<hr>
-<h5>RELIEF CHEMISTRY TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NIE Postgraduate Diploma in Education or equivalent with good grade in
-"A" Level Chemistry (H2);</p>
-</li>
-<li>
-<p>Competency in integrating ICT in teaching;</p>
-</li>
-<li>
-<p>Able to articulate well, pleasant, responsible, good team player and good
-organisation skills; and</p>
-</li>
-<li>
-<p>Some experience in teaching high school students in a classroom setting
-will be an advantage.</p>
-</li>
-</ul>
-<hr>
 <h5>CHEMISTRY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -280,78 +71,6 @@ Research;</p>
 </li>
 <li>
 <p>Experience in teaching graduating classes;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>Able to engage high ability learners who are keen and motivated to learn
-and enhance the Integrated Programme (IP) experience for students;</p>
-</li>
-<li>
-<p>Have a good understanding of the concept-based approach to learning and
-interdisciplinary learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy in terms of providing targetted
-feedback, using data to improve teaching and learning and designing different
-modes of assessment to support learning outcomes;</p>
-</li>
-<li>
-<p>Have experience in guiding students for competitions, research projects
-and overseas trips;</p>
-</li>
-<li>
-<p>Able to act as mentor in the holistic development of students so as to
-help students achieve their fullest potential in the Integrated Programme
-(IP); and</p>
-</li>
-<li>
-<p>Enjoy working with others and is a good team player.</p>
-</li>
-</ul>
-<hr>
-<h5>HISTORY &amp; SOCIAL STUDIES TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevant degree in subject areas; History &amp; Social Studies;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>Able to engage high ability learners who are keen and motivated to learn
-and enhance the Integrated Programme (IP) experience for students;</p>
-</li>
-<li>
-<p>Have a good understanding of the concept-based approach to learning and
-interdisciplinary learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy in terms of providing targetted
-feedback, using data to improve teaching and learning and designing different
-modes of assessment to support learning outcomes;</p>
-</li>
-<li>
-<p>Have experience in guiding students for competitions, research projects
-and overseas trips;</p>
-</li>
-<li>
-<p>Able to act as mentor in the holistic development of students so as to
-help students achieve their fullest potential in the Integrated Programme
-(IP); and</p>
-</li>
-<li>
-<p>Enjoy working with others and is a good team player.</p>
-</li>
-</ul>
-<hr>
-<h5>SOCIAL STUDIES TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevant degree in subject area; Social Studies;</p>
 </li>
 <li>
 <p>Competent in subject area as well as CCE and co-curricular areas;</p>
@@ -433,33 +152,133 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>BOARDING SCHOOL ADMIN OFFICER</h5>
+<h5>SOCIAL STUDIES TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>General Administration (competent in MS Office /office paperwork);</p>
+<p>Relevant degree in subject area; Social Studies;</p>
 </li>
 <li>
-<p>Operational role (enjoy non desk-bound work);</p>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
 </li>
 <li>
-<p>Enjoys people interactions;</p>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
 </li>
 <li>
-<p>Competent in written &amp; spoken Mandarin and English language;</p>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
 </li>
 <li>
-<p>Accommodation provided - stay-in three nights per week;</p>
+<p>Possess a strong level of assessment literacy in terms of providing targetted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
 </li>
 <li>
-<p>5-day work week (including rostered weekends);</p>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
 </li>
 <li>
-<p>Mature and Independent worker.</p>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
 </li>
 </ul>
-<p>Tell us about yourself, your relevant work experience, and why you might
-fit this role.</p>
+<hr>
+<h5>ADMIN OFFICER (PART-TIME)</h5>
+<p>Responsibilities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Handle the reception counter at school general office – loan of items,
+room keys, lost and found items etc.;</p>
+</li>
+<li>
+<p>Attend to walk-in customers and phone calls;</p>
+</li>
+<li>
+<p>Record and distribute mails. Inform staff with school or personal parcel
+delivery;</p>
+</li>
+<li>
+<p>Monitor students with Leave School Early application, ensure they call
+to inform they reach home safely;</p>
+</li>
+<li>
+<p>Take care of students coming to sick bay, including the administration
+of simple first aid for students;</p>
+</li>
+<li>
+<p>Issue of S1 School Smart Card and Student Pass;</p>
+</li>
+<li>
+<p>Student print job service;</p>
+</li>
+<li>
+<p>Laminating school materials for staff/ school events (eg. Open House,
+GCP, CCA, etc.);</p>
+</li>
+<li>
+<p>Refreshment for school guests (order and washing up);</p>
+</li>
+<li>
+<p>Maintain the supplies of exam stationery; and</p>
+</li>
+<li>
+<p>Other ad-hoc duties as and when assigned by the School Senior Management
+Team.</p>
+</li>
+</ul>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCE “A” or “O” Level;</p>
+</li>
+<li>
+<p>Excellent communication skills, meticulous, good team player and ability
+to multi-task; and</p>
+</li>
+<li>
+<p>Prior experience working in a school will be an added advantage.</p>
+</li>
+</ul>
+<hr>
+<h5>HUMAN RESOURCE EXECUTIVE</h5>
+<p>Responsibilities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>HR operations which includes recruitment, onboarding, training &amp; development,
+benefits management and exit management;</p>
+</li>
+<li>
+<p>Assist on p-filing and maintenance of HRIS database; and</p>
+</li>
+<li>
+<p>Involve in ad hoc projects and administrative duties.</p>
+</li>
+</ul>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Diploma in Business Administration/Human Resource or equivalent;</p>
+</li>
+<li>
+<p>Preferably with 1-2 years experiences in HR generalist role;</p>
+</li>
+<li>
+<p>High level of interpersonal skills to handle sensitive and confidential
+situations and documentation;</p>
+</li>
+<li>
+<p>Resourceful, proactive, able to multi-task and work independently as well
+as in a team; and</p>
+</li>
+<li>
+<p>Tech savvy would be an advantage.</p>
+</li>
+</ul>
 <p></p>
 <h4>APPLICATION PROCEDURES</h4>
 <p>Staff recruitment is an ongoing process at Nanyang Girls' High School.
