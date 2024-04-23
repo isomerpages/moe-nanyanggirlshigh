@@ -9,26 +9,25 @@ variant: markdown
 ---
 <style type="text/css">
 .tb  {border-collapse:collapse;border-spacing:0;}
-.tb td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
-.tb .th-15{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:15%;}
-.tb .th-25{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:25%;}	
-.tb .th-30{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:30%;}	
-.tb .th-40{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:40%;}		
-.tb .th-50{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:50%;}
-.tb .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:70%;}
-.tb .th-100{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:100%;}	
-.tb .tg-15{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:15%;}	
-.tb .tg-25{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:25%;}		
-.tb .tg-30{background-color:#FFF;color:#3c4764;text-align:left; vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
-.tb .tg-40{background-color:#FFF;color:#3c4764;text-align:left; vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:40%;}		
-.tb .tg-50{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:50%;}	
-.tb .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
-.tb .tg-100{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:100%;}		
-.tb .tg-50 p{font-size:15px !important;}		
-.tb .tg-50 ul{font-size:15px !important;}		
+.tb th{ background-color:#00558D; color:#FFF !important; text-align:left; vertical-align:top; font-size:15px; vertical-align: middle; }
+.tb .th-15{width:15%;}
+.tb .th-25{width:25%;}	
+.tb .th-30{width:30%;}	
+.tb .th-40{width:40%;}		
+.tb .th-50{width:50%;}
+.tb .th-70{width:70%;}
+.tb .th-100{width:100%;}	
+.tb td{ font-family:Arial, sans-serif; overflow:hidden; padding:10px 5px; word-break:normal; background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important;}	
+.tb .tg-15{width:15%;}	
+.tb .tg-25{width:25%;}		
+.tb .tg-30{width:30%;}	
+.tb .tg-40{width:40%;}		
+.tb .tg-50{width:50%;}	
+.tb .tg-70{width:70%;}	
+.tb .tg-100{width:100%;}		
 </style>
 
-<h4>1. Introduction</h4>
+<h4><strong>1. Introduction</strong></h4>
 <p>Introduced in 2004, the DSA scheme provides students with the opportunity to seek admission to Nanyang Girls’ High School (NYGH), based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the PSLE. </p>
 <p>Primary 6 students who wish to seek admission to NYGH based on their achievements and talents can consider applying through DSA. Otherwise, students will take part in the Secondary 1 Posting Exercise, whereby admission is based on their PSLE results.</p>
 <p>Students who have been successfully allocated to NYGH via DSA will NOT be allowed to participate in the Secondary 1 Posting Exercise to opt for other secondary schools as places have already been reserved for them in NYGH. They will also NOT be allowed to transfer to another school after the release of the PSLE results. NYGH runs the six-year Integrated Programme in partnership with HCI. They are expected to honour the commitment to NYGH from Year 1 to 4 and to Hwa Chong Institution (HCI) from Year 5 to 6.</p>
@@ -36,9 +35,9 @@ variant: markdown
 <p>Students admitted to NYGH via DSA (Bilingualism, Mathematics, Science, Innovation or Service Leadership) are expected to honour their commitment to participate in the respective domain's programmes from Year 1 to 4 and prioritise these programmes over others.</p>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitude and strengths, bearing in mind NYGH’s academic and non-academic requirements, and the programmes available to develop the area of talent.</strong></p>
 
-<h4>2. Important Dates</h4> <em>(To be updated in early May 2024)</em>
+<h4><strong>2. Important Dates</strong></h4> <em>(To be updated in early May 2024)</em>
 
-<h4>3. Talent Areas</h4>
+<h4><strong>3. Talent Areas</strong></h4>
 <p>The talent areas offered by NYGH in the 2024 DSA-Sec exercise for admission into Secondary 1 in 2025 are:</p>
 
 <table style="width: 100%" class="tb">  
@@ -93,11 +92,11 @@ variant: markdown
 **Concert Band is accepting DSA applications for the following instruments: Flute/Piccolo, Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Tuba, Euphonium, Saxophone<br>
 ***String Ensemble is accepting DSA applications for the following instruments: Violin, Viola, Cello, Double Bass</small></p>
 
-<h4>4. Application Requirements of Each Talent Area </h4> <em>(To be updated in early May 2024)</em>
+<h4><strong>4. Application Requirements of Each Talent Area</strong></h4> <em>(To be updated in early May 2024)</em>
 
-<h4>5.	Selection Criteria</h4> <em>(To be updated in early May 2024)</em>
+<h4><strong>5.	Selection Criteria</strong></h4> <em>(To be updated in early May 2024)</em>
 
-<h4>6. School Fees</h4>
+<h4><strong>6. School Fees</strong></h4>
 <h5>School fees per month (Year 2024)</h5>
 <table style="width: 100%" class="tb">
 <tbody>
@@ -167,7 +166,7 @@ S$200 per month</td>
 </tbody>
 </table>
 
-<h4>7. Financial Assistance</h4>
+<h4><strong>7. Financial Assistance</strong></h4>
 <p>NYGH is committed to ensuring that no deserving student is denied the opportunity to our Nanyang Experience due to financial circumstances at home. Financial assistance schemes such as the MOE Independent School Bursary (MOE ISB), school-administered financial assistance schemes, as well as other bursaries provided by well-wishers and external institutions are available to help our needy students continue with their education and motivate them to strive for greater accomplishments. </p>
 
 <h5>UPLIFT Scholarship</h5>
@@ -220,7 +219,7 @@ S$200 per month</td>
 <p>The MOE ISB and NYGH FAS application forms will be available on the school website from December 2024.
 </p>
 
-<h4>8. Frequently Asked Questions</h4>
+<h4><strong>8. Frequently Asked Questions</strong></h4>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was the admission cut-off point for 2024 Secondary 1&nbsp;students (annual posting exercise)?</strong>
 </p>
 <p>For 2024 Secondary 1 admission, the cut-off was AL 7(D).</p>
@@ -319,4 +318,3 @@ develop the leadership potential of the students.</p>
 9.00 a.m. to 4.00 p.m. or email <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>&nbsp;from<strong>&nbsp;6 May to 9 September 2024. </strong>Please
 note that the hotline and email address will be removed after 9 September
 2024.</p>
-
