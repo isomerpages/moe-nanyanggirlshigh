@@ -7,407 +7,220 @@ description: ""
 image: ""
 variant: markdown
 ---
-<h4>Direct School Admission (DSA) 2024</h4>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction</strong>&nbsp;&nbsp;
-&nbsp;</p>
-<p>Introduced in 2004, the DSA scheme provides students with the opportunity
-to seek admission to Nanyang Girls’ High School (NYGH), based on a diverse
-range of academic and non-academic achievements and talents that they can
-demonstrate beyond the PSLE.</p>
-<p>Primary 6 students who wish to seek admission to NYGH based on their achievements
-and talents can consider applying through DSA. Otherwise, students will
-take part in the Secondary 1 Posting Exercise, whereby admission is based
-on their PSLE results.</p>
-<p>Students who have been successfully allocated to NYGH via DSA will NOT
-be allowed to participate in the Secondary 1 Posting Exercise to opt for
-other secondary schools as places have already been reserved for them in
-NYGH. They will also NOT be allowed to transfer to another school after
-the release of the PSLE results. NYGH runs the six-year Integrated Programme
-in partnership with HCI. They are expected to honour the commitment to
-NYGH from Year 1 to 4 and to Hwa Chong Institution (HCI) from Year 5 to
-6.</p>
-<p>Students admitted to NYGH via DSA-CCA are expected to honour the commitment
-in the CCA from Year 1 to 4. They are allowed to choose another CCA in
-Year 5 to 6 if they are interested in a new CCA.</p>
-<p>Students admitted to NYGH via DSA (Bilingualism, Mathematics, Science,
-Innovation or Service Leadership) are expected to honour their commitment
-to&nbsp;participate in the respective domain's programmes from Year 1 to
-4 and prioritise these programmes over others.</p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitude and strengths, bearing in mind NYGH’s academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Important Dates <em>(To be updated in early May 2024)</em></strong>&nbsp;&nbsp;
-&nbsp;</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Talent Areas</strong>&nbsp;&nbsp;&nbsp;</p>
-<p>The talent areas offered by NYGH in the 2024 DSA-Sec exercise for admission
-into Secondary 1 in 2025 are:</p>
-<table>
+<style type="text/css">
+.tb  {border-collapse:collapse;border-spacing:0;}
+.tb td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tb .th-15{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:15%;}
+.tb .th-25{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:25%;}	
+.tb .th-30{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:30%;}	
+.tb .th-40{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:40%;}		
+.tb .th-50{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:50%;}
+.tb .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:70%;}
+.tb .th-100{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:15px; vertical-align: middle; width:100%;}	
+.tb .tg-15{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:15%;}	
+.tb .tg-25{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:25%;}		
+.tb .tg-30{background-color:#FFF;color:#3c4764;text-align:left; vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
+.tb .tg-40{background-color:#FFF;color:#3c4764;text-align:left; vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:40%;}		
+.tb .tg-50{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:50%;}	
+.tb .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+.tb .tg-100{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:100%;}		
+.tb .tg-50 p{font-size:15px !important;}		
+.tb .tg-50 ul{font-size:15px !important;}		
+</style>
+
+<h4>1. Introduction</h4>
+<p>Introduced in 2004, the DSA scheme provides students with the opportunity to seek admission to Nanyang Girls’ High School (NYGH), based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the PSLE. </p>
+<p>Primary 6 students who wish to seek admission to NYGH based on their achievements and talents can consider applying through DSA. Otherwise, students will take part in the Secondary 1 Posting Exercise, whereby admission is based on their PSLE results.</p>
+<p>Students who have been successfully allocated to NYGH via DSA will NOT be allowed to participate in the Secondary 1 Posting Exercise to opt for other secondary schools as places have already been reserved for them in NYGH. They will also NOT be allowed to transfer to another school after the release of the PSLE results. NYGH runs the six-year Integrated Programme in partnership with HCI. They are expected to honour the commitment to NYGH from Year 1 to 4 and to Hwa Chong Institution (HCI) from Year 5 to 6.</p>
+<p>Students admitted to NYGH via DSA-CCA are expected to honour the commitment in the CCA from Year 1 to 4. They are allowed to choose another CCA in Year 5 to 6 if they are interested in a new CCA.</p>
+<p>Students admitted to NYGH via DSA (Bilingualism, Mathematics, Science, Innovation or Service Leadership) are expected to honour their commitment to participate in the respective domain's programmes from Year 1 to 4 and prioritise these programmes over others.</p>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitude and strengths, bearing in mind NYGH’s academic and non-academic requirements, and the programmes available to develop the area of talent.</strong></p>
+
+<h4>2. Important Dates</h4> <em>(To be updated in early May 2024)</em>
+
+<h4>3. Talent Areas</h4>
+<p>The talent areas offered by NYGH in the 2024 DSA-Sec exercise for admission into Secondary 1 in 2025 are:</p>
+
+<table style="width: 100%" class="tb">  
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Talent Areas</strong>
-</p>
-</th>
+  <th class="th-100" colspan="3">Talent Areas</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Bilingualism</p>
-</td>
+    <td class="tg-100" colspan="3">Bilingualism</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mathematics</p>
-</td>
+    <td class="tg-100" colspan="3">Mathematics</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Science</p>
-</td>
+    <td class="tg-100" colspan="3">Science</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Innovation</p>
-</td>
+    <td class="tg-100" colspan="3">Innovation</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Service Leadership</p>
-</td>
+    <td class="tg-100" colspan="3">Service Leadership</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Aesthetics</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chinese Calligraphy&nbsp;</p>
-</li>
-<li>
-<p>Chinese Dance&nbsp;</p>
-</li>
-<li>
-<p>Chinese Orchestra*</p>
-</li>
-<li>
-<p>Concert Band**</p>
-</li>
-<li>
-<p>String Ensemble***</p>
-</li>
-</ul>
-</td>
+  <td class="tg-30">Aesthetics</td>
+	<td class="tg-30">•	Chinese Calligraphy<br>
+•	Chinese Dance <br>
+•	Chinese Orchestra* <br>
+•	Concert Band**<br>
+•	String Ensemble***
+  </td>
+	<td class="tg-30">&nbsp;</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sports and Games</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Artistic Gymnastics</p>
-</li>
-<li>
-<p>Badminton</p>
-</li>
-<li>
-<p>Basketball</p>
-</li>
-<li>
-<p>Netball</p>
-</li>
-<li>
-<p>Softball</p>
-</li>
-<li>
-<p>Table Tennis</p>
-</li>
-<li>
-<p>Tennis</p>
-</li>
-<li>
-<p>Track and Field</p>
-</li>
-<li>
-<p>Volleyball</p>
-</li>
-<li>
-<p>Wushu</p>
-</li>
-</ul>
+  <td class="tg-30">Sports and Games</td>
+	<td class="tg-30">•	Artistic Gymnastics<br>
+•	Badminton<br>
+•	Basketball<br>
+•	Netball<br>
+•	Softball
+  </td>
+	<td class="tg-30">•	Table Tennis<br>
+•	Tennis<br>
+•	Track and Field<br>
+•	Volleyball<br>
+•	Wushu
 </td>
-</tr>
+</tr>	
 </tbody>
 </table>
-<p>*Chinese Orchestra is accepting DSA applications for the following instruments:&nbsp;弦乐
-(Bowed strings), 阮 (Ruan), 柳琴 (Liuqin),&nbsp; 笙 (Sheng), 唢 (Suona), 笛子
-(Dizi),&nbsp; 琵琶 (Pipa), &nbsp;扬琴&nbsp;(Yangqin),&nbsp;Cello, Double Bass,
-Percussion</p>
-<p>**Concert Band is accepting DSA applications for the following instruments:
-Flute/Piccolo, Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Tuba,
-Euphonium, Saxophone</p>
-<p>***String Ensemble is accepting DSA applications for the following instruments:
-Violin, Viola, Cello, Double Bass&nbsp;</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Requirements of&nbsp;Each Talent Area <em>(To be updated in early May 2024)</em></strong>
-</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection Criteria <em>(To be updated in early May 2024)</em></strong>
-</p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Fees</strong>
-</p>
-<p><strong>School fees per month (Year 2024)</strong>
-</p>
-<table>
+
+<p><small>*Chinese Orchestra is accepting DSA applications for the following instruments: 弦乐 (Bowed strings), 阮 (Ruan), 柳琴 (Liuqin),  笙 (Sheng), 唢 (Suona), 笛子 (Dizi),  琵琶 (Pipa),  扬琴 (Yangqin), Cello, Double Bass, Percussion<br>
+**Concert Band is accepting DSA applications for the following instruments: Flute/Piccolo, Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Tuba, Euphonium, Saxophone<br>
+***String Ensemble is accepting DSA applications for the following instruments: Violin, Viola, Cello, Double Bass</small></p>
+
+<h4>4. Application Requirements of Each Talent Area </h4> <em>(To be updated in early May 2024)</em>
+
+<h4>5.	Selection Criteria</h4> <em>(To be updated in early May 2024)</em>
+
+<h4>6. School Fees</h4>
+<h5>School fees per month (Year 2024)</h5>
+<table style="width: 100%" class="tb">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Nationality</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4</strong>
-</p>
-</td>
+  <th class="th-40">Nationality</th>
+	<th class="th-15">Sec 1</th>
+	<th class="th-15">Sec 2</th>	
+	<th class="th-15">Sec 3</th>
+	<th class="th-15">Sec 4</th>	
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Citizens</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$250</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$250</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$300</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$300</p>
-</td>
-</tr>
+  <td class="tg-40">Singapore Citizens
+	</td><td class="tg-15">S$250
+	</td><td class="tg-15">S$250	
+	</td><td class="tg-15">S$300
+	</td><td class="tg-15">S$300	
+</td></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Permanent Residents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$880</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$880</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$880</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$880</p>
-</td>
-</tr>
+  <td class="tg-40">Singapore Permanent Residents
+	</td><td class="tg-15">S$880
+	</td><td class="tg-15">S$880	
+	</td><td class="tg-15">S$880
+	</td><td class="tg-15">S$880	
+</td></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>International Students from ASEAN Countries</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$1,580.50**</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$1,580.50**</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$1,580.50**</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$1,580.50**</p>
-</td>
-</tr>
+  <td class="tg-40">International Students from ASEAN Countries
+	</td><td class="tg-15">S$1,580.50**
+	</td><td class="tg-15">S$1,580.50**	
+	</td><td class="tg-15">S$1,580.50**
+	</td><td class="tg-15">S$1,580.50**	
+</td></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>International Students from Non-ASEAN Countries</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$2,398.00**</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$2,398.00**</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$2,398.00**</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$2,398.00**</p>
-</td>
-</tr>
+  <td class="tg-40">International Students from Non-ASEAN Countries
+	</td><td class="tg-15">S$2,398.00**
+	</td><td class="tg-15">S$2,398.00**	
+	</td><td class="tg-15">S$2,398.00**
+	</td><td class="tg-15">S$2,398.00**	
+</td></tr>
 </tbody>
 </table>
-<p>** <em>These rates are inclusive of the prevailing GST.</em>
-</p>
-<p>Note : The above the school fee rates are updated as of April 2024. Any
+<p><small>** <em>These rates are inclusive of the prevailing GST.</em><br>
+	<b>Note :</b>The above the school fee rates are updated as of April 2024. Any
 update in rates will be published on the school website once the new rates
-are confirmed (where applicable).</p>
-<p><strong>Miscellaneous fees</strong>
-</p>
-<table>
+are confirmed (where applicable).</small></p>
+
+<h5>Miscellaneous fees</h5>
+
+<table style="width: 100%" class="tb">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>All students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$750 per year</p>
-</td>
+<td class="tg-50">All students</td>
+<td class="tg-50">S$750 per year</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Students who are recipients of MOE Awards</strong>
-</p>
-<table>
+
+<h5>Students who are recipients of MOE Awards</h5>
+<table style="width: 100%" class="tb">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Students in the Art Elective Programme (AEP), recipients of Edusave Scholarships
-for Independent Schools (ESIS)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Sec 1 to Sec 4</strong>
-</p>
-<p>MOE School Fee Subsidy:</p>
-<p>S$200 per month</p>
-</td>
+<td class="tg-50">Students in the Art Elective Programme (AEP), recipients of Edusave Scholarships
+for Independent Schools (ESIS)</td>
+<td class="tg-50"><b>Sec 1 to Sec 4</b><br>
+MOE School Fee Subsidy:<br>
+S$200 per month</td>
 </tr>
 </tbody>
 </table>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financial Assistance</strong>&nbsp;</p>
-<p>NYGH&nbsp;is committed to ensuring that no deserving student is denied
-the opportunity to our Nanyang Experience due to financial circumstances
-at home. Financial assistance schemes such as the MOE Independent School
-Bursary (MOE ISB), school-administered financial assistance schemes, as
-well as other bursaries provided by well-wishers and external institutions
-are available to help our needy students continue with their education
-and motivate them to strive for greater accomplishments.&nbsp;</p>
-<p><strong><u>UPLIFT Scholarship</u></strong>
-</p>
-<p>With effect from 2019, students who are Singapore citizens from low-income
-families admitted to Independent Schools (ISs) through DSA or are receiving
-the&nbsp;Edusave Scholarships for Independent Schools may apply for the
-UPLIFT Scholarship.&nbsp;Students from families with Gross Household Income
-up to $4,400 or Per Capita Income up to $1,100 will be eligible for the
-scholarship.&nbsp;The scholarship provides a cash award of $1,000 per annum.&nbsp;The
-tenure of the scholarship will be for the full duration of studies in the
-ISs subject to students meeting the annual renewal criteria.</p>
-<p><strong><u>MOE Independent School Bursary (MOE ISB)</u></strong>
-</p>
-<p><strong>Eligibility Criteria</strong>
-</p>
+
+<h4>7. Financial Assistance</h4>
+<p>NYGH is committed to ensuring that no deserving student is denied the opportunity to our Nanyang Experience due to financial circumstances at home. Financial assistance schemes such as the MOE Independent School Bursary (MOE ISB), school-administered financial assistance schemes, as well as other bursaries provided by well-wishers and external institutions are available to help our needy students continue with their education and motivate them to strive for greater accomplishments. </p>
+
+<h5>UPLIFT Scholarship</h5>
+<p>With effect from 2019, students who are Singapore citizens from low-income families admitted to Independent Schools (ISs) through DSA or are receiving the Edusave Scholarships for Independent Schools may apply for the UPLIFT Scholarship. Students from families with Gross Household Income up to $4,400 or Per Capita Income up to $1,100 will be eligible for the scholarship. The scholarship provides a cash award of $1,000 per annum. The tenure of the scholarship will be for the full duration of studies in the ISs subject to students meeting the annual renewal criteria.</p>
+<h5>MOE Independent School Bursary (MOE ISB)</h5>
+<p><strong>Eligibility Criteria</strong></p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Student must be a Singapore Citizen.</p>
-</li>
-<li>
-<p>Satisfy either the monthly Gross Household Income (GHI) or the Per Capita
-Income (PCI) criteria.&nbsp;</p>
-</li>
+<li>Student must be a Singapore Citizen.</li>
+<li>Satisfy either the monthly Gross Household Income (GHI) or the Per Capita Income (PCI) criteria.</li>
 </ul>
-<p><strong>Income Criteria &amp; Benefits</strong>
-</p>
+<p><strong>Income Criteria &amp; Benefits</strong></p>
 <p>The income criteria and benefits are as shown in the table below:</p>
-<table>
+
+<table style="width: 100%" class="tb">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Income Criteria</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MOE ISB</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>What it mean</strong>
-</p>
-</td>
+<th class="th-30">Income Criteria</th>
+<th class="th-30">MOE ISB</th>
+<th class="th-40">What it mean</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>GHI ≤ $3,000;</p>
-<p>or PCI ≤ $750</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tier 1 subsidy</p>
-<p>&nbsp;~ 100% subsidy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students pay $0 of school &amp; miscellaneous fee per month.</p>
-<p>In addition, they will receive :</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Free textbooks and school
-attire</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full subsidy of national
-exam fees</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transport Subsidy (for
-students taking public transport)</p>
-<p>Meal Subsidy</p>
-</td>
+<td class="tg-30">GHI ≤ $3,000;<br>or PCI ≤ $750</td>
+<td class="tg-30">Tier 1 subsidy<br>~ 100% subsidy</td>
+<td class="tg-40">Students pay $0 of school &amp; miscellaneous fee per month.<br><br>In addition, they will receive :<br>
+•	Free textbooks and school attire <br>
+•	Full subsidy of national exam fees<br>
+•	Transport Subsidy (for students taking public transport) <br>
+•	Meal Subsidy </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>GHI $3,001 - $4,400;</p>
-<p>or PCI $751 - $1,100</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tier 2 subsidy</p>
-<p>~ the fees will be covered by the MOE ISB and the MOE School-Based FAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students pay $0 of school &amp; miscellaneous fee per month</p>
-</td>
+<td class="tg-30">GHI $3,001 - $4,400;<br>or PCI $751 - $1,100</td>
+<td class="tg-30">Tier 2 subsidy<br>~ the fees will be covered by the MOE ISB and the MOE School-Based FAS</td>
+<td class="tg-40">Students pay $0 of school &amp; miscellaneous fee per month</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>GHI $4,401 - $7,500;</p>
-<p>or PCI $1,101 - $1,875</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tier 3 subsidy</p>
-<p>~ student pays 1.5x</p>
-<p>GGAS fee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will pay $37.50 per month</p>
-<p></p>
-<p>MOE will subsidize the remaining school &amp; miscellaneous fee</p>
-</td>
+<td class="tg-30">GHI $4,401 - $7,500;<br>or PCI $1,101 - $1,875</td>
+<td class="tg-30">Tier 3 subsidy<br>~ student pays 1.5x GGAS fee</td>
+<td class="tg-40">Students will pay $37.50 per month<br><br>MOE will subsidize the remaining school &amp; miscellaneous fee</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>GHI$7,501 - $10,000;</p>
-<p>or PCI $1,876 - $2,500</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tier 4 subsidy</p>
-<p>~ 33% subsidy of school and miscellaneous fees</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Students will pay $209.38 per month.</p>
-<p>Upper Sec Students will pay $242.87 per month.</p>
-<p></p>
-<p>MOE will subsidize the remaining 33% of school &amp; miscellaneous fee</p>
-</td>
+<td class="tg-30">GHI$7,501 - $10,000;<br>or PCI $1,876 - $2,500</td>
+<td class="tg-30">Tier 4 subsidy<br>~ 33% subsidy of school and miscellaneous fees</td>
+<td class="tg-40">Lower Sec Students will pay $209.38 per month.<br>Upper Sec Students will pay $242.87 per month.<br><br>MOE will subsidize the remaining 33% of school &amp; miscellaneous fee</td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Nanyang Girls' School Financial Assistance Scheme (NYGH FAS)</u></strong>
+
+<h5>Nanyang Girls' School Financial Assistance Scheme (NYGH FAS)</h5>
+<p>Students who do not qualify for the MOE ISB or MOE ISB recipients who wish to apply for financial assistance for other fees may apply for such assistance under the NYGH FAS. </p>
+<p>The MOE ISB and NYGH FAS application forms will be available on the school website from December 2024.
 </p>
-<p>Students who do not qualify for the MOE ISB or MOE ISB recipients who
-wish to apply for financial assistance for other fees may apply for such
-assistance under the NYGH FAS.</p>
-<p>The MOE ISB and NYGH FAS application forms will be available on the school
-website from December 2024.</p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequently Asked Questions</strong>
-</p>
+
+<h4>8. Frequently Asked Questions</h4>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was the admission cut-off point for 2024 Secondary 1&nbsp;students (annual posting exercise)?</strong>
 </p>
 <p>For 2024 Secondary 1 admission, the cut-off was AL 7(D).</p>
@@ -506,3 +319,4 @@ develop the leadership potential of the students.</p>
 9.00 a.m. to 4.00 p.m. or email <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>&nbsp;from<strong>&nbsp;6 May to 9 September 2024. </strong>Please
 note that the hotline and email address will be removed after 9 September
 2024.</p>
+
