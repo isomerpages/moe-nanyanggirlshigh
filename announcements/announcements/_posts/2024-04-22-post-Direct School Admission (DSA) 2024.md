@@ -248,8 +248,7 @@ Violin, Viola, Cello, Double Bass&nbsp;</p>
 </p>
 <p>Note : The above the school fee rates are updated as of April 2024. Any
 update in rates will be published on the school website once the new rates
-are confirmed (where applicable).<em>.</em>
-</p>
+are confirmed (where applicable).</p>
 <p><strong>Miscellaneous fees</strong>
 </p>
 <table>
