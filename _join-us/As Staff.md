@@ -188,6 +188,61 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
+<h5>ACCOUNTS EXECUTIVE</h5>
+<p>Key Responsibilities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full range of accounting responsibilities, including accounts receivable
+and accounts payable functions;</p>
+</li>
+<li>
+<p>Prepare monthly schedules for financial and management reporting within
+the stipulated timeline;</p>
+</li>
+<li>
+<p>Ensure all accounts receivable &amp; payable reconciliations and follow-up
+are compliant with policies and regulations;</p>
+</li>
+<li>
+<p>Prepare and collate schedules required for internal and external audits;</p>
+</li>
+<li>
+<p>Call for quotations for the various types of insurance;</p>
+</li>
+<li>
+<p>Prepare statement of account for Global Classroom Programmes; and</p>
+</li>
+<li>
+<p>Any other ad hoc tasks which may be assigned from time to time.</p>
+</li>
+</ul>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Diploma in Accounting or equivalent;</p>
+</li>
+<li>
+<p>Familiarity with SAP HANA financial system will be an advantage;</p>
+</li>
+<li>
+<p>Good Working knowledge of Microsoft Office, MS Excel is required;</p>
+</li>
+<li>
+<p>Able to multi-task, work independently with a high degree of accuracy
+and efficiency;</p>
+</li>
+<li>
+<p>Able to work well under pressure and tight deadlines;</p>
+</li>
+<li>
+<p>Team player with the ability to work independently with all levels of
+staff; and</p>
+</li>
+<li>
+<p>Good oral and written communication skills.</p>
+</li>
+</ul>
+<hr>
 <h5>ADMIN OFFICER (PART-TIME)</h5>
 <p>Responsibilities:</p>
 <ul data-tight="true" class="tight">
