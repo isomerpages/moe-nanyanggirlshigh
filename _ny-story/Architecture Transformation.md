@@ -4,7 +4,7 @@ permalink: /ny-story/architecture-transformation/
 description: ""
 variant: markdown
 ---
-The façade of Nanyang Girls' High School has rapidly become an iconic landmark in the Bukit Timah area of Singapore. Tall pink-brick walls and majestic columns symetrically arranged around a towering clocktower. Yet, hiding inside the building are many more interesting architectual features.
+The façade of Nanyang Girls' High School has rapidly become an iconic landmark in the Bukit Timah area of Singapore. Tall pink-brick walls and majestic columns symmetrically arranged around a towering clocktower. Yet, hiding inside the building are many more interesting architectural features.
 
 This page is a visual journey of the architecture and spaces that help to define Nanyang. An exploration of the changing face of the buildings: Past, present and future.
 
