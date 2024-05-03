@@ -68,7 +68,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <tr>
   <td class="tg-10">5	</td>
 	<td class="tg-60"><u>Shortlisted</u> applicants who have applied for the Service Leadership talent area are to submit their personal statements. <br><br>
-		Further details will be sent to <u>shortlisted</u> applicants at least 1 weeks before the submission date. </td>
+		Further details will be sent to <u>shortlisted</u> applicants at least 1 week before the submission date. </td>
 	<td class="tg-30">8 July 2024</td>
 </tr>		
 <tr>
@@ -84,7 +84,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <tr>
   <td class="tg-10">8	</td>
 	<td class="tg-60">Students who receive at least one DSA offer may indicate up to three school preferences. They can submit their school preferences through the MOE online system or in hardcopy to their primary schools. </td>
-	<td class="tg-30">21 October 2024 to 25 October 2024</td>
+	<td class="tg-30">21 October 2024, 9am to 25 October 2024, 3pm</td>
 </tr>	
 <tr>
   <td class="tg-10">9	</td>
@@ -458,6 +458,6 @@ and devise solutions to meet those needs. Mentoring will be provided to
 develop the leadership potential of the students.</p>
 <p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
 </p>
-<p>For DSA matters, we would prefer that you email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>You can also call our hotline 6508 3654, Monday – Friday, 9.00 a.m. to 4.00 p.m. However, we seek your understanding that our General Office personnel may not always be available to pick your call. </p>
+<p>For DSA matters, we would prefer that you email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. You can also call our hotline 6508 3654, Monday – Friday, 9.00 a.m. to 4.00 p.m. However, we seek your understanding that our General Office personnel may not always be available to pick your call. </p>
 <p>Both the email inbox and the hotline will be unmanned after 9 September 2024. 
 </p>
