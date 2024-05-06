@@ -1,7 +1,7 @@
 ---
 title: Direct School Admission (DSA) 2024
 permalink: /announcements/dsa-2024/
-date: 2024-04-22
+date: 2024-05-06
 layout: post
 description: ""
 image: ""
@@ -17,7 +17,7 @@ variant: markdown
 .tb .th-50{width:50%;}
 .tb .th-70{width:70%;}
 .tb .th-100{width:100%;}	
-.tb td{ font-family:Arial, sans-serif; overflow:hidden; padding:10px 5px; word-break:normal; background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important;}	
+.tb td{ font-family:Arial, sans-serif; overflow:hidden; padding:10px 5px; word-break:normal; background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle !important; border-bottom:1px solid #00558D !important; font-size:15px !important;}	
 .tb .tg-15{width:15%;}	
 .tb .tg-25{width:25%;}		
 .tb .tg-30{width:30%;}	
@@ -35,7 +35,64 @@ variant: markdown
 <p>Students admitted to NYGH via DSA (Bilingualism, Mathematics, Science, Innovation or Service Leadership) are expected to honour their commitment to participate in the respective domain's programmes from Year 1 to 4 and prioritise these programmes over others.</p>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitude and strengths, bearing in mind NYGH’s academic and non-academic requirements, and the programmes available to develop the area of talent.</strong></p>
 
-<h4><strong>2. Important Dates</strong></h4> <em>(To be updated in early May 2024)</em>
+<h4><strong>2. Important Dates</strong></h4> 
+<table style="width: 100%" class="tb">  
+<tbody>
+	<tr>
+  <th class="th-10">No.</th>
+	<th class="th-60">Description</th>
+	<th class="th-30">Time Frame</th>	
+</tr>
+<tr>
+  <td class="tg-10">1	</td>
+	<td class="tg-60">From 2019, application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May to 3 June 2024. For more details, please refer to <a target="_blank" href="https://www.moe.gov.sg/secondary/dsa">MOE’s website</a>.</td>
+	<td class="tg-30">7 May 2024, 11am to 3 June 2024, 3pm </td>
+</tr>
+<tr>
+  <td class="tg-10">2	</td>
+	<td class="tg-60">NYGH conducts trials/ auditions* for <u>shortlisted</u> applicants who have applied for the Aesthetics, Sports and Games-related talent areas. <br><br> 
+		<i>*Dates for trials/ auditions will be published on the school website by early June.</i> </td>
+	<td class="tg-30">5 July 2024 to 25 July 2024</td>
+</tr>	
+<tr>
+  <td class="tg-10">3	</td>
+	<td class="tg-60">NYGH conducts selection tests/ tasks for <u>shortlisted</u> applicants who have applied to the Bilingualism, Mathematics or Science talent areas.</td>
+	<td class="tg-30">6 July 2024</td>
+</tr>		
+<tr>
+  <td class="tg-10">4	</td>
+	<td class="tg-60"><u>Shortlisted</u> applicants who have applied for the Innovation talent area are to submit their portfolios. <br><br>
+Further details will be sent to <u>shortlisted</u> applicants at least 1 week before the submission date.</td>
+	<td class="tg-30">8 July 2024</td>
+</tr>			
+<tr>
+  <td class="tg-10">5	</td>
+	<td class="tg-60"><u>Shortlisted</u> applicants who have applied for the Service Leadership talent area are to submit their personal statements. <br><br>
+		Further details will be sent to <u>shortlisted</u> applicants at least 1 week before the submission date. </td>
+	<td class="tg-30">8 July 2024</td>
+</tr>		
+<tr>
+  <td class="tg-10">6	</td>
+	<td class="tg-60">NYGH conducts interviews for <u>shortlisted</u>  applicants who have cleared the first round of selection through trials/ auditions/ tests/ tasks/ portfolios / personal statements. </td>
+	<td class="tg-30">3 August 2024 &amp; 17 August 2024</td>
+</tr>	
+<tr>
+  <td class="tg-10">7	</td>
+	<td class="tg-60">Applicants receive outcome of the selection exercise. </td>
+	<td class="tg-30">By 9 September 2024</td>
+</tr>	
+<tr>
+  <td class="tg-10">8	</td>
+	<td class="tg-60">Students who receive at least one DSA offer may indicate up to three school preferences. They can submit their school preferences through the MOE online system or in hardcopy to their primary schools. </td>
+	<td class="tg-30">21 October 2024, 9am to 25 October 2024, 3pm</td>
+</tr>	
+<tr>
+  <td class="tg-10">9	</td>
+	<td class="tg-60">The results of the DSA Exercise will be released to students on the same day as the release of PSLE results. </td>
+	<td class="tg-30">Late November</td>
+</tr>		
+</tbody>
+</table>
 
 <h4><strong>3. Talent Areas</strong></h4>
 <p>The talent areas offered by NYGH in the 2024 DSA-Sec exercise for admission into Secondary 1 in 2025 are:</p>
@@ -92,15 +149,101 @@ variant: markdown
 **Concert Band is accepting DSA applications for the following instruments: Flute/Piccolo, Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Tuba, Euphonium, Saxophone<br>
 ***String Ensemble is accepting DSA applications for the following instruments: Violin, Viola, Cello, Double Bass</small></p>
 
-<h4><strong>4. Application Requirements of Each Talent Area</strong></h4> <em>(To be updated in early May 2024)</em>
+<h4><strong>4. Application Requirements of Each Talent Area</strong></h4> 
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. Please refer to <a target="_blank" href="https://www.moe.gov.sg/secondary/dsa">MOE’s website</a> on application requirements. </p>
+<p>The talent areas offered in NYGH in the 2024 DSA exercise for 2025 Secondary 1 admission are:</p>
+<table style="width: 100%" class="tb">
+<tbody><tr>
+  <th class="th-40">Talent Areas</th>
+	<th class="th-15">Trials/ Auditions</th>
+	<th class="th-15">Portfolio / Personal Statement</th>	
+	<th class="th-15">Selection Tests/ Tasks</th>
+	<th class="th-15">Interview <br>(for selected <u>shortlisted</u> applicants only)</th></tr>
+<tr>
+  <td class="tg-40">Bilingualism</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Required</td>
+	<td class="tg-15">Required</td>
+</tr>
+<tr>
+  <td class="tg-40">Mathematics</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Required</td>
+	<td class="tg-15">Required</td>
+</tr>	
+<tr>
+  <td class="tg-40">Science</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Required</td>
+	<td class="tg-15">Required</td>
+</tr>	
+<tr>
+  <td class="tg-40">Innovation</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Portfolio required</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Required</td>
+</tr>	
+<tr>
+  <td class="tg-40">Service Leadership</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Personal Statement required</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Required</td>
+</tr>		
+<tr>
+  <td class="tg-40">Aesthetics<br>
+•	Chinese Calligraphy<br>
+•	Chinese Dance <br>
+•	Chinese Orchestra<br>
+•	Concert Band<br>
+•	String Ensemble
+</td>
+	<td class="tg-15">Required</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Required</td>
+</tr>			
+<tr>
+  <td class="tg-40">Sports and Games<br>
+•	Artistic Gymnastics<br>
+•	Badminton<br>
+•	Basketball<br>
+•	Netball<br>
+•	Softball<br>
+•	Table Tennis<br>
+•	Tennis<br>
+•	Track and Field<br>
+•	Volleyball<br>
+•	Wushu
 
-<h4><strong>5.	Selection Criteria</strong></h4> <em>(To be updated in early May 2024)</em>
+</td>
+	<td class="tg-15">Required</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">-</td>
+	<td class="tg-15">Required</td>
+</tr>		
+</tbody>
+</table>
+
+<h4><strong>5.	Selection Criteria</strong></h4> 
+<ul>
+	<li>Passion and aptitude in the specific talent area</li>
+	<li>Performance at selection tests or tasks</li>
+	<li>Performance at trials or auditions</li>
+	<li>Academic ability (to manage the IP curriculum)</li>
+	<li>Character and leadership disposition</li>
+</ul>	
+<p>Meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</p>
+<p>Applicants who do not have prior experience may also apply. We will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</p>
 
 <h4><strong>6. School Fees</strong></h4>
 <h5>School fees per month (Year 2024)</h5>
 <table style="width: 100%" class="tb">
-<tbody>
-<tr>
+<tbody><tr>
   <th class="th-40">Nationality</th>
 	<th class="th-15">Sec 1</th>
 	<th class="th-15">Sec 2</th>	
@@ -114,6 +257,7 @@ variant: markdown
 	</td><td class="tg-15">S$300
 	</td><td class="tg-15">S$300	
 </td></tr>
+
 <tr>
   <td class="tg-40">Singapore Permanent Residents
 	</td><td class="tg-15">S$880
@@ -314,7 +458,6 @@ and devise solutions to meet those needs. Mentoring will be provided to
 develop the leadership potential of the students.</p>
 <p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
 </p>
-<p>For DSA matters, please call our hotline&nbsp; 6508 3654, Monday – Friday,
-9.00 a.m. to 4.00 p.m. or email <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>&nbsp;from<strong>&nbsp;6 May to 9 September 2024. </strong>Please
-note that the hotline and email address will be removed after 9 September
-2024.</p>
+<p>For DSA matters, we would prefer that you email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. You can also call our hotline 6508 3654, Monday – Friday, 9.00 a.m. to 4.00 p.m. However, we seek your understanding that our General Office personnel may not always be available to pick your call. </p>
+<p>Both the email inbox and the hotline will be unmanned after 9 September 2024. 
+</p>
