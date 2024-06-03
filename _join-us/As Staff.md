@@ -243,95 +243,29 @@ staff; and</p>
 </li>
 </ul>
 <hr>
-<h5>ADMIN OFFICER (PART-TIME)</h5>
+<h5>FOOD STUDIES ASSISTANT/KITCHEN ASSISTANT (PART-TIME)</h5>
 <p>Responsibilities:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Handle the reception counter at school general office – loan of items,
-room keys, lost and found items etc.;</p>
+<p>Assist and support Food Studies lessons in 2 kitchens concurrently (pre/during/
+post lessons); and</p>
 </li>
 <li>
-<p>Attend to walk-in customers and phone calls;</p>
-</li>
-<li>
-<p>Record and distribute mails. Inform staff with school or personal parcel
-delivery;</p>
-</li>
-<li>
-<p>Monitor students with Leave School Early application, ensure they call
-to inform they reach home safely;</p>
-</li>
-<li>
-<p>Take care of students coming to sick bay, including the administration
-of simple first aid for students;</p>
-</li>
-<li>
-<p>Issue of S1 School Smart Card and Student Pass;</p>
-</li>
-<li>
-<p>Student print job service;</p>
-</li>
-<li>
-<p>Laminating school materials for staff/ school events (eg. Open House,
-GCP, CCA, etc.);</p>
-</li>
-<li>
-<p>Refreshment for school guests (order and washing up);</p>
-</li>
-<li>
-<p>Maintain the supplies of exam stationery; and</p>
-</li>
-<li>
-<p>Other ad-hoc duties as and when assigned by the School Senior Management
-Team.</p>
+<p>Order and purchase of food ingredients.</p>
 </li>
 </ul>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>GCE “A” or “O” Level;</p>
+<p>Basic Food Safety and Hygiene training preferred;</p>
 </li>
 <li>
-<p>Excellent communication skills, meticulous, good team player and ability
-to multi-task; and</p>
+<p>Team player who has good interpersonal skills, meticulous, flexible and
+good personal hygiene; and</p>
 </li>
 <li>
-<p>Prior experience working in a school will be an added advantage.</p>
-</li>
-</ul>
-<hr>
-<h5>HUMAN RESOURCE EXECUTIVE</h5>
-<p>Responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>HR operations which includes recruitment, onboarding, training &amp; development,
-benefits management and exit management;</p>
-</li>
-<li>
-<p>Assist on p-filing and maintenance of HRIS database; and</p>
-</li>
-<li>
-<p>Involve in ad hoc projects and administrative duties.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma in Business Administration/Human Resource or equivalent;</p>
-</li>
-<li>
-<p>Preferably with 1-2 years experiences in HR generalist role;</p>
-</li>
-<li>
-<p>High level of interpersonal skills to handle sensitive and confidential
-situations and documentation;</p>
-</li>
-<li>
-<p>Resourceful, proactive, able to multi-task and work independently as well
-as in a team; and</p>
-</li>
-<li>
-<p>Tech savvy would be an advantage.</p>
+<p>Some experiences working in a school setting in the areas of work stated
+above will be helpful.</p>
 </li>
 </ul>
 <p></p>
