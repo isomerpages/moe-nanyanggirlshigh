@@ -265,6 +265,277 @@ to chart the professional development of teachers in the school.</p>
 </li>
 </ul>
 <hr>
+<h5>SENIOR TEACHER, EDTECH</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Science or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>A e-pedagogical leader who is able to mentor other teachers in using e-pedagogical
+approaches that will engage high ability learners who are keen and motivated
+to learn and enhance the IP experience for students in the school and in
+the cluster;</p>
+</li>
+<li>
+<p>Expertise in applying e-pedagogy, specifically the Ed-Tech Pedagogical
+Scaffold (PS), with a strong focus on designing and facilitating active
+learning using technology;</p>
+</li>
+<li>
+<p>Skilled in leveraging technology for assessment and feedback, utilizing
+tools like the Student Learning Space (SLS) to enhance learning outcomes
+and provide timely, targeted feedbacks;</p>
+</li>
+<li>
+<p>Foster a culture of learning and able to galvanise teachers to work towards
+a common goal. Have experience leading teams to implement programmes for
+the department/school;</p>
+</li>
+<li>
+<p>Work in close partnership with school management, SSD and Senior Teachers
+to chart the professional development of teachers in the school; and</p>
+</li>
+<li>
+<p>High proficiency in educational technology tools and platforms that enhance
+learning outcomes.</p>
+</li>
+</ul>
+<hr>
+<h5>ART TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Art or equivalent;</p>
+</li>
+<li>
+<p>Familiarity with MOE Lower Secondary Art syllabus;</p>
+</li>
+<li>
+<p>Familiarity with and experience teaching O-level Art syllabus (or equivalent)
+and/or Art Elective Programme preferred;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5>BIOLOGY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Science or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for Science/STEM competitions, research
+projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5>CHEMISTRY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Science or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for Science/STEM competitions, research
+projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5>CHINESE LANGUAGE TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Chinese Language and Literature;</p>
+</li>
+<li>
+<p>Experience in teaching Higher Chinese Language;</p>
+</li>
+<li>
+<p>Interested in teaching Chinese Culture;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targetted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5>ENGLISH LANGUAGE TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in English Language/Literature or Postgraduate degree in related
+subjects; such as Linguistics;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5>HISTORY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in English Language/Literature or Postgraduate degree in related
+subjects; such as Linguistics;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5></h5>
 <h5>ACCOUNTS EXECUTIVE</h5>
 <p>Key Responsibilities:</p>
