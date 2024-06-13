@@ -503,8 +503,49 @@ help students achieve their fullest potential in the Integrated Programme
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Degree in English Language/Literature or Postgraduate degree in related
-subjects; such as Linguistics;</p>
+<p>Relevant degree in subject areas; History;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targetted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5>MALAY LANGUAGE TEACHER (MSP)</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Malay Language or post-graduate degree;</p>
+</li>
+<li>
+<p>Experience in teaching Malay Special Programme and Conversational Malay;</p>
+</li>
+<li>
+<p>Passion for Malay Language and culture;</p>
 </li>
 <li>
 <p>Competent in subject area as well as CCE and co-curricular areas;</p>
@@ -536,7 +577,92 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5></h5>
+<h5>MAKER CUM DESIGN &amp; TECHNOLOGY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Relevant degree in subject areas;</p>
+</li>
+<li>
+<p>Proficient in use of Maker tools and equipment, and able to demonstrate;</p>
+</li>
+<li>
+<p>Able to role-model safe practices in the MakerSpace;</p>
+</li>
+<li>
+<p>Familiarity with the objectives, concepts, and relevant learning experiences
+of Maker Education curriculum;</p>
+</li>
+<li>
+<p>Experience teaching any of the following will be preferred; Maker, D&amp;T,
+Design Thinking or Visual Art;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5>MATHEMATICS TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Pure Mathematics or Applied Mathematics;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in Olympiad Training and in guiding students for competitions,
+research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5>ACCOUNTS EXECUTIVE</h5>
 <p>Key Responsibilities:</p>
 <ul data-tight="true" class="tight">
