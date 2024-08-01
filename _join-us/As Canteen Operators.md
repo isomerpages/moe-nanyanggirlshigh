@@ -12,9 +12,6 @@ our school canteen:</p>
 <li>
 <p>Vegetarian Food Stall</p>
 </li>
-<li>
-<p>Western Food Stall</p>
-</li>
 </ul>
 <h2>Criteria</h2>
 <p>Applicants should meet the following criteria:</p>
@@ -78,7 +75,7 @@ certificates of applicant and stall assistant/s.</p>
 </li>
 <li>
 <p>Please submit the completed application form with the supporting documents
-to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by <strong>30 June 2024</strong>.</p>
+to the school's General Office or email to <a href="mailto:nanyanggirls@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanyanggirls@nygh.edu.sg</a> by <strong>31 December 2024</strong>.</p>
 </li>
 <li>
 <p>Shortlisted applicants will be invited for an interview and will be required
