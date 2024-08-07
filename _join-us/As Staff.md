@@ -13,255 +13,34 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for:</h2>
-<h5>HOD, AESTHETICS &amp; APPLIED LEARNING (ART)</h5>
+<h5>RELIEF MUSIC TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Relevant degree or diploma in Art;</p>
+<p>Relevant degree in Music or Diploma in Music;</p>
 </li>
 <li>
-<p>Familiarity with MOE Lower Secondary Art syllabus;</p>
+<p>Relevant teacher teaching qualifications, with specialisation in music
+education;</p>
 </li>
 <li>
-<p>Familiarity with and experience teaching O-level Art syllabus (or equivalent)
-and/or Art Elective Programme preferred;</p>
+<p>Familiarity with MOE Lower Secondary Music syllabus;</p>
 </li>
 <li>
-<p>Competent in subject area as well as familiar with Music, Food and Consumer
-Education, Maker Education syllabuses preferred;</p>
+<p>Familiarity with and experience teaching O-level Music syllabus (or equivalent),
+preferred;</p>
 </li>
 <li>
-<p>Able to lead the department in designing concept-based curriculum so that
-students develop deep conceptual understanding and thinking that can be
-applied across disciplines;</p>
+<p>Able to build good rapport and connect well with students;</p>
 </li>
 <li>
-<p>Able to lead the department to use a range of teaching styles and methods
-that instill a passion for the learning of Art;</p>
+<p>Excellent interpersonal skills &amp; a good team player;</p>
 </li>
 <li>
-<p>Able to develop evaluation strategies and instruments to assess learning
-effectiveness including alternative modes of assessment;</p>
+<p>Adaptable and flexible with changes; and</p>
 </li>
 <li>
-<p>Enjoy working with others and is able to galvanise teachers to work towards
-a common goal. Have experience leading teams to implement programmes for
-the department/school; and</p>
-</li>
-<li>
-<p>Familiarity with overseeing Performing Arts CCAs preferred.</p>
-</li>
-</ul>
-<hr>
-<h5>HOD, INTERDISCIPLINARY STUDIES</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevant degree or equivalent;</p>
-</li>
-<li>
-<p>Design and implement school-wide interdisciplinary concept-based curriculum
-frameworks that integrate multiple subject areas;</p>
-</li>
-<li>
-<p>Collaborate with Curriculum Specialists, HODs, Subject Teachers to align
-curriculum goals and objectives across disciplines;</p>
-</li>
-<li>
-<p>Develop school-wide projects and assessments that encourage interdisciplinary
-exploration and critical thinking;</p>
-</li>
-<li>
-<p>Provide guidance and resources to teachers to facilitate interdisciplinary
-teaching practices;</p>
-</li>
-<li>
-<p>Cultivate partnerships with local organizations, businesses, and community
-members to enhance interdisciplinary learning opportunities;</p>
-</li>
-<li>
-<p>Work with other HODs in organising events and presentations to showcase
-students' interdisciplinary projects and achievements;</p>
-</li>
-<li>
-<p>Communicate with parents and stakeholders about the value and benefits
-of interdisciplinary education;</p>
-</li>
-<li>
-<p>Develop evaluation strategies and instruments to assess student learning
-outcomes in interdisciplinary studies;</p>
-</li>
-<li>
-<p>Stay abreast of current trends, research, and best practices in interdisciplinary
-education; and</p>
-</li>
-<li>
-<p>Collaborate with colleagues and educational experts to explore innovative
-approaches to interdisciplinary teaching and learning.</p>
-</li>
-</ul>
-<hr>
-<h5>SUBJECT HEAD, PHYSICS/CHEMISTRY</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree holder in Science or equivalent;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>Able to design an Integrated Programme (IP) curriculum that will engage
-high ability learners who are keen and motivated to learn and enhance the
-IP experience for students;</p>
-</li>
-<li>
-<p>Have a good understanding of the concept-based approach to learning and
-interdisciplinary learning, and is able to guide teachers to design a curriculum
-and assessment that supports these approaches to learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy and is able to guide teachers
-in giving targeted feedback, using data to improve teaching and learning
-and designing different modes of assessment to support learning outcomes;</p>
-</li>
-<li>
-<p>Have experience in guiding students for competitions, research projects
-and overseas trips;</p>
-</li>
-<li>
-<p>Able to act as mentor in the holistic development of students so as to
-help students achieve their fullest potential in the Integrated Programme
-(IP); and</p>
-</li>
-<li>
-<p>Enjoy working with others and is able to galvanise teachers to work towards
-a common goal. Have experience leading teams to implement programmes for
-the department/school.</p>
-</li>
-</ul>
-<hr>
-<h5>SUBJECT HEAD, SCIENCE</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree holder in Science or equivalent;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>Able to design an Integrated Programme (IP) curriculum that will engage
-high ability learners who are keen and motivated to learn and enhance the
-IP experience for students;</p>
-</li>
-<li>
-<p>Have a good understanding of the concept-based approach to learning and
-interdisciplinary learning, and is able to guide teachers to design a curriculum
-and assessment that supports these approaches to learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy and is able to guide teachers
-in giving targeted feedback, using data to improve teaching and learning
-and designing different modes of assessment to support learning outcomes;</p>
-</li>
-<li>
-<p>Have experience in guiding students for competitions, research projects
-and overseas trips;</p>
-</li>
-<li>
-<p>Able to act as mentor in the holistic development of students so as to
-help students achieve their fullest potential in the Integrated Programme
-(IP); and</p>
-</li>
-<li>
-<p>Enjoy working with others and is able to galvanise teachers to work towards
-a common goal. Have experience leading teams to implement programmes for
-the department/school.</p>
-</li>
-</ul>
-<hr>
-<h5>SUBJECT HEAD, SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS (STEM)</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree holder in related subjects or equivalent;</p>
-</li>
-<li>
-<p>To develop STEM curriculum to educate students in Science, Technology,
-Engineering and Mathematics;</p>
-</li>
-<li>
-<p>Have experience in designing inter-disciplinary lessons involving STEM
-and Maker education;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>Able to design an Integrated Programme (IP) curriculum that will engage
-high ability learners who are keen and motivated to learn and enhance the
-IP experience for students;</p>
-</li>
-<li>
-<p>Have a good understanding of the concept-based approach to learning and
-interdisciplinary learning, and is able to guide teachers to design a curriculum
-and assessment that supports these approaches to learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy and is able to guide teachers
-in giving targeted feedback, using data to improve teaching and learning
-and designing different modes of assessment to support learning outcomes;</p>
-</li>
-<li>
-<p>Have experience in guiding students for competitions, research projects
-and overseas trips</p>
-</li>
-<li>
-<p>Able to act as mentor in the holistic development of students so as to
-help students achieve their fullest potential in the Integrated Programme
-(IP); and</p>
-</li>
-<li>
-<p>Enjoy working with others and is able to galvanise teachers to work towards
-a common goal. Have experience leading teams to implement programmes for
-the department/school.</p>
-</li>
-</ul>
-<hr>
-<h5>SENIOR TEACHER, CHEMISTRY/PHYSICS</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Science or equivalent;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>A pedagogical leader who is able to mentor other teachers in using pedagogical
-approaches that will engage high ability learners who are keen and motivated
-to learn and enhance the IP experience for students in the school and in
-the cluster;</p>
-</li>
-<li>
-<p>Have a very good understanding of the concept-based approach to learning
-and interdisciplinary learning, and is able to guide teachers in the school
-to use pedagogy that supports these approaches to learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy and is able to spearhead
-the design and customisation of curriculum and assessment to meet the Integrated
-Programme (IP) goals and learners' needs;</p>
-</li>
-<li>
-<p>Foster a culture of learning and able to galvanise teachers to work towards
-a common goal. Have experience leading teams to implement programmes for
-the department/school; and</p>
-</li>
-<li>
-<p>Work in close partnership with school management, SSD and Senior Teachers
-to chart the professional development of teachers in the school.</p>
+<p>Preferably able to commit for 1 year (2025).</p>
 </li>
 </ul>
 <hr>
@@ -349,42 +128,6 @@ help students achieve their fullest potential in the Integrated Programme
 </ul>
 <hr>
 <h5>BIOLOGY TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Science or equivalent;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>Able to engage high ability learners who are keen and motivated to learn
-and enhance the Integrated Programme (IP) experience for students;</p>
-</li>
-<li>
-<p>Have a good understanding of the concept-based approach to learning and
-interdisciplinary learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy in terms of providing targeted
-feedback, using data to improve teaching and learning and designing different
-modes of assessment to support learning outcomes;</p>
-</li>
-<li>
-<p>Have experience in guiding students for Science/STEM competitions, research
-projects and overseas trips;</p>
-</li>
-<li>
-<p>Able to act as mentor in the holistic development of students so as to
-help students achieve their fullest potential in the Integrated Programme
-(IP); and</p>
-</li>
-<li>
-<p>Enjoy working with others and is a good team player.</p>
-</li>
-</ul>
-<hr>
-<h5>CHEMISTRY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -518,48 +261,6 @@ interdisciplinary learning;</p>
 </li>
 <li>
 <p>Possess a strong level of assessment literacy in terms of providing targetted
-feedback, using data to improve teaching and learning and designing different
-modes of assessment to support learning outcomes;</p>
-</li>
-<li>
-<p>Have experience in guiding students for competitions, research projects
-and overseas trips;</p>
-</li>
-<li>
-<p>Able to act as mentor in the holistic development of students so as to
-help students achieve their fullest potential in the Integrated Programme
-(IP); and</p>
-</li>
-<li>
-<p>Enjoy working with others and is a good team player.</p>
-</li>
-</ul>
-<hr>
-<h5>MALAY LANGUAGE TEACHER (MSP)</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Malay Language or post-graduate degree;</p>
-</li>
-<li>
-<p>Experience in teaching Malay Special Programme and Conversational Malay;</p>
-</li>
-<li>
-<p>Passion for Malay Language and culture;</p>
-</li>
-<li>
-<p>Competent in subject area as well as CCE and co-curricular areas;</p>
-</li>
-<li>
-<p>Able to engage high ability learners who are keen and motivated to learn
-and enhance the Integrated Programme (IP) experience for students;</p>
-</li>
-<li>
-<p>Have a good understanding of the concept-based approach to learning and
-interdisciplinary learning;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy in terms of providing targeted
 feedback, using data to improve teaching and learning and designing different
 modes of assessment to support learning outcomes;</p>
 </li>
@@ -715,32 +416,6 @@ staff; and</p>
 </li>
 <li>
 <p>Good oral and written communication skills.</p>
-</li>
-</ul>
-<hr>
-<h5>FOOD STUDIES ASSISTANT/KITCHEN ASSISTANT (PART-TIME)</h5>
-<p>Responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist and support Food Studies lessons in 2 kitchens concurrently (pre/during/
-post lessons); and</p>
-</li>
-<li>
-<p>Order and purchase of food ingredients.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Basic Food Safety and Hygiene training preferred;</p>
-</li>
-<li>
-<p>Team player who has good interpersonal skills, meticulous, flexible and
-good personal hygiene; and</p>
-</li>
-<li>
-<p>Some experiences working in a school setting in the areas of work stated
-above will be helpful.</p>
 </li>
 </ul>
 <p></p>
