@@ -14,8 +14,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <hr>
-<p><strong>2023 Generation NY</strong>
-</p>
+<h3><strong>2023 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:200px;" height="auto" width="100%" src="/images/2023_genny_family_edition_thumbnail.png">
 </div>
