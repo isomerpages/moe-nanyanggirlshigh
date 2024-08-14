@@ -11,6 +11,12 @@ variant: tiptap
 <p>
 <br><a href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf" rel="noopener noreferrer nofollow" target="\_blank">FAMILY EDITION</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="border-bottom-style:none;border-left-style:none;border-right-style:none;
+border-top-style:none;height:20px;padding-right:10px;vertical-align:text-bottom" height="auto" width="100%" src="https://ssl.gstatic.com/docs/doclist/images/icon_10_generic_list.png">
+</div>
+<p><a href="https://drive.google.com/file/d/1xu38DAIdIMlTjvMcrRXkaKfThtW7kaDc/view?usp=drive_web" rel="noopener noreferrer nofollow" target="_blank">&nbsp;2024 GenNY Family Edition (high res).pdf</a>
+</p>
 <hr>
 <h3><strong>2023 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
