@@ -14,16 +14,15 @@ variant: tiptap
 <p></p>
 <p></p>
 <hr>
-<h3><strong>2023 Generation NY</strong></h3>
+<p><strong>2023 Generation NY</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;" height="auto" width="100%" src="/images/2023_genny_family_edition_thumbnail.png">
 </div>
 <p>
 <br><a href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf" rel="noopener noreferrer nofollow" target="\_blank">FAMILY EDITION</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h3><strong>2022 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
@@ -32,9 +31,7 @@ variant: tiptap
 <p>
 <br><a href="/files/nyfamily_edition_2022_for_web.pdf" rel="noopener noreferrer nofollow" target="\_blank">FAMILY EDITION</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h3><strong>2021 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
@@ -49,9 +46,7 @@ variant: tiptap
 <p>
 <br><a href="/files/nygh_web_version.pdf" rel="noopener noreferrer nofollow" target="\_blank">FAMILY EDITION</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h3><strong>2020 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
@@ -66,9 +61,7 @@ variant: tiptap
 <p>
 <br><a href="/files/2020_family_edition.pdf" rel="noopener noreferrer nofollow" target="\_blank">FAMILY EDITION</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h3><strong>2019 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
@@ -83,9 +76,7 @@ variant: tiptap
 <p>
 <br><a href="/files/genny_2019_ny_family_edition.pdf" rel="noopener noreferrer nofollow" target="\_blank">FAMILY EDITION</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h3><strong>2018 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
@@ -118,9 +109,7 @@ variant: tiptap
 <p>
 <br><a href="http://spark.adobe.com/page/1cI1izGYsfr6A/" rel="noopener noreferrer nofollow" target="\_blank">ISSUE 3 ONLINE VERSION</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h3><strong>2017 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
@@ -153,9 +142,7 @@ variant: tiptap
 <p>
 <br><a href="http://spark.adobe.com/page/LXbTOOkdAPHk5/" rel="noopener noreferrer nofollow" target="\_blank">SPECIAL EDITION</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h3><strong>2016 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
@@ -181,8 +168,6 @@ variant: tiptap
 <p>
 <br><a href="/files/Newsletters/nygh_2016_nov_issue_v4.pdf" rel="noopener noreferrer nofollow" target="\_blank">ISSUE 4</a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <p></p>
