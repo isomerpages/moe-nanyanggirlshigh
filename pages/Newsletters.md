@@ -11,9 +11,6 @@ variant: tiptap
 <p>
 <br><a href="/files/Newsletters/nyfamily%20edition%202023%20high%20res.pdf" rel="noopener noreferrer nofollow" target="\_blank">FAMILY EDITION</a>
 </p>
-<p>
-<br>
-</p>
 <hr>
 <h3><strong>2023 Generation NY</strong></h3>
 <div class="isomer-image-wrapper">
