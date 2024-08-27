@@ -16,5 +16,4 @@ If you share the same mission with us, you may seek admission through the follow
 ## Entrance Examination
 
 
-Details of Annual Entrance Examination will be published in mid-September. Please note that the Annual Entrance Examination will only be conducted if there is a vacancy in AY2025 Sec 3.
-
+We regret to inform all prospective applicants that our Secondary 3 Annual Entrance Examination will not be conducted this year as there are no vacancies available for Secondary 3 in Academic Year 2025.
