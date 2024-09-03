@@ -18,7 +18,7 @@ description: ""
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Estimated Training hours in 2025 (Range)</strong>
+<p><strong>Estimated Training hours in 2025</strong>
 </p>
 </th>
 </tr>
@@ -67,7 +67,7 @@ description: ""
 <p>Table Tennis (2 coaches)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>330 to 360 hours each</p>
+<p>330 to 350 hours each</p>
 </td>
 </tr>
 <tr>
