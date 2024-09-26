@@ -4,7 +4,7 @@ permalink: /join-us/cca-instructors/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Nanyang Girls’ High School is inviting application for the following CCA instructor position:</strong>&nbsp;</h4>
+<h4><strong>Nanyang Girls’ High School is inviting applications for the following CCA instructor positions:</strong>&nbsp;</h4>
 <p>Commencing January 2025 to 31 December 2025</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -24,15 +24,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gymnastics-Artistic &amp; Trampolin (Main Coach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>350 to 375 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gymnastics-Artistic &amp; Trampoline (Assistant Coach)</p>
+<p>Gymnastics-Artistic &amp; Trampolin (2 Coaches)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>350 to 375 hours</p>
@@ -88,15 +80,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wushu (Main Coach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>190 to 210 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu (Assistant Coach)</p>
+<p>Wushu (2 Coaches)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>190 to 210 hours</p>
@@ -254,7 +238,7 @@ description: ""
 <p>Chinese Orchestra (Sheng)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>100 to 120 hours</p>
+<p>95 to 105 hours</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +270,7 @@ description: ""
 <p>Chinese Orchestra (Pipa)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>100 to 120 hours</p>
+<p>95 to 105 hours</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +331,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choir (Pianist/Assistant Coach)</p>
+<p>Choir (Assistant Coach)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50 to 60 hours</p>
@@ -382,23 +366,23 @@ description: ""
 <p>Modern Dance (Assistant Instructor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 to 20 hours</p>
+<p>15 to 25 hours</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DALT (Main Instructor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>50 to 60 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DALT (Assistant Instructor)</p>
+<p>DALT (Lion &amp; Dragon Dance Instructor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>120 to 140 hours</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DALT (Drum Instructor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 to 60 hours</p>
 </td>
 </tr>
 <tr>
@@ -478,15 +462,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debate Club (Main Coach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>200 to 220 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Debate Club (Assistant Coach)</p>
+<p>Debate Club (2 Coaches)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>200 to 220 hours</p>
