@@ -13,64 +13,6 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for:</h2>
-<h5>RELIEF ART TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevant degree or diploma in Visual Art;</p>
-</li>
-<li>
-<p>Relevant teacher training qualification with specialisation in art education;</p>
-</li>
-<li>
-<p>Familiarity with MOE Lower Secondary Art syllabus;</p>
-</li>
-<li>
-<p>Familiarity with and experience teaching O-level Art syllabus (or equivalent)
-and/or Art Elective Programme, preferred;</p>
-</li>
-<li>
-<p>Enjoys and able to interact, connect and build good rapport with students;</p>
-</li>
-<li>
-<p>Adaptable and flexible with changes; and</p>
-</li>
-<li>
-<p>Excellent interpersonal skills and a good team player.</p>
-</li>
-</ul>
-<hr>
-<h5>RELIEF MUSIC TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevant degree in Music or Diploma in Music;</p>
-</li>
-<li>
-<p>Relevant teacher teaching qualifications, with specialisation in music
-education;</p>
-</li>
-<li>
-<p>Familiarity with MOE Lower Secondary Music syllabus;</p>
-</li>
-<li>
-<p>Familiarity with and experience teaching O-level Music syllabus (or equivalent),
-preferred;</p>
-</li>
-<li>
-<p>Able to build good rapport and connect well with students;</p>
-</li>
-<li>
-<p>Excellent interpersonal skills &amp; a good team player;</p>
-</li>
-<li>
-<p>Adaptable and flexible with changes; and</p>
-</li>
-<li>
-<p>Preferably able to commit for 1 year (2025).</p>
-</li>
-</ul>
-<hr>
 <h5>SENIOR TEACHER, EDTECH</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -348,58 +290,62 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>ACCOUNTS EXECUTIVE</h5>
+<h5>STEM INSTRUCTOR (LABORATORY)</h5>
 <p>Key Responsibilities:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Full range of accounting responsibilities, including accounts receivable
-and accounts payable functions;</p>
+<p>Preparation of materials, make up solutions and assemble apparatus;</p>
 </li>
 <li>
-<p>Prepare monthly schedules for financial and management reporting within
-the stipulated timeline;</p>
+<p>Set-up equipments in labs for Science Practical lessons and assessments;</p>
 </li>
 <li>
-<p>Ensure all accounts receivable &amp; payable reconciliations and follow-up
-are compliant with policies and regulations;</p>
+<p>Able to trial and troubleshoot practical activities;</p>
 </li>
 <li>
-<p>Prepare and collate schedules required for internal and external audits;</p>
+<p>Support students’ STEM learning by collaborating with teachers to plan,
+organise learning experiences/journeys and supporting their investigative
+projects;</p>
 </li>
 <li>
-<p>Call for quotations for the various types of insurance;</p>
+<p>Manage and maintain inventory of laboratories supplies through regular
+stock-takes, routine calibration, and replacement of worn items/equipments;</p>
 </li>
 <li>
-<p>Prepare statement of account for Global Classroom Programmes; and</p>
+<p>Collaborate with external partners for asset management and routine checks
+in the laboratories; and</p>
 </li>
 <li>
-<p>Any other ad hoc tasks which may be assigned from time to time.</p>
+<p>Assist in budget planning by providing relevant information and support
+finance operations.</p>
 </li>
 </ul>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Diploma in Accounting or equivalent;</p>
+<p>Relevant certificate/diploma in a Science or Technology discipline, or
+equivalent qualifications;</p>
 </li>
 <li>
-<p>Familiarity with SAP HANA financial system will be an advantage;</p>
+<p>Proficient in Microsoft Office applications (e.g. Excel) and adept with
+using systems;</p>
 </li>
 <li>
-<p>Good Working knowledge of Microsoft Office, MS Excel is required;</p>
+<p>Familiarity with implementation of laboratory safety requirements and
+able to undertake risk assessments;</p>
 </li>
 <li>
-<p>Able to multi-task, work independently with a high degree of accuracy
-and efficiency;</p>
+<p>Good interpersonal and communication skills;</p>
 </li>
 <li>
-<p>Able to work well under pressure and tight deadlines;</p>
+<p>Meticulous with good planning and organising skills;</p>
 </li>
 <li>
-<p>Team player with the ability to work independently with all levels of
-staff; and</p>
+<p>Able to work independently and in a team; and</p>
 </li>
 <li>
-<p>Good oral and written communication skills.</p>
+<p>Relevant working experience in a school laboratory environment would be
+an advantage.</p>
 </li>
 </ul>
 <p></p>
