@@ -311,7 +311,7 @@ Note: The recipient of the above scholarship can only be in receipt of one schol
 
 **1\. Ministry of Education Independent School Bursary**
 
-<a target="_blank" href="/files/MOE_ISB_2024.pdf">CLICK HERE</a>&nbsp;to download MOE ISB Application Form (2024)
+<a target="_blank" href="/files/2025_MOE_ISB_Fom.pdf">CLICK HERE</a>&nbsp;to download MOE ISB Application Form (2025)
 
 *   The applicant must be a Singapore citizen
 
@@ -358,6 +358,6 @@ Additional benefits :<br>
 
 *   Students who do not qualify for the MOE ISB may apply for financial assistance under the Nanyang Girls' School Financial Assistance Scheme.
 
-<a target="_blank" href="/files/NYGH_FAS_2024.pdf">CLICK HERE</a> to download NYGH FAS Application Form (2024).
+<a target="_blank" href="/files/2025_NYGH_FAS_Form.pdf">CLICK HERE</a> to download NYGH FAS Application Form (2025).
 
-<a target="_blank" href="/files/Textbk_n_Uniform_2024.pdf">CLICK HERE</a> to download NYGH FAS for Textbook / School Attire Form (2024).
+<a target="_blank" href="/files/2025_Textbk_n_Sch_Attire_Form.pdf">CLICK HERE</a> to download NYGH FAS for Textbook / School Attire Form (2025).
