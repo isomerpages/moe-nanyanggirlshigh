@@ -6,7 +6,10 @@ variant: markdown
 ---
 The fees payable by students include school fees, miscellaneous fees, enrichment programmes and Co-Curricular Activities (CCA) co-payment.
 
+<small>(Information is updated as of October 2024)</small>
+
 ## School Fees
+
 <style type="text/css">
 .sf  {border-collapse:collapse;border-spacing:0;}
 .sf td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
