@@ -13,45 +13,48 @@ Besides our very established Global Classroom Programme (GCP), our school also w
 We have very supportive partners who have continually worked closely with us on long-term immersion programmes, school visits, industrial visits/attachments and benchmarking.
 
 With our deep and strong local and foreign engagements, Nanyang Girls’ High School is a world class institution that is at the forefront of education, fully equipping our girls with global 21st century skills.
+<br>
 
 
 * * *
 
 ### Strategic Alliance of Global Educators (SAGE)
 
-
-![](/images/sage-logo.png)
+<img style="width:250px; float: left; margin: 10px 50px 50px 0px;" src="/images/sage-logo.png">
+<br style="clear:both">
   
-High School Affiliated to Fudan University (China)
-Hwa Chong Institution (Singapore)
-Menlo School (California)
-RDFZ Xishan School (China)
-Scotch College (Australia)
-School of Science and Technology, Singapore
-Shanghai No. 3 Girls’ High School (China)
-The Affiliated High School of Peking University (China)
-The Perse School (UK)
-Avenues: The World School, New York (USA)
-Oulunkylän Yhteiskoulu (Finland)
-Nanshan High School (Taiwan)
-Øregård Gymnasium (Denmark)
-Camberwell Girls Grammar School (Australia)
-Pathways School Gurgaon (India)
-Tabor Academy (USA)
+High School Affiliated to Fudan University (China)<br>
+Hwa Chong Institution (Singapore)<br>
+Menlo School (California)<br>
+RDFZ Xishan School (China)<br>
+Scotch College (Australia)<br>
+School of Science and Technology, Singapore<br>
+Shanghai No. 3 Girls’ High School (China)<br>
+The Affiliated High School of Peking University (China)<br>
+The Perse School (UK)<br>
+Avenues: The World School, New York (USA)<br>
+Oulunkylän Yhteiskoulu (Finland)<br>
+Nanshan High School (Taiwan)<br>
+Øregård Gymnasium (Denmark)<br>
+Camberwell Girls Grammar School (Australia)<br>
+Pathways School Gurgaon (India)<br>
+Tabor Academy (USA)<br>
 <br>
 
 * * *
 
 ### Strategic Educational Alliance of Southeast Asia (SEA<sup>2</sup>)
 
-![](/images/sea2_iconlogo-c.png)
-Assumption College  
-Hanoi- Amsterdam High School For the Gifted  
-Hwa Chong Instituition  
-Jakarta Nanyang School  
-Maktab Sains Paduka Seri Begawan Sultan  
-Sekolah Darma Yudha  
-Sekolah Indonesia Singapura  
-Sekolah Menengah Sains Muzaffar Syah  
-Sekolah Tun Fatimah  
-Strisuksa Roi Et School
+<img style="width:250px; float: left; margin: 10px 50px 50px 0px;" src="/images/sea2_iconlogo-c.png">
+<br style="clear:both">
+
+Assumption College (Philippines)<br>
+Hanoi- Amsterdam High School For the Gifted (Vietnam)<br>
+Hwa Chong Institution (Singapore)<br>
+Jakarta Nanyang School (Indonesia)<br>
+Maktab Sains Paduka Seri Begawan Sultan (Brunei)<br>
+Sekolah Darma Yudha (Indonesia)<br>
+Sekolah Indonesia Singapura (Singapore)<br>
+Sekolah Menengah Sains Muzaffar Syah (Malaysia)<br>
+Sekolah Tun Fatimah  (Malaysia)<br>
+Strisuksa Roi Et School (Thailand)
