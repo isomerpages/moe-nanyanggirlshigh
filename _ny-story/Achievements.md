@@ -19,8 +19,6 @@ The Singapore Quality Award (SQA) was launched in 1994 with the Prime Minister a
 <img style="width:120px" src="/images/achievements2.jpg">
 <br>
 
-* * *
-
 ### School Distinction Award
 <br>
 <img style="width:180px" src="/images/achievements3.jpg">
