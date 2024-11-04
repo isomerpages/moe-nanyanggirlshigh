@@ -415,12 +415,15 @@ Nanyang Girls' Boarding School was established.<br>
 </tr>	
 <tr>
     <td class="tg-20">&nbsp;</td>
-	  <td class="tg-80"><img src="/images/milestones_2018_1.jpeg"><br></td>	
+	  <td class="tg-80"><img src="/images/milestones_2018_1.jpeg">
+	<p>Mdm Ng Chuen-Yin was an SAP school alumna, and had 20 years of experience in education. Mdm Ng’s last appointment was Superintendent in Schools Division, MOE.  
+</p>
+	</td>	
 </tr>					
 	
 <tr>
     <th class="th-20">2023</th>
-		<th class="th-80">Ms Siau Fong Fui joined the school as Principal.</th>
+		<th class="th-80">Mdm Ng Chuen-Yin left the school.<br>Ms Siau Fong Fui joined the school as Principal.</th>
 </tr>	
 <tr>
     <td class="tg-20">&nbsp;</td>
