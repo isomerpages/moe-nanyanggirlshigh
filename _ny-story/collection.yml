@@ -2,8 +2,8 @@ collections:
   ny-story:
     output: true
     order:
-      - School Direction.md
       - About Us.md
+      - School Direction.md
       - Milestones.md
       - Architecture Transformation.md
       - Achievements.md
