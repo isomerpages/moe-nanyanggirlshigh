@@ -7,6 +7,8 @@ third_nav_title: Character & Leadership
 ---
 The school aims to nurture all students to be role models and servant leaders with a clear sense of purpose and agency. When faced with challenges, they remain resilient and are confident in leading others. 
 
+<img style="width:350px" src="/images/dds-icons.png">
+
 We adopt the **Discover – Develop – Shine** approach in Student Leadership Development. This approach focuses on students **discovering** for themselves an understanding of self-leadership through class-level and cohort-level experiences. Through on-the-job experiences, workshops, seminars, camps, service-learning projects, cross-cultural learning, self-reflection and mentoring by teachers and seniors, students further **develop** their leadership knowledge, skills and values, and **shine** as they apply what they have learned as student leaders.
 
 In their four years in Nanyang, all students would have gone through leadership-development experiences such as Values Education and Strengths Finder Assessment, Classroom Role Selections, CCE Lessons on Self-Discovery and Leadership and Sharing by Invited Speakers. 
