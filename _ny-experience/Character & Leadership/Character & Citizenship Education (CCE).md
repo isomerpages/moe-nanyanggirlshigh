@@ -20,7 +20,7 @@ The content areas include
 	<li>Cyber Wellness</li>
 	<li>National Education</li>
 	<li>Family Education</li>
-	<li>Sexuality Education</li>
+	<li><a target="_blank" href="https://go.gov.sg/moe-sexuality-education">Sexuality Education</a></li>
 </ol>
 
 CCE fundamentals are taught across several curriculum content areas and well incorporated in timetabled lessons, co-curricular activities as well as workshops and programmes offered throughout the year. The range of experiences allows our students to apply what they have learnt in authentic settings and reflect on their growth and learning.
