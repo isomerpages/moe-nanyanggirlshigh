@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Character & Leadership
 ---
-<img style="width:800px; float: left; margin: 10px 50px 50px 0px;" src="/images/5domains_seperated.png">
+<img style="width:800px" src="/images/5domains_seperated.png">
 
 Character and Leadership Development is an integral part of the school’s Student Development curriculum which emphasises the importance of holistic development in the five domains: Moral 德, Intellectual 智, Physical 体, Social 群and Aesthetics 美 (五育). Character and Leadership Development comprises Character and Citizenship Education (CCE) and Student Leadership Development. 
 
