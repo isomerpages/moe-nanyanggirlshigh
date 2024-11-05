@@ -2,6 +2,7 @@ collections:
   ny-experience:
     output: true
     order:
+      - Character & Leadership/Character & Leadership Development.md
       - Character & Leadership/.keep
       - Bilingual Bicultural Environment.md
       - Academic.md
