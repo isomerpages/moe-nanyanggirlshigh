@@ -2,6 +2,7 @@ collections:
   ny-experience:
     output: true
     order:
+      - Character & Leadership/.keep
       - Bilingual Bicultural Environment.md
       - Academic.md
       - NY PLus.md
