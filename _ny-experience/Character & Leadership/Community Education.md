@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Character & Leadership
 ---
-## Serving People with Innovation, Creativity and Enterprise (SPICE)
+## Community Education - Serving People with Innovation, Creativity and Enterprise (ComEd-SPICE)
 
 All Nanyang girls go through a four-year Community Education Programme (ComEd) which incorporates service-learning, experiential learning and leadership development to equip our students with the knowledge, skills, values and attitudes to respectfully engage and meaningfully serve the community. 
 
