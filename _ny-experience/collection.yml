@@ -2,6 +2,8 @@ collections:
   ny-experience:
     output: true
     order:
+      - Bilingual Bicultural Environment.md
+      - Academic.md
       - Character & Leadership/.keep
       - Character & Leadership/Character & Leadership Development.md
       - Character & Leadership/Character & Citizenship Education (CCE).md
@@ -9,6 +11,4 @@ collections:
       - Character & Leadership/Community Education.md
       - Character & Leadership/Cyber Wellness and Digital Citizenship.md
       - Character & Leadership/Student Support.md
-      - Bilingual Bicultural Environment.md
-      - Academic.md
       - NY PLus.md
