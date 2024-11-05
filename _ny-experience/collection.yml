@@ -2,12 +2,12 @@ collections:
   ny-experience:
     output: true
     order:
-      - Character & Leadership/Cyber Wellness and Digital Citizenship.md
       - Character & Leadership/.keep
       - Character & Leadership/Character & Leadership Development.md
       - Character & Leadership/Character & Citizenship Education (CCE).md
       - Character & Leadership/Student Leadership Development.md
       - Character & Leadership/Community Education.md
+      - Character & Leadership/Cyber Wellness and Digital Citizenship.md
       - Bilingual Bicultural Environment.md
       - Academic.md
       - NY PLus.md
