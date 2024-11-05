@@ -2,6 +2,7 @@ collections:
   ny-experience:
     output: true
     order:
+      - Character & Leadership/Student Leadership Development.md
       - Character & Leadership/Character & Citizenship Education (CCE).md
       - Character & Leadership/Character & Leadership Development.md
       - Character & Leadership/.keep
