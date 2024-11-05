@@ -2,7 +2,7 @@ collections:
   ny-experience:
     output: true
     order:
-      - Academic.md
+      - Student Development.md
       - Bilingual Bicultural Environment.md
       - Character & Leadership/.keep
       - Character & Leadership/Character & Leadership Development.md
