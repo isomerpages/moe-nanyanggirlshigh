@@ -14,7 +14,7 @@ We have very supportive partners who have continually worked closely with us on 
 
 With our deep and strong local and foreign engagements, Nanyang Girls’ High School is a world class institution that is at the forefront of education, fully equipping our girls with the essential 21st century competencies.
 
-##### **Our Global Classroom Programme destinations**
+##### Our Global Classroom Programme destinations
 <br>
 <img style="width:800px; float: left; margin: 10px 50px 50px 0px;" src="/images/GlobalPartnersMap.png">
 <br style="clear:both">
