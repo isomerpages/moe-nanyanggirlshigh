@@ -15,7 +15,7 @@ At NYGH, we are committed to provide a broad-based and holistic education via pl
 .lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; width:30%;}	
 .lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; width:70%; padding-top:30px;}	
 .lsp ul li{line-height:20px;}	
-.head {	font-size:18px !important; color:#00558D;text-align:left; font-weight: bold;}
+.head {	font-size:20px !important; color:#00558D;text-align:left; font-weight: bold;}
 </style>
 
 <table style="width: 100%" class="lsp">  
