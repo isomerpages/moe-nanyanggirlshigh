@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Curriculum Framework/.keep
-      - Curriculum Framework/Curriculum Framework.md
+      - Curriculum Framework/IP Curriculum Overview.md
       - Curriculum Framework/Principles.md
       - Curriculum Framework/Teaching & Learning Framework.md
       - Curriculum Framework/Character and Leadership Development.md
