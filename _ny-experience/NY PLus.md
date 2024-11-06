@@ -13,27 +13,52 @@ At NYGH, we are committed to provide a broad-based and holistic education via pl
 .lsp .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:20px; vertical-align: middle; width:30%;}
 .lsp .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:20px; vertical-align: middle; width:70%;}
 .lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
-.lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+.lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%; padding-top:30px;}	
+.lsp ul li{line-height:20px;}	
+.head {	font-size:18px !important; color:#00558D;text-align:left; font-weight: bold;}
 </style>
 
-
-
-##### Secondary 1: Integrating into the Nanyang Family
-* Dragon Boating
-* Orienteering
-* 3D2N Camp in School
-
-##### Secondary 2: Engaging the Community
-* Community Education - Serving People with Innovation, Commitment and Empathy (ComEd-SPICE) Programme
-* Career Exploration
- 
-##### Secondary 3: Discovering Self, Venturing Beyond
-* Outward Bound Singapore (OBS)
-
-##### Secondary 4: Becoming a Respected Member of Society
-* Career Conference and Industry Visits 
-* Life Skills Workshops
-
+<table style="width: 100%" class="lsp">  
+<tbody>
+<tr>
+  <th class="th-30">Level</th>
+	<th class="th-70">Description</th>
+</tr>
+<tr>
+    <td class="tg-30"> Secondary 1</td>
+	<td class="tg-70"><span class="head">Integrating into the Nanyang Family</span><br> 
+			<ul>
+				<li>Dragon Boating</li>
+				<li>Orienteering</li>
+				<li>3D2N Camp in School</li>
+			</ul></td>	
+</tr>
+<tr>
+    <td class="tg-30"> Secondary 2</td>
+	<td class="tg-70"><span class="head">Engaging the Community</span><br> 
+			<ul>
+				<li>Community Education - Serving People with Innovation, Commitment and Empathy (ComEd-SPICE) Programme</li>
+				<li>Career Exploration</li>
+			</ul></td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 3</td>
+		<td class="tg-70"><span class="head">Discovering Self, Venturing Beyond</span><br> 
+			<ul>
+				<li>Outward Bound Singapore (OBS)</li>
+			</ul></td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 4</td>
+	<td class="tg-70"><span class="head">Becoming a Respected Member of Society</span><br> 
+			<ul>
+				<li>Career Conference and Industry Visits</li>
+				<li>Life Skills Workshops</li>
+			</ul></td>	
+</tr>
+	</tbody>
+	</table>
+<br>
 
 ## Global Classroom Programme (GCP)
 
