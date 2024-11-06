@@ -2,7 +2,6 @@ collections:
   ny-ip-curriculum:
     output: true
     order:
-      - ICT & EDTECH.md
       - Curriculum Framework/.keep
       - Curriculum Framework/IP Curriculum Overview.md
       - Curriculum Framework/Principles of Design & Learning.md
@@ -17,4 +16,5 @@ collections:
       - Talent Development/Mathematics.md
       - Talent Development/Sciences.md
       - Talent Development/Leadership.md
+      - ICT & EDTECH.md
       - Co–Curricular Activities.md
