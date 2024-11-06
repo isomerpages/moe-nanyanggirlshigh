@@ -66,7 +66,7 @@ In NYGH, we believe students are keen to learn and are highly driven. The curric
 </tr>
 </tbody>
 </table>
-<br><br>
+<br>
 Since 2016, our school has adopted Dr Lynn Erickson's Concept-based Approach in teaching and learning. It ensures that students develop deep conceptual understanding and thinking which will enable them to transfer disciplinary knowledge and skills across time, situations and contexts. 
 
 NYGH introduced the Fusion curriculum to the Secondary One cohort in 2024. Fusion is NYGH's approach to an authentic and integrated curriculum that is designed to prepare students to think deeply and collaborate with their peers to solve real-world problems. Design Thinking and Maker Education are also used to bring about innovative and creative thinking anchored in empathy. Fusion emphasises the connection of concepts, knowledge, real-world experiences and 21st Century competencies ranging from reasoning to communication as well as civic and cross-cultural literacies. Fusion also encourages students' ownership of their learning and provides choice.
