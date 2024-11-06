@@ -5,37 +5,25 @@ description: ""
 third_nav_title: Curriculum Framework
 variant: markdown
 ---
-The Nanyang Integrated Programme (IP) is a six-year programme for Nanyang Girls’ High School (NYGH) students, with years 1-4 spent at NYGH and years 5-6 at Hwa Chong Institution. The programme provides the flexibility to offer a customised curriculum leading to the GCE ‘A’ levels.
-
-In NYGH, we believe students are keen to learn and are highly driven. The programme therefore aims to provide an enriching and challenging learning experience for high-ability students of diverse talents and background, and is built upon the school’s extensive heritage and culture of bilingualism, excellence and service.
+The Nanyang Integrated Programme (IP) is a six-year programme for Nanyang Girls’ High School (NYGH) students, with years 1-4 spent at NYGH and years 5-6 at Hwa Chong Institution. The IP curriculum aims to stretch students beyond the requirements of the O-Level examinations/syllabus and offers students a more challenging curriculum with meaningful assessments.
 
 <img style="width:500px" src="/images/NYGH_Curriculum_Framework.png">
 <br>
 
-At NYGH, we want our students to become respected members of society and agents of positive change.
+In NYGH, we believe students are keen to learn and are highly driven. The curriculum therefore aims to provide an enriching and challenging learning experience for high-ability students of diverse talents and background, and is built upon the school’s extensive heritage and culture of bilingualism, excellence and service.NYGH is where they grow in their knowledge and understanding and develop competencies and dispositions to prepare them for work and for life.
 
-The aim of our curriculum is to nurture and develop the Nanyang student into:
 
-1.  a Woman of Character;
-2.  an Empowered Learner; and
-3.  an Agent of Change.
-
-NYGH is where they grow in their knowledge and understanding and develop competencies and dispositions to prepare them for work and for life (refer to table below for the specific competencies).
-
-## THE 3 AREAS OF GROWTH
+### The 3 Areas of Growth
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .th-100{ background-color:#00558D;color:#FFF;text-align:center;vertical-align:top;font-size:20px; width:100%; vertical-align: middle; }
-.tg .th-50{ background-color:#FFF;color:#00558D;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:20px; width:50%;vertical-align: middle; }
-.tg .tg-50{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important; font-size:15px !important; width:50%;}	
+.tg .th-50{ background-color:#FFF;color:#00558D;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important;border-top:1px solid #00558D !important; font-size:20px; width:50%;vertical-align: middle; }
+.tg .tg-50{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important;border-top:1px solid #00558D !important;  font-size:15px !important; width:50%;}	
 </style>
 
 <table class="tg">  
 <tbody>
-<tr>
-    <th colspan="2" class="th-100">Areas of Growth</th>
-</tr>
 <tr>
     <td class="th-50">Knowledge and Understanding</td>
 		<td class="tg-50">		
@@ -51,12 +39,10 @@ NYGH is where they grow in their knowledge and understanding and develop compete
     <td class="th-50">Competencies</td>
 		<td class="tg-50">		
 			<ul>
-				<li>Communication</li>
-				<li>Collaboration</li>
-				<li>Creative Thinking &amp; Innovative Thinking</li>
-				<li>Critical Thinking &amp; Problem-solving</li>
-				<li>Cultural Intelligence</li>
-				<li>Socio-emotional Intelligence</li>
+				<li>Communication, Collaboration and Information Skills</li>
+				<li>Critical, Adaptive and Inventive Thinking</li>
+				<li>Civic, Global and Cross-cultural Literacy</li>
+				<li>Social-emotional Intelligence</li>
 			</ul>	
 		</td>
 </tr>
@@ -78,3 +64,7 @@ NYGH is where they grow in their knowledge and understanding and develop compete
 </tr>
 </tbody>
 </table>
+<br><br>
+Since 2016, our school has adopted Dr Lynn Erickson's Concept-based Approach in teaching and learning. It ensures that students develop deep conceptual understanding and thinking which will enable them to transfer disciplinary knowledge and skills across time, situations and contexts. 
+
+NYGH introduced the Fusion curriculum to the Secondary One cohort in 2024. Fusion is NYGH's approach to an authentic and integrated curriculum that is designed to prepare students to think deeply and collaborate with their peers to solve real-world problems. Design Thinking and Maker Education are also used to bring about innovative and creative thinking anchored in empathy. Fusion emphasises the connection of concepts, knowledge, real-world experiences and 21st Century competencies ranging from reasoning to communication as well as civic and cross-cultural literacies. Fusion also encourages students' ownership of their learning and provides choice.
