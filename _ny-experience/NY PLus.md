@@ -7,6 +7,17 @@ variant: markdown
 ## Life Skills Programme (LSP)
 At NYGH, we are committed to provide a broad-based and holistic education via platforms that serve to develop life skills and engage our students in social emotional learning. The Life Skills Programme (LSP) is one such key platform where our girls learn important life skills, which include soft skills of working with one another in a non-academic setting through different mediums, such as games, camps, workshops, career conferences, learning journeys, class and level activities. LSP is tiered to provide unique types of learning experiences that are designed to meet the developmental milestones and learning needs of the respective levels based on the corresponding themes for each level:
 
+<style type="text/css">
+.lsp  {border-collapse:collapse;border-spacing:0;}
+.lsp td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.lsp .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:20px; vertical-align: middle; width:30%;}
+.lsp .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:20px; vertical-align: middle; width:70%;}
+.lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;}	
+.lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+</style>
+
+
+
 ##### Secondary 1: Integrating into the Nanyang Family
 * Dragon Boating
 * Orienteering
@@ -44,4 +55,4 @@ The school also offers Subject-Based Special Programme GCP for selected students
 
 Complementing the NYGH curriculum is the Boarding School Experience (BseLIGHT), a school activity exclusive to all current Secondary 4 students to build communal spirit. 
 
-Based on the theme of self-discovery and rooted in the principles of experiential learning, the one-week boarding school programme allows students to learn more about themselves and others through becoming more aware of managing their emotions and those in relation to others, exercising responsible decision-making, and being more appreciative and aware of the different cultures, habits and lifestyles of others. 
+Based on the theme of self-discovery and rooted in the principles of experiential learning, the one-week boarding school programme allows students to learn more about themselves and others through becoming more aware of managing their emotions and those in relation to others, exercising responsible decision-making, and being more appreciative and aware of the different cultures, habits and lifestyles of others.
