@@ -2,13 +2,13 @@ collections:
   ny-ip-curriculum:
     output: true
     order:
-      - Academic Programmes/Academic Programmes.md
-      - Academic Programmes/.keep
       - Curriculum Framework/.keep
       - Curriculum Framework/IP Curriculum Overview.md
       - Curriculum Framework/Principles of Design & Learning.md
       - Curriculum Framework/Teaching & Learning Framework.md
       - Curriculum Framework/Assessment Policy.md
+      - Academic Programmes/.keep
+      - Academic Programmes/Academic Programmes.md
       - Talent Development/.keep
       - Talent Development/Talent Development.md
       - Talent Development/BSP & CLEP.md
