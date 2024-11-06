@@ -2,6 +2,7 @@ collections:
   ny-ip-curriculum:
     output: true
     order:
+      - Academic Programmes/.keep
       - Academic Programmes.md
       - Curriculum Framework/.keep
       - Curriculum Framework/IP Curriculum Overview.md
