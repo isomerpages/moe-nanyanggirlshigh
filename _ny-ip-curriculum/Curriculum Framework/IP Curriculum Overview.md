@@ -17,16 +17,17 @@ In NYGH, we believe students are keen to learn and are highly driven. The curric
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .th-100{ background-color:#00558D;color:#FFF;text-align:center;vertical-align:top;font-size:20px; width:100%; vertical-align: middle; }
-.tg .th-50{ background-color:#FFF;color:#00558D;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important;border-top:1px solid #00558D !important; font-size:20px; width:50%;vertical-align: middle; }
-.tg .tg-50{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:top; border-bottom:1px solid #00558D !important;border-top:1px solid #00558D !important;  font-size:15px !important; width:50%;}	
+.tg .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:18px; vertical-align: middle; width:30%;border-bottom:1px solid #FFF !important; font-weight:bold; }
+.tg .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border:1px solid #00558D !important; border-right:1px solid #00558D !important; font-size:16px !important; padding-top:25px; width:70%;}	
+.tg ul li {line-height:22px}	
 </style>
+
 
 <table class="tg">  
 <tbody>
 <tr>
-    <td class="th-50">Knowledge and Understanding</td>
-		<td class="tg-50">		
+    <td class="th-30">Knowledge and Understanding</td>
+		<td class="tg-70">		
 			<ul>
 				<li>Disciplinary Literacy</li>
 				<li>Digital Literacy</li>
@@ -36,8 +37,8 @@ In NYGH, we believe students are keen to learn and are highly driven. The curric
 		</td>
 </tr>
 <tr>
-    <td class="th-50">Competencies</td>
-		<td class="tg-50">		
+    <td class="th-30">Competencies</td>
+		<td class="tg-70">		
 			<ul>
 				<li>Communication, Collaboration and Information Skills</li>
 				<li>Critical, Adaptive and Inventive Thinking</li>
@@ -47,8 +48,8 @@ In NYGH, we believe students are keen to learn and are highly driven. The curric
 		</td>
 </tr>
 	<tr>
-    <td class="th-50">Dispositions</td>
-		<td class="tg-50">		
+    <td class="th-30">Dispositions</td>
+		<td class="tg-70">		
 			<ul>
 				<li>Curiosity</li>
 				<li>Empathy</li>
