@@ -27,7 +27,6 @@ In designing the learning experiences for students, our teachers bear in the min
 .tl td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
 .tl .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:18px; vertical-align: middle; width:30%;border-bottom:1px solid #FFF !important;}
 .tl .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; border-right:1px solid #00558D !important; font-size:16px !important; width:70%;}	
-
 </style>
 
 <table style="width: 100%" class="tl">  
