@@ -1,5 +1,5 @@
 collections:
-  ny-curriculum:
+  ny-ip-curriculum:
     output: true
     order:
       - Curriculum Framework/.keep
