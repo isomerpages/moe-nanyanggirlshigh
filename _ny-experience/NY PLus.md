@@ -12,9 +12,9 @@ At NYGH, we are committed to provide a broad-based and holistic education via pl
 .lsp td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
 .lsp .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:18px; vertical-align: middle; width:30%;}
 .lsp .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:18px; vertical-align: middle; width:70%;}
-.lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;border-bottom:1px solid #00558D !important; font-size:15px !important; width:30%;padding-top:30px;}	
-.lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:15px !important; width:70%; padding-top:30px;}	
-.lsp ul li{line-height:20px; font-size:15px !important;}	
+.lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;border-bottom:1px solid #00558D !important; font-size:16px !important; width:30%;;vertical-align:middle;}	
+.lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:16px !important; width:70%; padding-top:30px;}	
+.lsp ul li{line-height:20px; font-size:16px !important;}	
 .head {	font-size:18px !important; color:#00558D;text-align:left; font-weight: bold;}
 </style>
 
