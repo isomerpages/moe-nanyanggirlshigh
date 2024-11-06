@@ -7,12 +7,12 @@ variant: markdown
 ---
 In NYGH, we seek to nurture Empowered Learners through our academic curriculum. As Empowered Learners, the students
 
-*   value opportunities that allow them to apply their learning;
-*   seek and use feedback to inform themselves about their learning progress and to articulate and set learning goals;
-*   develop strategies to achieve these learning goals;
-*   learn independently and collaboratively to develop stronger mastery of subject matter;
-*   reflect on their learning process and progress to advance their development; and
-*   take initiative to value-add to the learning process and the development of others.
+* value opportunities that allow them to apply their learning;
+* seek and use feedback to inform themselves about their learning progress and to articulate and set learning goals;
+* develop strategies to achieve these learning goals;
+* learn independently and collaboratively to develop stronger mastery of subject matter;
+* reflect on their learning process and progress to advance their development; and
+* take initiative to value-add to the learning process and the development of others.
 
 To enable our students to become Empowered Learners, our teachers take the role of mentor and collectively create an environment that enables holistic growth and development and empowers students to pursue their aspirations.
 
@@ -50,16 +50,10 @@ In designing the learning experiences for students, our teachers bear in the min
 </td></tr>
 <tr>
   <th class="th-30">differentiated</th>
-	<td class="tg-70">Teachers plan for learning in heterogeneous settings and take into consideration the students’ backgrounds, readiness and skill levels, and interests when they design the learning content and process. Teachers create an inclusive classrooms and help every student attain her best.
+	<td class="tg-70">Teachers plan for learning in heterogeneous settings and take into consideration the students’ backgrounds, readiness and skill levels, and interests when they design the learning content and process. Teachers create inclusive classrooms and help every student attain her best.
 </td></tr>
 <tr>
   <th class="th-30">developmentally appropriate</th>
 	<td class="tg-70">Activities and programmes are designed and/or curated to meet the different needs of the students, bearing in mind their level of cognitive, socio-emotional and physical development.
 </td></tr>
 </tbody></table>
-
-
-
-
-
-
