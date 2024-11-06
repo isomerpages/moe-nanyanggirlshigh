@@ -23,7 +23,9 @@ for the language and Chinese culture. These programmes include enrichment
 and talent development programmes tailored for Secondary 1 to 4 students,
 level reading programmes, literature workshops and seminars, learning journeys,
 weekly news and current affairs sharing, and many more.</p>
-<p>Secondary 1 to 4 Higher Chinese Language (HCL) Curriculum</p>
+
+#### Secondary 1 to 4 Higher Chinese Language (HCL) Curriculum
+
 <p>Nanyang Girls’ High School’s HCL curriculum emphasises the practicality
 of language learning, with the aim of developing students' language and
 thinking skills. It aims to help students acquire communicative competence
@@ -42,8 +44,9 @@ appreciating Chinese literary works. By enhancing their cultural literacy
 and deepening their connection to their Chinese heritage, the 4-year course
 focuses on developing students into well-rounded individuals with strong
 character and a deep sense of national identity.</p>
-<p>Secondary 1 to 4 Chinese Culture Curriculum</p>
-<p></p>
+
+#### Secondary 1 to 4 Chinese Culture Curriculum
+
 <p>Our Secondary 1 to 4 Chinese Culture Curriculum begins with the engaging
 Appreciation of Chinese Culture (ACC) Course for lower secondary students,
 designed to ignite their interest in Chinese literature and history. This
