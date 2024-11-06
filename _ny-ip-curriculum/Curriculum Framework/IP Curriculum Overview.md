@@ -19,7 +19,7 @@ In NYGH, we believe students are keen to learn and are highly driven. The curric
 .tg td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:18px; vertical-align: middle; width:30%;border-bottom:1px solid #FFF !important; font-weight:bold; }
 .tg .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border:1px solid #00558D !important; border-right:1px solid #00558D !important; font-size:16px !important; padding-top:25px; width:70%;}	
-.tg ul li {line-height:22px}	
+.tg ul li {line-height:22px; font-size:16px !important;}	
 </style>
 
 
