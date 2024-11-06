@@ -25,35 +25,35 @@ In designing the learning experiences for students, our teachers bear in the min
 <style type="text/css">
 .tl  {border-collapse:collapse;border-spacing:0;}
 .tl td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
-.tl .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:20px; vertical-align: middle; width:30%;border-bottom:1px solid #FFF !important;}
-.tl .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; border-right:1px solid #00558D !important; font-size:15px !important; width:70%;}	
+.tl .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:18px; vertical-align: middle; width:30%;border-bottom:1px solid #FFF !important;}
+.tl .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; border-right:1px solid #00558D !important; font-size:16px !important; width:70%;}	
 
 </style>
 
 <table style="width: 100%" class="tl">  
 <tbody>
 <tr>
-  <th class="th-30">concept-centric</th>
+  <th class="th-30">Concept-centric</th>
 	<td style="border-top:1px solid #00558D !important" class="tg-70">Through teachers’ skilful questioning and inductive pedagogical approaches, students develop strong mastery of the knowledge, processes and skills through a conceptual lens and are able to make connections between classroom learning and the world they live in.
 </td></tr>
 <tr>
-  <th class="th-30">authentic</th>
+  <th class="th-30">Authentic</th>
 	<td class="tg-70">Students are provided opportunities to engage with real and current issues that facilitate the understanding of concepts and the application of what they have learnt to different contexts. They will also immerse in interactions with teachers, peers and knowledgeable others to co-construct meaning from knowledge and experiences.
 </td></tr>
 <tr>
-  <th class="th-30">relevant</th>
+  <th class="th-30">Relevant</th>
 	<td class="tg-70">Students learn knowledge and develop skills and attributes that enable and prepare them for work and for life.
 </td></tr>
 <tr>
-  <th class="th-30">experiential</th>
+  <th class="th-30">Experiential</th>
 	<td class="tg-70">Teachers create learning opportunities that provide the students to learn with a Head-On, Heart-On and Hands-On approach and enable them to evaluate and reflect on their learning.
 </td></tr>
 <tr>
-  <th class="th-30">differentiated</th>
+  <th class="th-30">Differentiated</th>
 	<td class="tg-70">Teachers plan for learning in heterogeneous settings and take into consideration the students’ backgrounds, readiness and skill levels, and interests when they design the learning content and process. Teachers create inclusive classrooms and help every student attain her best.
 </td></tr>
 <tr>
-  <th class="th-30">developmentally appropriate</th>
+  <th class="th-30">Developmentally appropriate</th>
 	<td class="tg-70">Activities and programmes are designed and/or curated to meet the different needs of the students, bearing in mind their level of cognitive, socio-emotional and physical development.
 </td></tr>
 </tbody></table>
