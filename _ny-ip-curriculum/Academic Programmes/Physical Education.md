@@ -23,6 +23,63 @@ Team-focused and Interest-driven sport specialisation in Upper Secondary; and
 
 #### Physical Activities Offered
 
+<style type="text/css">
+.lsp  {border-collapse:collapse;border-spacing:0;}
+.lsp td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
+.lsp .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:18px; vertical-align: middle; width:30%;}
+.lsp .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:18px; vertical-align: middle; width:70%;}
+.lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;border-bottom:1px solid #00558D !important; font-size:16px !important; width:30%;;vertical-align:middle;}	
+.lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:16px !important; width:70%; padding-top:30px;}	
+.lsp ul li{line-height:20px; font-size:16px !important;}	
+</style>
+
+<table style="width: 100%" class="lsp">  
+<tbody>
+<tr>
+  <th class="th-30">Level</th>
+	<th class="th-70">Activities</th>
+</tr>
+<tr>
+    <td class="tg-30">Secondary 1</td>
+	<td class="tg-70"> 
+			<ul>
+				<li>Fundamental Movement Skills through Track &amp; Field</li>
+				<li>Fundamental Sports skills through Netball &amp; Softball</li>
+				<li>Outdoor Education:
+					<ul>
+						<li>Orienteering 2</li>
+						<li>Outdoor cooking</li>
+						<li>Knots &amp; lashes</li>
+						<li>Understanding safety in the outdoors</li>
+				
+			</ul></li></ul></td>	
+</tr>
+<tr>
+    <td class="tg-30">Secondary 2</td>
+	<td class="tg-70"><span class="head">Engaging the Community</span><br> 
+			<ul>
+				<li>Community Education - Serving People with Innovation, Commitment and Empathy (ComEd-SPICE) Programme</li>
+				<li>Career Exploration</li>
+			</ul></td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 3</td>
+		<td class="tg-70"><span class="head">Discovering Self, Venturing Beyond</span><br> 
+			<ul>
+				<li>Outward Bound Singapore (OBS)</li>
+			</ul></td>	
+</tr>
+	<tr>
+    <td class="tg-30"> Secondary 4</td>
+	<td class="tg-70"><span class="head">Becoming a Respected Member of Society</span><br> 
+			<ul>
+				<li>Career Conference and Industry Visits</li>
+				<li>Life Skills Workshops</li>
+			</ul></td>	
+</tr>
+	</tbody>
+	</table>
+<br>
 Sec 1
 Fundamental Movement Skills through Track &amp; Field
 Fundamental Sports skills through Netball &amp; Softball
