@@ -50,9 +50,9 @@ Team-focused and Interest-driven sport specialisation in Upper Secondary; and
 						<li>Orienteering 2</li>
 						<li>Outdoor cooking</li>
 						<li>Knots &amp; lashes</li>
-						<li>Understanding safety in the outdoors</li>
-				
-			</ul></li></ul></td>	
+						<li>Understanding safety in the outdoors</li></ul>
+				</li>
+		</ul></td>	
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
