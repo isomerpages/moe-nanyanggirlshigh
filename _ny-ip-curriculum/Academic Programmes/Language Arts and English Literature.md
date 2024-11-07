@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Academic Programmes
 ---
+<img src="/images/image7.jpg">
+
 The English Language Arts classroom seeks to engage our students in sense and meaning-making with authentic literary and non-literary texts relevant to real-world contexts. It promotes active participation and multiple viewpoints, through which the student may discover her own voice and communicate with conviction, style and grace. 
 
 Texts and learning experiences in the Language Arts classroom aim to fulfil not only the intellectual and cognitive demands of school, but also the social-emotional, the moral-ethical, the aesthetic and the physical needs and readiness of our students. The development of metacognitive skills enables the student to monitor her own learning and to gain a greater sense of self-efficacy. In addition, opportunities for collaboration serve to build a learning community that recognises the strength and value of shared knowledge. 
