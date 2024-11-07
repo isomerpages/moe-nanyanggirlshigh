@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Academic Programmes
 ---
+<img src="/images/outdoor_ed2.jpg">
+
 In Nanyang Girls’ High School, the Physical Education department consciously makes use of movement as the primary medium to reach and teach the whole child through the following three modes: 
 education in movement; 
 education through movement; and 
