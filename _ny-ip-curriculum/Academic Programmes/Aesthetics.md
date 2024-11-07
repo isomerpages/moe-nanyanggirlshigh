@@ -5,7 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Academic Programmes
 ---
-All students experience Aesthetics & Applied Learning through Art, Dance, Food Studies, Maker and Music lessons in the lower secondary levels. These are platforms through which students develop a spirit of experimentation and exploration, confidence in communication, and an awareness of various cultural identities. The provision of arts education in applied settings contributes to the holistic development of each child.
+<img src="/images/aep01_2.jpg">
+
+All students experience Aesthetics &amp; Applied Learning through Art, Dance, Food Studies, Maker and Music lessons in the lower secondary levels. These are platforms through which students develop a spirit of experimentation and exploration, confidence in communication, and an awareness of various cultural identities. The provision of arts education in applied settings contributes to the holistic development of each child.
 
 Students who demonstrate a strong interest and inclination towards Art and Music are welcome to apply to join the Art Elective Programme (AEP) or Higher Music Programme (HMP) from Secondary 1 as an additional subject. AEP and HMP are part of the Talent Development Programmes offered at the school. Selection for consideration into these programmes include a selection test and a portfolio interview (for art) and audition (for music).
 
