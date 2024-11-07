@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Academic Programmes
 ---
+<img src="/images/CLheader.jpg">
+
 <p>“Every Nanyang girl is a lifelong learner who loves the Chinese language
 and culture. She is well-read and refined, and possesses global perspectives.”
 This is the vision of Nanyang Girls’ High School Chinese Language and Culture
