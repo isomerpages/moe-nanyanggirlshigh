@@ -26,11 +26,13 @@ Team-focused and Interest-driven sport specialisation in Upper Secondary; and
 <style type="text/css">
 .lsp  {border-collapse:collapse;border-spacing:0;}
 .lsp td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
-.lsp .th-30{ background-color:#00558D; color:#FFF;text-align:center;vertical-align:top;font-size:18px; vertical-align: middle; width:30%;}
-.lsp .th-70{ background-color:#00558D; color:#FFF;text-align:left;vertical-align:top;font-size:18px; vertical-align: middle; width:70%;}
-.lsp .tg-30{background-color:#FFF;color:#3c4764;text-align:center;border-bottom:1px solid #00558D !important; font-size:16px !important; width:30%;;vertical-align:middle;}	
+.lsp .th-30{ background-color:#00558D; color:#FFF; text-align:center; vertical-align:top; font-size:18px; vertical-align: middle; width:30%;}
+.lsp .th-70{ background-color:#00558D; color:#FFF; text-align:left; vertical-align:top; font-size:18px; vertical-align: middle; width:70%;}
+.lsp .tg-30{background-color:#FFF; color:#3c4764; text-align:center; border-bottom:1px solid #00558D !important; font-size:16px !important; width:30%; vertical-align:middle;}	
 .lsp .tg-70{background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle; border-bottom:1px solid #00558D !important; font-size:16px !important; width:70%; padding-top:30px;}	
 .lsp ul li{line-height:20px; font-size:16px !important;}	
+.sbl {margin-top:0px !important; }	
+.sbl li{margin-bottom:0px !important;}	
 </style>
 
 <table style="width: 100%" class="lsp">  
@@ -46,71 +48,61 @@ Team-focused and Interest-driven sport specialisation in Upper Secondary; and
 				<li>Fundamental Movement Skills through Track &amp; Field</li>
 				<li>Fundamental Sports skills through Netball &amp; Softball</li>
 				<li>Outdoor Education:
-					<ul>
-						<li>Orienteering 2</li>
-						<li>Outdoor cooking</li>
-						<li>Knots &amp; lashes</li>
-						<li>Understanding safety in the outdoors</li></ul>
+					<ul class="sbl">
+						<li>Sense of place: Connecting with the outdoors;</li>
+						<li>Orienteering 1; and</li>
+						<li>Leave no trace: Environmental management during outdoor activities.</li></ul>
 				</li>
 		</ul></td>	
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
-	<td class="tg-70"><span class="head">Engaging the Community</span><br> 
+	<td class="tg-70"> 
 			<ul>
-				<li>Community Education - Serving People with Innovation, Commitment and Empathy (ComEd-SPICE) Programme</li>
-				<li>Career Exploration</li>
+				<li>Thematic approaches through games-concepts:
+					<ul class="sbl">
+						<li>Net-barrier Games: Badminton, volleyball and pickleball</li>
+						<li>Invasion-territorial Games: Frisbee and soccer</li></ul>
+				</li>
 			</ul></td>	
 </tr>
 	<tr>
     <td class="tg-30"> Secondary 3</td>
-		<td class="tg-70"><span class="head">Discovering Self, Venturing Beyond</span><br> 
+		<td class="tg-70"> 
 			<ul>
-				<li>Outward Bound Singapore (OBS)</li>
+				<li>Team Sports
+				<ul class="sbl"><li>Softball, basketball and handball</li></ul>				
+				</li>
+				<li>Self-Defence</li>
+				<li>Outdoor Education:
+					<ul class="sbl">
+						<li>Orienteering 2</li>
+						<li>Outdoor cooking</li>
+						<li>Knots &amp; lashes</li>
+						<li>Understanding safety in the outdoors</li></ul>
+				</li>
 			</ul></td>	
 </tr>
 	<tr>
     <td class="tg-30"> Secondary 4</td>
-	<td class="tg-70"><span class="head">Becoming a Respected Member of Society</span><br> 
+	<td class="tg-70"> 
 			<ul>
-				<li>Career Conference and Industry Visits</li>
-				<li>Life Skills Workshops</li>
+				<li>Team Sports focused
+				<ul class="sbl">
+						<li>Floorball</li>
+						<li>Table Tennis (Focus on doubles)</li></ul>
+				</li>
+				<li>Elective Modules
+				<ul class="sbl">
+						<li>Dance</li>
+						<li>Tennis</li>
+						<li>In-line skating &amp; Touch Rugby</li></ul>
+				</li>
 			</ul></td>	
 </tr>
+<tr>
+	   <td class="tg-30">Secondary 1 to 4</td>
+	 <td class="tg-70"> Progressive Health &amp; Fitness Lessons in preparation for the pursuit of a active and healthy lifestyle through adulthood<br><br></td>
+</tr>	
 	</tbody>
 	</table>
-<br>
-Sec 1
-Fundamental Movement Skills through Track &amp; Field
-Fundamental Sports skills through Netball &amp; Softball
-Outdoor Education:
-Sense of place: Connecting with the outdoors;
-Orienteering 1; and
-Leave no trace: Environmental management during outdoor activities.
-
-Sec 2
-Thematic approaches through games-concepts:
-Net-barrier Games: Badminton, volleyball and pickleball
-Invasion-territorial Games: Frisbee and soccer
-
-Sec 3
-Team Sports 
-Softball, basketball and handball
-Self-Defence
-Outdoor Education
-Orienteering 2
-Outdoor cooking
-Knots &amp; lashes
-Understanding safety in the outdoors
-
-Sec 4
-Team Sports focused
-Floorball
-Table Tennis (Focus on doubles)
-Elective Modules
-Dance
-Tennis
-In-line skating &amp; Touch Rugby
-
-Sec 1 to Sec 4
-Progressive Health &amp; Fitness Lessons in preparation for the pursuit of a active and healthy lifestyle through adulthood
