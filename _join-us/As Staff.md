@@ -12,7 +12,7 @@ education and a global perspective.</p>
 <p>Nanyang Girls’ High School invites applications from&nbsp;qualified, highly
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
-<h2>We are looking for:</h2>
+<h2>We are looking for</h2>
 <h5>SENIOR TEACHER, EDTECH</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -348,8 +348,8 @@ able to undertake risk assessments;</p>
 an advantage.</p>
 </li>
 </ul>
-<p></p>
-<h4>APPLICATION PROCEDURES</h4>
+<hr>
+<h2>Application Procedures</h2>
 <p>Staff recruitment is an ongoing process at Nanyang Girls' High School.
 We are constantly looking for suitably qualified and committed staff to
 join our team.</p>
