@@ -4,17 +4,16 @@ permalink: /ny-curriculum/cca/
 description: ""
 variant: markdown
 ---
-#### The co curricular activities we offer to our students form an integral part of our pupil development programme.
+The co-curricular activities we offer to our students form an integral part of our pupil development programme. In NYGH, CCA aims to
+
+* help our students discover their strength of character; 
+* develop in our students the school’s values and school spirit; 
+* nurture student leadership skills; and
+* provide students with opportunities to pursue and excel in their talent and passion.
 
 We strongly believe in fostering and nurturing our students’ talents and abilities in a fun yet challenging environment. Under the guidance of experienced instructors and teachers who exemplify excellence and character, our programmes provide our students with the opportunities to grow and discover themselves.
 
-##### AIMS OF CCA&nbsp;
-
-1\. To help our students discover their strength of character  
-2\. To develop in our students the school’s values and school spirit  
-3\. To nurture student leadership skills  
-4\. To provide students with opportunities to pursue and excel in their talent and passion
-
+<br>
 <style type="text/css">
 .cca  {border-collapse:collapse;border-spacing:0;}
 .cca td{ font-family:Arial, sans-serif; overflow:hidden;padding:10px 5px;word-break:normal;}
