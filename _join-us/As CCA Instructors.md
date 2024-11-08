@@ -514,6 +514,7 @@ description: ""
 at the point of application. The school reserves the right to revise the
 training hours in the final award based on the school's needs and resources.&nbsp;</p>
 <hr>
+<h3>Application Procedure</h3>
 <p>To apply, please download a copy of the <a href="/files/Application_form_for_NYGH_CCA_Coach_or_Instructor.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> and
 email it with supporting documents (eg.: Valid MOE registration, First
 Aid with CPR and AED certification, NROC membership, Dance CCA specialisation
