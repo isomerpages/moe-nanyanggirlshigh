@@ -154,4 +154,3 @@ variant: markdown
 </div>
 
 <br style="clear:both">
-<hr>
