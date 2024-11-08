@@ -13,7 +13,7 @@ our school canteen:</p>
 <p>Vegetarian Food Stall</p>
 </li>
 </ul>
-<h3>Criteria</h3>
+<h2>Criteria</h2>
 <p>Applicants should meet the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -50,7 +50,7 @@ experience is preferred.</p>
 </li>
 </ol>
 <p></p>
-<h3>Application Procedure</h3>
+<h2>Application Procedure</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Application forms are available at our General Office (2 Linden Drive
