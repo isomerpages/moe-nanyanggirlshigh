@@ -49,9 +49,9 @@ Team-focused and Interest-driven sport specialisation in Upper Secondary; and
 				<li>Fundamental Sports skills through Netball &amp; Softball</li>
 				<li>Outdoor Education:
 					<ul class="sbl">
-						<li>Sense of place: Connecting with the outdoors;</li>
-						<li>Orienteering 1; and</li>
-						<li>Leave no trace: Environmental management during outdoor activities.</li></ul>
+						<li>Sense of place: Connecting with the outdoors</li>
+						<li>Orienteering 1</li>
+						<li>Leave no trace: Environmental management during outdoor activities</li></ul>
 				</li>
 		</ul></td>	
 </tr>
