@@ -4,7 +4,7 @@ permalink: /ny-story/corporate-social-responsibility/
 description: ""
 variant: markdown
 ---
-#### Guided by the school’s culture of excellence and vision to produce respected members of society, NYGH aims:  
+Guided by the school’s culture of excellence and vision to produce respected members of society, NYGH aims:
 <ol>
 <li>To be an exemplar of good practices for others as an organization</li>
 <li>To be socially responsible role models</li>
@@ -19,7 +19,7 @@ To ensure that the school embraces responsibility for its actions and processes,
 <li>Service to Community</li>
 </ol>
 
-### Our CSR and Approaches
+### NYGH’s Commitment to CSR: Approaches and Impacts
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,14 +35,15 @@ To ensure that the school embraces responsibility for its actions and processes,
   </tr>
 	</tbody>
 </table>
-<p>As a school with an established curriculum and management system, as well as long term strategic partnerships, NYGH aims to share its good practices and teaching-learning resources with the larger education community.</p>
-<p>The Approaches it takes include:</p>
+As a school with an established curriculum and management system, as well as long-term strategic partnerships, NYGH is committed to sharing its good practices and teaching-learning resources with the larger education community.
+
+The approaches taken include:
 <ol>
 	<li>Establishing itself as a Centre of Excellence to share its resources and good practices</li>
-	<li>Initiating alliance to achieve global synergy in teaching and learning</li>
-	<li>Sharing actively at national and international platforms</li>
-	<li>Initiating sharing platforms to reach out to both local and international educators
-</li></ol>
+	<li>Forming alliances to achieve global synergy in teaching and learning</li>
+	<li>Actively sharing at national and international platforms</li>
+	<li>Creating platforms for local and international educators to engage and collaborate with each other</li>
+</ol>
 
 <br>
 
@@ -53,8 +54,9 @@ To ensure that the school embraces responsibility for its actions and processes,
  </tr>
 	</tbody>
 </table>
-<p>NYGH believes that good corporate governance is critical to establishing a positive organisational culture, building integrity as well as a sense of responsibility and prudence. Good corporate governance is evident by responsibility and transparency.</p>
-<p>The approaches it takes include:</p>
+NYGH is committed to upholding good corporate governance that is critical to establishing a positive organisational culture and building integrity as well as a sense of responsibility and prudence. This commitment is demonstrated through accountability and responsibility.
+
+The approaches taken include:
 <ol>
 	<li>Sound performance management</li>
 	<li>Strict processes to ensure compliance and accountability</li>
@@ -69,13 +71,14 @@ To ensure that the school embraces responsibility for its actions and processes,
   </tr>
 	</tbody>
 </table>
-<p>NYGNYGH believes that its role in environment conservation involves both physical green efforts and education. It also believes in such efforts both within the school and beyond.</p>
-<p>Its environment conservation approaches therefore focuses on:</p>
-<ol>
-	<li>Green Building Standards</li>
-	<li>Green Technology</li>
-	<li>Green Education</li>
-	<li>Green Partnerships</li>
+<p>NYGH believes that its role in environmental conservation involves both physical green efforts and education. It also believes in such efforts both within the school and beyond.
+
+Our environmental conservation approaches therefore focus on:
+</p><ol>
+	<li>Adopting Green Building Standards</li>
+	<li>Utilising Green Technology</li>
+	<li>Promoting Green Education</li>
+	<li>Establishing Green Partnerships</li>
 </ol>
 
 <br>	
@@ -87,13 +90,13 @@ To ensure that the school embraces responsibility for its actions and processes,
   </tr>
 	</tbody>
 </table>
-<p>By promoting community service as a school value, NYGH develops in both its staff and students a sense of service.</p>
-<p>The approaches it takes include:</p>
+By promoting community service as a school value, NYGH develops in both its staff and students a sense of service.
+
+The approaches taken include:
 <ol>
-	<li>Strategic community partnership</li>
-	<li>Sharing of resources</li>
-	<li>Sharing of expertise</li>
-	<li>Staff and student service-learning</li>
+	<li>Building strategic community partnership</li>
+	<li>Sharing resources and expertise</li>
+	<li>Facilitating staff and student service-learning initiatives.</li>
 </ol>
 
 <br>
@@ -102,7 +105,8 @@ To ensure that the school embraces responsibility for its actions and processes,
 
 
 Creating a culture of change and responsibility starts with people. Staff and students are encouraged to:
-
-1.  Initiate and implement CSR programmes
-2.  Participate in CSR programmes
-3.  Celebrate CSR successes
+<ol>
+	<li>Lead and implement CSR programmes</li>
+	<li>Engage actively in CSR programmes</li>
+	<li>Celebrate the successes of our CSR efforts</li>
+</ol>

@@ -49,6 +49,7 @@ experience is preferred.</p>
 <p>Applicants who adopt green practices are also preferred.</p>
 </li>
 </ol>
+<p></p>
 <h2>Application Procedure</h2>
 <ol data-tight="true" class="tight">
 <li>

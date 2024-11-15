@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - About Us.md
+      - School Direction.md
       - Milestones.md
-      - Architecture Transformation.md
-      - Achievements.md
+      - Architecture.md
       - BOD & Management Team.md
+      - Global Alumni.md
       - Global Partners.md
       - Corporate Social Responsibility.md
-      - Global Alumni.md
-      - Financial Matters.md
+      - Achievements.md

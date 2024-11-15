@@ -4,8 +4,8 @@ links:
     collection: ny-story
   - title: NY Experience
     collection: ny-experience
-  - title: NY Curriculum
-    collection: ny-curriculum
+  - title: Ny Ip Curriculum
+    collection: ny-ip-curriculum
   - title: Join Us
     collection: join-us
   - title: Quicklinks
@@ -13,6 +13,10 @@ links:
     sublinks:
       - title: News
         url: /news/
+      - title: Prospectus
+        url: https://drive.google.com/file/d/1ckzdd8iTz1ziwqyYE_0KmOih-WqWGCNW/view?usp=sharing
+      - title: Financial Matters
+        url: /financial-matters/
       - title: School Calendar
         url: https://calendar.google.com/calendar/embed?src=c_nigrkeo68hav1nmron3c2af474%40group.calendar.google.com&ctz=Asia%2FSingapore
       - title: NYGH Portal
@@ -21,12 +25,10 @@ links:
         url: https://sites.google.com/nygh.edu.sg/nyghndlp
       - title: Student Learning Space
         url: https://vle.learning.moe.edu.sg/login/
-      - title: NY Boarding School
-        url: http://www.nyboarding.edu.sg/
       - title: NYGH Library
         url: https://schoolibrary.moe.edu.sg/nygh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-      - title: Newsletters
-        url: /newsletters/
+      - title: NY Boarding School
+        url: http://www.nyboarding.edu.sg/
       - title: Contact Us
         url: /contact-nygh/
   - title: 中文
