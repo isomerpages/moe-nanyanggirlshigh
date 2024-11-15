@@ -28,7 +28,7 @@ With our deep and strong local and foreign engagements, Nanyang Girls’ High Sc
 <img style="width:250px; float: left; margin: 10px 50px 50px 0px;" src="/images/sage-logo.png">
 <br style="clear:both">
 
-Nanyang Girls' High School (Singapore)
+Nanyang Girls' High School (Singapore)<br>
 High School Affiliated to Fudan University (China)<br>
 Hwa Chong Institution (Singapore)<br>
 Menlo School (California)<br>
@@ -54,7 +54,7 @@ Tabor Academy (USA)<br>
 <img style="width:250px; float: left; margin: 10px 50px 50px 0px;" src="/images/sea2_iconlogo-c.png">
 <br style="clear:both">
 
-Nanyang Girls' High School (Singapore)
+Nanyang Girls' High School (Singapore)<br>
 Assumption College (Philippines)<br>
 Hanoi- Amsterdam High School For the Gifted (Vietnam)<br>
 Hwa Chong Institution (Singapore)<br>
