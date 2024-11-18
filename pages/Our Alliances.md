@@ -4,7 +4,6 @@ permalink: /alliances/
 description: ""
 variant: markdown
 ---
-
 <img style="width:200px; float: left; margin: 10px 50px 0px 0px;" src="/images/sage-logo.png">
 <br style="clear:both">
 
@@ -36,7 +35,7 @@ The current members include:<br>
 
 NYGH initiated the formation of the Strategic Education Alliance of Southeast Asia (SEA<sup>2</sup>) in 2014 with the aim of deepening cross-cultural exchange and sharing between educators and students in Southeast Asia.
 
-SEA<sup>2</sup> comprises schools in Southeast Asia includes: 
+SEA<sup>2</sup> comprises schools in Southeast Asia include: 
 * Assumption College San Lorenzo Makati(Philippines)<br> 
 * Sekolah Darma Yudha (Indonesia)<br> 
 * Jakarta Nanyang School(Indonesia)<br>
