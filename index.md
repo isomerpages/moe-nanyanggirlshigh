@@ -27,6 +27,6 @@ sections:
       title: A Founding Member of
       button: our educational alliances
       url: /alliances
-      image: /images/founder-logos.png
+      image: /images/Founder_logos.png
       alt: Image alt text
 ---
