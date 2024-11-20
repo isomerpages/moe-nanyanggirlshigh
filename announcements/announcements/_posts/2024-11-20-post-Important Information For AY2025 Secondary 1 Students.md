@@ -7,5 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Details will be released during Secondary 1 Posting Day by 10am via Parents
-Gateway.</p>
+<h4>Details will be released during Secondary 1 Posting Day by 10am via Parents Gateway.</h4>
+<p></p>
