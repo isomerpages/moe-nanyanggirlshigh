@@ -6,7 +6,6 @@ variant: markdown
 ---
 The fees payable by students include school fees, miscellaneous fees and enrichment programmes.
 
-<small>(Information is updated as of November 2024)</small>
 
 ## School Fees
 
