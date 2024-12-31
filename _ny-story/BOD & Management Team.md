@@ -81,7 +81,7 @@ Ms Siau Fong Fui
 
 **Vice Principal**  
 Ms Ng Mien Mien Agnes  
-Ms Goh Bee Lim Mabel<br>
+Ms Gaynor Teh Ching Lin<br>
 Mrs Ho-Tan Meei Yee Mae Pauline 
 
 * * *
