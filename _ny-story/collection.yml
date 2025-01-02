@@ -2,6 +2,7 @@ collections:
   ny-story:
     output: true
     order:
+      - NY105 History Book.md
       - About Us.md
       - School Direction.md
       - Milestones.md
