@@ -2,7 +2,6 @@ collections:
   ny-story:
     output: true
     order:
-      - NY105 History Book.md
       - About Us.md
       - School Direction.md
       - Milestones.md
@@ -12,3 +11,4 @@ collections:
       - Global Partners.md
       - Corporate Social Responsibility.md
       - Achievements.md
+      - NY105 History Book.md
