@@ -13,6 +13,115 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
+<h5>Relief Biology Teacher</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NIE Postgraduate Diploma in Education or equivalent with good grade in
+"A" Level Biology (H2);</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching;</p>
+</li>
+<li>
+<p>Able to articulate well, pleasant, responsible, good team player and good
+organisation skills; and</p>
+</li>
+<li>
+<p>Some experience in teaching secondary high school students in a classroom
+setting will be an advantage.</p>
+</li>
+<li>
+<p>Commitment period: Mar – Oct 2025</p>
+</li>
+</ul>
+<hr>
+<h5>Special Educational Needs (SEN) Officer</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Diploma, Degree or equivalent;</p>
+</li>
+<li>
+<p>Trained SENO who has completed the SEN training;</p>
+</li>
+<li>
+<p>Good facilitation skills for 1 to 1 sessions and group works;</p>
+</li>
+<li>
+<p>Maintain high ethical and professional standards at all times;</p>
+</li>
+<li>
+<p>Optimistic and good team player;</p>
+</li>
+<li>
+<p>Comfortable with ambiguity;</p>
+</li>
+<li>
+<p>Able to use visual aids to conduct training/sharing for staff, students
+and parents; and</p>
+</li>
+<li>
+<p>Preferably with prior experience and expertise in working with students
+with SEN.</p>
+</li>
+</ul>
+<hr>
+<h5>Accounts Executive</h5>
+<p>Responsibilities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full range of accounting responsibilities, including accounts receivable
+and accounts payable functions;</p>
+</li>
+<li>
+<p>Prepare monthly schedules for financial and management reporting within
+the stipulated timeline;</p>
+</li>
+<li>
+<p>Ensure all accounts receivable &amp; payable reconciliations and follow-up
+are compliant with policies and regulations;</p>
+</li>
+<li>
+<p>Prepare and collate schedules required for internal and external audits;</p>
+</li>
+<li>
+<p>Call for quotations for the various types of insurance;</p>
+</li>
+<li>
+<p>Prepare statement of account for Global Classroom Programmes; and</p>
+</li>
+<li>
+<p>Any other ad hoc tasks which may be assigned from time to time.</p>
+</li>
+</ul>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Diploma in Accounting or equivalent;</p>
+</li>
+<li>
+<p>Familiarity with SAP HANA financial system will be an advantage;</p>
+</li>
+<li>
+<p>Good Working knowledge of Microsoft Office, MS Excel is required;</p>
+</li>
+<li>
+<p>Able to multi-task, work independently with a high degree of accuracy
+and efficiency;</p>
+</li>
+<li>
+<p>Able to work well under pressure and tight deadlines;</p>
+</li>
+<li>
+<p>Team player with the ability to work independently with all levels of
+staff; and</p>
+</li>
+<li>
+<p>Good oral and written communication skills.</p>
+</li>
+</ul>
+<hr>
 <h5>SENIOR TEACHER, EDTECH</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -287,65 +396,6 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 <li>
 <p>Enjoy working with others and is a good team player.</p>
-</li>
-</ul>
-<hr>
-<h5>STEM INSTRUCTOR (LABORATORY)</h5>
-<p>Key Responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Preparation of materials, make up solutions and assemble apparatus;</p>
-</li>
-<li>
-<p>Set-up equipments in labs for Science Practical lessons and assessments;</p>
-</li>
-<li>
-<p>Able to trial and troubleshoot practical activities;</p>
-</li>
-<li>
-<p>Support students’ STEM learning by collaborating with teachers to plan,
-organise learning experiences/journeys and supporting their investigative
-projects;</p>
-</li>
-<li>
-<p>Manage and maintain inventory of laboratories supplies through regular
-stock-takes, routine calibration, and replacement of worn items/equipments;</p>
-</li>
-<li>
-<p>Collaborate with external partners for asset management and routine checks
-in the laboratories; and</p>
-</li>
-<li>
-<p>Assist in budget planning by providing relevant information and support
-finance operations.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevant certificate/diploma in a Science or Technology discipline, or
-equivalent qualifications;</p>
-</li>
-<li>
-<p>Proficient in Microsoft Office applications (e.g. Excel) and adept with
-using systems;</p>
-</li>
-<li>
-<p>Familiarity with implementation of laboratory safety requirements and
-able to undertake risk assessments;</p>
-</li>
-<li>
-<p>Good interpersonal and communication skills;</p>
-</li>
-<li>
-<p>Meticulous with good planning and organising skills;</p>
-</li>
-<li>
-<p>Able to work independently and in a team; and</p>
-</li>
-<li>
-<p>Relevant working experience in a school laboratory environment would be
-an advantage.</p>
 </li>
 </ul>
 <hr>
