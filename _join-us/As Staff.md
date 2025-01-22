@@ -323,24 +323,17 @@ setting will be an advantage.</p>
 <p>Trained SENO who has completed the SEN training;</p>
 </li>
 <li>
-<p>Good facilitation skills for 1 to 1 sessions and group works;</p>
-</li>
-<li>
 <p>Maintain high ethical and professional standards at all times;</p>
 </li>
 <li>
-<p>Optimistic and good team player;</p>
+<p>Patience, good team player and excellent interpersonal skills;</p>
 </li>
 <li>
-<p>Comfortable with ambiguity;</p>
+<p>Able to use visual aids for communication with students, staff and parents;
+and</p>
 </li>
 <li>
-<p>Able to use visual aids to conduct training/sharing for staff, students
-and parents; and</p>
-</li>
-<li>
-<p>Preferably with prior experience and expertise in working with students
-with SEN.</p>
+<p>Preferably with prior experience working in a secondary school.</p>
 </li>
 </ul>
 <hr>
