@@ -4,48 +4,62 @@ permalink: /ny-curriculum/curriculum-framework/ict-and-edtech/
 description: ""
 variant: markdown
 ---
-The ICT curriculum in Nanyang Girls' High School is designed to equip our students with essential digital competencies necessary in the 21<sup>st</sup> century. Aligned with MOE’s EdTech Masterplan 2030, we integrate these digital competencies under the "Find, Think, Apply, Create" framework across our Total Curriculum.
+In alignment with the "Transforming Education through Technology" Masterplan 2030, our school is dedicated to integrating Information and Communication Technology (ICT) to enhance educational outcomes. Our holistic approach reflects this commitment, where digital literacy and artificial intelligence (AI) literacy are integral components of our teaching and learning ecosystem.
 
-  
-Secondary One students will have a solid foundation in Applied Digital Skills and Cyber Wellness built into their day-to-day school life. In Secondary Two, the compulsory module, "Computational Thinking and Basic Coding in Python", goes beyond coding, fostering problem-solving and logical reasoning in students. These programmes pave the way for further exploration in the Upper Secondary years, during which students can opt for elective modules on Intermediate and Advanced Coding in Python, as well as Introduction to AI and Machine Learning. This tiered approach ensures a progressive and comprehensive learning journey in digital literacy.
+#### Integration of Digital Literacies
 
-  
-We believe in providing a holistic education that imparts technical skills and nurtures creativity, critical thinking, and responsible digital citizenship. Our students will grow into not just proficient users of technology but adept innovators and ethical contributors to the digital society.
+We have designed our curriculum to seamlessly incorporate the "Find, Think, Apply, Create" framework and the nine key digital competencies outlined in the Masterplan into every academic subject and student development programme. This ensures that students across all disciplines have the necessary skills to navigate, analyse, and leverage digital resources, enhancing their understanding and engagement with each subject matter.
 
-With the implementation of full Home-Based Learning (HBL) during the COVID-19 Circuit Breaker, Blended Learning will become a regular feature of school life. Nanyang Girls’ High School has been selected by MOE for Phase 1 of the nationwide&nbsp;**Personalised Digital Learning Programme (PDLP)**. From March 2021 onwards, students in all four levels will own a learning device to empower self-directed and collaborative learning anytime, anywhere.
+#### Specialisation in Infocomm Club
 
-## Educational Technology
+Our Infocomm Club offers students opportunities to further develop their digital competencies by learning various coding languages, collaborating on AI-driven problem-solving, and exploring animation and digital art. Additionally, participation in initiatives like Sentinel—a cybersecurity programme by the Ministry of Defence and the Singapore Armed Forces—allows students to engage in cyber-related activities, covering topics such as phishing, social engineering, reverse engineering, and cryptography.
 
-Educational Technology, or EdTech, is the practice of facilitating teaching and learning by creating, using and managing appropriate technological processes and resources.
+#### Educational Technology
 
-In Nanyang Girls’ High School, EdTech is a means to empower student voices and ensure that learning is a student-driven process. Modelled after the&nbsp;**International Society for Technology in Education (ISTE) Standards for Students**, students engage in the roles of&nbsp;**Knowledge Constructors**,&nbsp;**Innovative Designers**,&nbsp;**Creative Communicators**&nbsp;and&nbsp;**Global Collaborators**&nbsp;in effectively harnessing technology in their learning. They:
+Educational Technology serves as a means to empower student voices and ensure that learning is a student-driven process. Grounded in MOE’s Digital Literacies for Students, our approach ensures that learners develop essential skills to navigate and thrive in a digitally connected world. Our students are encouraged to:
 
-* critically curate a variety of resources using digital tools to construct knowledge, produce creative artefacts and make meaningful learning experiences for themselves and others
-* use a variety of technologies within a design process to identify and solve problems by creating new, useful or imaginative solutions
-* communicate clearly and express themselves creatively for a variety of purposes using the platforms, tools, styles, formats and digital media appropriate to their goals
-* use digital tools to broaden their perspectives and enrich their learning by collaborating with others and working effectively in teams
+*   Navigate and Search Effectively: Use digital tools to efficiently locate, evaluate, and organise information while discerning credible sources from misinformation.
+    
+*   Think Critically and Solve Problems: Apply digital skills to analyse situations, develop innovative solutions, and leverage technology for real-world problem-solving.
+    
+*   Communicate and Collaborate Responsibly: Engage in meaningful digital interactions, leveraging various platforms and media formats to communicate clearly and work effectively with others.
+    
+*   Create and Innovate with Digital Tools: Use digital technologies to generate original content, develop creative solutions, and express ideas in diverse and impactful ways.
+    
+*   Practice Ethical and Safe Online Behavior: Understand digital rights, responsibilities, and cyber wellness principles to engage safely, respectfully, and responsibly in online spaces.
+    
+By aligning with MOE’s Digital Literacies for Students, we ensure that our students develop technological proficiency and the critical thinking and ethical awareness needed to be responsible and capable digital citizens.
 
-## e-Pedagogy
+#### e-Pedagogy
 
-e-Pedagogy is the practice of teaching with technology for active learning that creates a participatory, connected and reflective classroom to nurture the future-ready learner. Guided by e-Pedagogy, teachers will design learning experiences that enhance student engagement, subject mastery and help students acquire and practise 21st&nbsp;Century Competencies.
+We have adopted e-pedagogy practices to foster active learning that creates participatory, connected, and reflective classrooms. Our educators are empowered to integrate technology confidently and purposefully, utilising frameworks such as:
 
-Teachers use e-Pedagogy principles to:
+*   <b>SAMR Model</b>: Guides the integration of technology to transform learning experiences.
+    
+*   <b>EdTech Pedagogical Scaffold</b>: Provides key actions for designing and facilitating active learning with technology.
+    
+*   <b>Active Learning Processes (ALP) &amp; Key Applications of Technology (KATs)</b>: Assist in designing differentiated learning experiences and assessments.
+ 
+Teachers use e-pedagogy principles to:
 
 *   Design learning experiences to meet students’ diverse learning needs
-*   Deploy key applications of technology to better differentiate learning experiences
+    
+*   Deploy key applications of technology to differentiate learning experiences better
+    
 *   Design a variety of assessment tasks
-*   Involve students in assessment and get them to reflect on their own learning
+    
+*   Involve students in assessment and get them to reflect on their learning
+    
 *   Capture student learning and use data to differentiate and personalise learning
 
-## Cyberwellness and Digital Citizenship
+#### Cyber Wellness and Digital Citizenship
 
-In Nanyang Girls’ High School, Cyberwellness is about much more than merely online safety, or a long list of don’ts. It is also about the dos that help create empowered and empathetic digital citizens who can deal with important issues at the confluence of classroom learning, technology and society.
+At Nanyang Girls’ High School, Cyber Wellness goes beyond understanding online safety. We emphasise the development of empowered and empathetic digital citizens capable of navigating online spaces safely and responsibly. Our Cyber Wellness and Digital Citizenship education is integrated into the curriculum through workshops, talks, and activities led by teachers and Technology &amp; Cyber Wellness Ambassadors (TCWAs). These programmes focus on identifying online risks, promoting positive online behaviour, and using technology to contribute positively to the community.
 
-These dos include:
+#### AI Literacy: Preparing for a Smart Future
 
-*   Identifying possible online risks
-*   Analysing, evaluating and reflecting on online situations
-*   Taking actions to keep safe and be a positive online influence
-*   Using technology to make the community better
+Recognising the transformative potential of AI, we are actively incorporating AI literacy into our curriculum. Students will learn about AI principles, machine learning, and ethical considerations, empowering them to use AI tools responsibly and critically while envisioning and shaping future technologies.
 
-Cyberwellness and Digital Citizenship education is usually conducted during curriculum time and through programmes such as workshops, talks and activities. These are led by teachers and Technology &amp; Cyberwellness Ambassadors, who are peer-elected class student leaders.
+As part of this initiative, the school has begun exploring using Generative AI (Gen AI), specifically Google Gemini for Education, in teaching and learning. This pilot aims to enhance students' digital competencies by allowing them to engage with AI as a tool for research, creative expression, and personalised learning. Through carefully structured learning experiences, students develop an understanding of AI’s capabilities and limitations, ethical implications, and responsible usage in an academic setting.
+
+By integrating AI literacy into the curriculum, we aim to equip students with the skills and critical awareness needed to navigate an AI-driven world, fostering innovation and ethical responsibility in using emerging technologies.
