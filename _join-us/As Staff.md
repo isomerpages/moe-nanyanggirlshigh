@@ -13,6 +13,42 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
+<h5>GEOGRAPHY &amp; SOCIAL STUDIES TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Relevant degree in subject areas; Geography &amp; Social Studies;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects
+and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5>SENIOR TEACHER, EDTECH</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -309,7 +345,42 @@ organisation skills; and</p>
 setting will be an advantage.</p>
 </li>
 <li>
-<p>Commitment period: Mar – Oct 2025</p>
+<p>Commitment period: March – October 2025</p>
+</li>
+</ul>
+<hr>
+<h5>Relief Malay Language Teacher (MSP)</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Malay Language and Literature or a related field;</p>
+</li>
+<li>
+<p>Experience in teaching Malay Language (any level) and a passion for fostering
+beginners’ proficiency in the language;</p>
+</li>
+<li>
+<p>Interest in teaching Malay culture and heritage and integrating cultural
+elements into lessons to deepen students’ appreciation of the language;</p>
+</li>
+<li>
+<p>Able to carry out Differentiated Instruction (DI) strategies effectively
+to address diverse profiles, needs and interests of students;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy, such as providing (targeted
+feedback, data-driven strategies, varied assessments);</p>
+</li>
+<li>
+<p>Experience in guiding students for competitions and research projects;
+and</p>
+</li>
+<li>
+<p>A team player who enjoys collaboration with colleagues as well as internal
+and external stakeholders.</p>
+</li>
+<li>
+<p>Commitment Period: March to November 2025</p>
 </li>
 </ul>
 <hr>
@@ -334,61 +405,6 @@ and</p>
 </li>
 <li>
 <p>Preferably with prior experience working in a secondary school.</p>
-</li>
-</ul>
-<hr>
-<h5>Accounts Executive</h5>
-<p>Responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Full range of accounting responsibilities, including accounts receivable
-and accounts payable functions;</p>
-</li>
-<li>
-<p>Prepare monthly schedules for financial and management reporting within
-the stipulated timeline;</p>
-</li>
-<li>
-<p>Ensure all accounts receivable &amp; payable reconciliations and follow-up
-are compliant with policies and regulations;</p>
-</li>
-<li>
-<p>Prepare and collate schedules required for internal and external audits;</p>
-</li>
-<li>
-<p>Call for quotations for the various types of insurance;</p>
-</li>
-<li>
-<p>Prepare statement of account for Global Classroom Programmes; and</p>
-</li>
-<li>
-<p>Any other ad hoc tasks which may be assigned from time to time.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma in Accounting or equivalent;</p>
-</li>
-<li>
-<p>Familiarity with SAP HANA financial system will be an advantage;</p>
-</li>
-<li>
-<p>Good Working knowledge of Microsoft Office, MS Excel is required;</p>
-</li>
-<li>
-<p>Able to multi-task, work independently with a high degree of accuracy
-and efficiency;</p>
-</li>
-<li>
-<p>Able to work well under pressure and tight deadlines;</p>
-</li>
-<li>
-<p>Team player with the ability to work independently with all levels of
-staff; and</p>
-</li>
-<li>
-<p>Good oral and written communication skills.</p>
 </li>
 </ul>
 <hr>
