@@ -18,25 +18,22 @@ Showcase. Find out more about the diverse range of CCAs we offer by attending
 the concerts and visiting all the CCAs at the CCA Showcase. Attend the
 various school talks and live Q and A sessions where you will get to meet
 the Principal and Vice Principals.</p>
-<p><strong>Embark on a fun-filled</strong> trail&nbsp;to explore our campus</p>
-<p></p>
-<div class="isomer-image-wrapper">
+<p><strong>Embark on a fun-filled</strong> trail&nbsp;to explore our campus.</p>
+
 <img style="text-align:left; width:500px;" src="/images/Social_Media___OH_Trail.png">
-</div>
+
 <p>
 <br><strong>Catch insightful talks</strong>&nbsp;by&nbsp;our school leaders&nbsp;and
-dedicated teachers</p>
-<p></p>
-<div class="isomer-image-wrapper">
+dedicated teachers.</p>
+
 <img style="text-align:left; width:500px;" src="/images/Social_Media___School_Talks.png">
-</div>
+
 <p>
 <br><strong>Enjoy exciting performances</strong>&nbsp;by our talented student
-groups</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
+groups.</p>
+
 <img style="text-align:left; width:500px;" src="/images/Social_Media___Performance.png">
-</div>
+
 <p>Whether you're looking for a school that challenges you, inspires you,
 or feels like home—come see what makes NYGH special!&nbsp;</p>
 <p><strong>Date:</strong>&nbsp;5 April 2025
