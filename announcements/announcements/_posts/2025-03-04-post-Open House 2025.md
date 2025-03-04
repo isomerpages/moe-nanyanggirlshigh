@@ -21,21 +21,21 @@ the Principal and Vice Principals.</p>
 <p><strong>Embark on a fun-filled</strong> trail&nbsp;to explore our campus</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Social_Media___OH_Trail.png">
+<img style="text-align:left; width:500px;" src="/images/Social_Media___OH_Trail.png">
 </div>
 <p>
 <br><strong>Catch insightful talks</strong>&nbsp;by&nbsp;our school leaders&nbsp;and
 dedicated teachers</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Social_Media___School_Talks.png">
+<img style="text-align:left; width:500px;" src="/images/Social_Media___School_Talks.png">
 </div>
 <p>
 <br><strong>Enjoy exciting performances</strong>&nbsp;by our talented student
 groups</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Social_Media___Performance.png">
+<img style="text-align:left; width:500px;" src="/images/Social_Media___Performance.png">
 </div>
 <p>Whether you're looking for a school that challenges you, inspires you,
 or feels like home—come see what makes NYGH special!&nbsp;</p>
