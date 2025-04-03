@@ -32,7 +32,7 @@ dedicated teachers.</p>
 <br><strong>Enjoy exciting performances</strong>&nbsp;by our talented student
 groups.</p>
 
-<img style="text-align:left; width:500px;" src="/images/Social_Media___Performance.png">
+<img style="text-align:left; width:500px;" src="/images/Social_Media_Performance__3Apr_.png">
 
 <p>Whether you're looking for a school that challenges you, inspires you,
 or feels like home—come see what makes NYGH special!&nbsp;</p>
