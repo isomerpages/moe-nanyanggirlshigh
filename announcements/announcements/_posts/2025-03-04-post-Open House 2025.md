@@ -36,7 +36,7 @@ groups.</p>
 
 <p>Whether you're looking for a school that challenges you, inspires you,
 or feels like home—come see what makes NYGH special!&nbsp;</p>
-<p><strong>Date:</strong>&nbsp;5 April 2025
+<p><strong>Date:</strong>&nbsp;Saturday, 5 April 2025
 <br><strong>Location:</strong>&nbsp;2 Linden Drive 288683, Nanyang Girls'
 High School</p>
 <p><strong>Find out more :&nbsp;</strong><a rel="noopener noreferrer nofollow" target="_blank" href="https://openhousenygh.com/">OpenhouseNYGH.com</a>
