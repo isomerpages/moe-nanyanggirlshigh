@@ -15,5 +15,5 @@ variant: markdown
 and fruitful time with us!
 <br>
 <br>In case you missed it, you can still access our e-Open House website
-<a href="https://openhousenygh.com/" rel="noopener nofollow" target="_blank">here</a>to find out more about our curriculum programmes and student experiences.</p>
+<a href="https://openhousenygh.com/" rel="noopener nofollow" target="_blank">here</a> to find out more about our curriculum programmes and student experiences.</p>
 <p></p>
