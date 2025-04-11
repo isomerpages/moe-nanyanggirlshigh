@@ -326,7 +326,30 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>Relief Malay Language Teacher (MSP)</h5>
+<h5>RELIEF CHINESE LANGUAGE TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Chinese Language and Literature;</p>
+</li>
+<li>
+<p>Experience in teaching Higher Chinese Language;</p>
+</li>
+<li>
+<p>Good competency level in the use of learning platforms and ICT in teaching;</p>
+</li>
+<li>
+<p>Strong team player, proactive and good interpersonal skills;</p>
+</li>
+<li>
+<p>Ability to establish good rapport and connects well with students; and</p>
+</li>
+<li>
+<p>Commitment Period: June 2025 to October 2025.</p>
+</li>
+</ul>
+<hr>
+<h5>RELIEF MALAY LANGUAGE TEACHER (MSP)</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -361,7 +384,7 @@ and external stakeholders.</p>
 </li>
 </ul>
 <hr>
-<h5>Special Educational Needs (SEN) Officer</h5>
+<h5>SPECIAL EDUCATIONAL NEEDS (SEN) OFFICER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -382,47 +405,6 @@ and</p>
 </li>
 <li>
 <p>Preferably with prior experience working in a secondary school.</p>
-</li>
-</ul>
-<hr>
-<h5>Kitchen Assistant</h5>
-<p>Responsibilities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist and support Food Studies lessons in 2 kitchens concurrently (pre/during/
-post lessons); and</p>
-</li>
-<li>
-<p>Order and purchase of food ingredients.</p>
-</li>
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Basic Food Safety and Hygiene training preferred;</p>
-</li>
-<li>
-<p>Team player who has good interpersonal skills, meticulous, flexible and
-good personal hygiene; and</p>
-</li>
-<li>
-<p>Some experiences working in a school setting in the areas of work stated
-above will be helpful.</p>
-</li>
-</ul>
-<p>*Things to note:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The position does not require to report for work during the June and December
-School Holidays but will require to report for work during the last week
-of June and last week of December school holidays to prepare the kitchen
-for school reopening.</p>
-</li>
-<li>
-<p>The position is 5 days work week and follows the lesson timetable.</p>
-</li>
-<li>
-<p>The position is hourly rated at $12/hr.</p>
 </li>
 </ul>
 <hr>
