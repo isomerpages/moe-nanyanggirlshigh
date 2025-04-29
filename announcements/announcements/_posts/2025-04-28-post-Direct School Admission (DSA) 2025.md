@@ -236,7 +236,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <p>Applicants who do not have prior experience may also apply. We will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</p>
 
 <h4><strong>6. School Fees</strong></h4>
-<h5>School fees per month (Year 2024)</h5>
+<h5>School fees per month (Year 2025)</h5>
 <table style="width: 100%" class="tb">
 <tbody><tr>
   <th class="th-40">Nationality</th>
