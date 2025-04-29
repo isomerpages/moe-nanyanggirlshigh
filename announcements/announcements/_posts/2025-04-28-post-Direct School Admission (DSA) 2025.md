@@ -29,11 +29,11 @@ variant: markdown
 
 <h4><strong>1. Introduction</strong></h4>
 <p>Introduced in 2004, the DSA scheme provides students with the opportunity to seek admission to Nanyang Girls’ High School (NYGH), based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the PSLE. </p>
-<p>Primary 6 students who wish to seek admission to NYGH based on their achievements and talents can consider applying through DSA. Otherwise, students will take part in the Secondary 1 Posting Exercise, whereby admission is based on their PSLE results.</p>
+<p>Primary 6 students who wish to seek admission to NYGH based on their achievements and talents can consider applying through DSA. Otherwise, students will take part in the Secondary 1 Posting Exercise, whereby admission is based on their PSLE results. </p>
 <p>Students who have been successfully allocated to NYGH via DSA will NOT be allowed to participate in the Secondary 1 Posting Exercise to opt for other secondary schools as places have already been reserved for them in NYGH. They will also NOT be allowed to transfer to another school after the release of the PSLE results. NYGH runs the six-year Integrated Programme in partnership with HCI. They are expected to honour the commitment to NYGH from Year 1 to 4 and to Hwa Chong Institution (HCI) from Year 5 to 6.</p>
 <p>Students admitted to NYGH via DSA-CCA are expected to honour the commitment in the CCA from Year 1 to 4. They are allowed to choose another CCA in Year 5 to 6 if they are interested in a new CCA.</p>
-<p>Students admitted to NYGH via DSA (Bilingualism, Mathematics, Science, Innovation or Service Leadership) are expected to honour their commitment to participate in the respective domain's programmes from Year 1 to 4 and prioritise these programmes over others.</p>
-<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitude and strengths, bearing in mind NYGH’s academic and non-academic requirements, and the programmes available to develop the area of talent.</strong></p>
+<p>Students admitted to NYGH via DSA (Bilingualism, Mathematics, Science or Service Leadership) are expected to honour their commitment to participate in the respective domain's programmes from Year 1 to 4 and prioritise these programmes over others. </p>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitude and strengths, bearing in mind NYGH’s academic and non-academic requirements, and the programmes available to develop the area of talent. </strong></p>
 
 <h4><strong>2. Important Dates</strong></h4> 
 <table style="width: 100%" class="tb">  
@@ -45,46 +45,45 @@ variant: markdown
 </tr>
 <tr>
   <td class="tg-10">1	</td>
-	<td class="tg-60">From 2019, application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May to 3 June 2024. For more details, please refer to <a target="_blank" href="https://www.moe.gov.sg/secondary/dsa">MOE’s website</a>.</td>
-	<td class="tg-30">7 May 2024, 11am to 3 June 2024, 3pm </td>
+	<td class="tg-60">From 2019, application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 June 2025, 3pm. For more details, please refer to <a target="_blank" href="https://www.moe.gov.sg/secondary/dsa">MOE’s website</a>.</td>
+	<td class="tg-30">7 May 2025, 11am to 3 June 2025, 3pm </td>
 </tr>
 <tr>
   <td class="tg-10">2	</td>
 	<td class="tg-60">NYGH conducts trials/ auditions* for <u>shortlisted</u> applicants who have applied for the Aesthetics, Sports and Games-related talent areas. <br><br> 
-		<i>*Please click <a target="_blank" href="/files/DSA_trial_dates_for_school_website_2024.pdf">here</a> for the proposed trial dates and timings.</i> </td>
-	<td class="tg-30">5 July 2024 to 30 July 2024</td>
+		<i>*Dates for trials/ auditions will be published on the school website by early June.</i> </td>
+	<td class="tg-30">10 July 2025 to 30 July 2025</td>
 </tr>	
 <tr>
   <td class="tg-10">3	</td>
 	<td class="tg-60">NYGH conducts selection tests/ tasks for <u>shortlisted</u> applicants who have applied to the Bilingualism, Mathematics or Science talent areas.</td>
-	<td class="tg-30">6 July 2024</td>
+	<td class="tg-30">12 July 2025</td>
 </tr>		
 <tr>
   <td class="tg-10">4	</td>
-	<td class="tg-60"><u>Shortlisted</u> applicants who have applied for the Innovation talent area are to submit their portfolios. <br><br>
+	<td class="tg-60"><u>Shortlisted</u> applicants who have applied for the Service Leadership talent area are to submit their personal statements. <br><br>
 Further details will be sent to <u>shortlisted</u> applicants at least 1 week before the submission date.</td>
-	<td class="tg-30">8 July 2024</td>
+	<td class="tg-30">14 July 2025</td>
 </tr>			
 <tr>
-  <td class="tg-10">5	</td>
-	<td class="tg-60"><u>Shortlisted</u> applicants who have applied for the Service Leadership talent area are to submit their personal statements. <br><br>
-		Further details will be sent to <u>shortlisted</u> applicants at least 1 week before the submission date. </td>
-	<td class="tg-30">8 July 2024</td>
+  <td class="tg-10">&nbsp;</td>
+	<td class="tg-60"><i>~~~ You will receive notification from the school by 11 July 2025 if your child has been shortlisted to undergo Direct School Admission (DSA) selection. ~~~ </i></td>
+	<td class="tg-30">&nbsp;</td>
 </tr>		
 <tr>
   <td class="tg-10">6	</td>
-	<td class="tg-60">NYGH conducts interviews for <u>shortlisted</u>  applicants who have cleared the first round of selection through trials/ auditions/ tests/ tasks/ portfolios / personal statements. </td>
-	<td class="tg-30">3 August 2024 &amp; 17 August 2024</td>
+	<td class="tg-60">NYGH conducts interviews for <u>shortlisted</u> applicants who have cleared the first round of selection through trials/ auditions/ tests/ tasks/ personal statements.</td>
+	<td class="tg-30">2 August 2025 &amp; 16 August 2025</td>
 </tr>	
 <tr>
   <td class="tg-10">7	</td>
-	<td class="tg-60">Applicants receive outcome of the selection exercise. </td>
-	<td class="tg-30">By 9 September 2024</td>
+	<td class="tg-60">All applicants receive outcome of the selection exercise.</td>
+	<td class="tg-30">Between 25 August 2025 and 4 September 2025</td>
 </tr>	
 <tr>
   <td class="tg-10">8	</td>
-	<td class="tg-60">Students who receive at least one DSA offer may indicate up to three school preferences. They can submit their school preferences through the MOE online system or in hardcopy to their primary schools. </td>
-	<td class="tg-30">21 October 2024, 9am to 25 October 2024, 3pm</td>
+	<td class="tg-60">Students who receive at least one DSA offer may indicate up to three school preferences. They can submit their school preferences through the MOE online system or in hardcopy to their primary schools.</td>
+	<td class="tg-30">27 October 2025, 9am to 31 October 2025, 3pm</td>
 </tr>	
 <tr>
   <td class="tg-10">9	</td>
@@ -95,7 +94,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 </table>
 
 <h4><strong>3. Talent Areas</strong></h4>
-<p>The talent areas offered by NYGH in the 2024 DSA-Sec exercise for admission into Secondary 1 in 2025 are:</p>
+<p>The talent areas offered by NYGH in the 2025 DSA-Sec exercise for admission into Secondary 1 in 2026 are:</p>
 
 <table style="width: 100%" class="tb">  
 <tbody>
@@ -112,9 +111,6 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
     <td class="tg-100" colspan="3">Science</td>
 </tr>
 <tr>
-    <td class="tg-100" colspan="3">Innovation</td>
-</tr>
-<tr>
     <td class="tg-100" colspan="3">Service Leadership</td>
 </tr>
 <tr>
@@ -123,7 +119,10 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 •	Chinese Dance <br>
 •	Chinese Orchestra* <br>
 •	Concert Band**<br>
-•	String Ensemble***
+•	Guzheng Ensemble<br>
+•	Lion and Dragon Dance***<br>
+•	String Ensemble****
+
   </td>
 	<td class="tg-30">&nbsp;</td>
 </tr>
@@ -147,11 +146,12 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 
 <p><small>*Chinese Orchestra is accepting DSA applications for the following instruments: 弦乐 (Bowed strings), 阮 (Ruan), 柳琴 (Liuqin),  笙 (Sheng), 唢 (Suona), 笛子 (Dizi),  琵琶 (Pipa),  扬琴 (Yangqin), Cello, Double Bass, Percussion<br>
 **Concert Band is accepting DSA applications for the following instruments: Flute/Piccolo, Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Tuba, Euphonium, Saxophone<br>
-***String Ensemble is accepting DSA applications for the following instruments: Violin, Viola, Cello, Double Bass</small></p>
+***Lion and Dragon Dance is accepting DSA applications for the following roles: 狮头 (the head), 狮尾 (the tail)<br>
+****String Ensemble is accepting DSA applications for the following instruments: Violin, Viola, Cello, Double Bass</small></p>
 
 <h4><strong>4. Application Requirements of Each Talent Area</strong></h4> 
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. Please refer to <a target="_blank" href="https://www.moe.gov.sg/secondary/dsa">MOE’s website</a> on application requirements. </p>
-<p>The talent areas offered in NYGH in the 2024 DSA exercise for 2025 Secondary 1 admission are:</p>
+<p>The talent areas offered in NYGH in the 2025 DSA exercise for 2026 Secondary 1 admission are:</p>
 <table style="width: 100%" class="tb">
 <tbody><tr>
   <th class="th-40">Talent Areas</th>
@@ -181,13 +181,6 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 	<td class="tg-15">Required</td>
 </tr>	
 <tr>
-  <td class="tg-40">Innovation</td>
-	<td class="tg-15">-</td>
-	<td class="tg-15">Portfolio required</td>
-	<td class="tg-15">-</td>
-	<td class="tg-15">Required</td>
-</tr>	
-<tr>
   <td class="tg-40">Service Leadership</td>
 	<td class="tg-15">-</td>
 	<td class="tg-15">Personal Statement required</td>
@@ -200,6 +193,8 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 •	Chinese Dance <br>
 •	Chinese Orchestra<br>
 •	Concert Band<br>
+•	Guzheng Ensemble<br>
+•	Lion and Dragon Dance<br>
 •	String Ensemble
 </td>
 	<td class="tg-15">Required</td>
@@ -252,18 +247,18 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 </tr>
 <tr>
   <td class="tg-40">Singapore Citizens
-	</td><td class="tg-15">S$250
-	</td><td class="tg-15">S$250	
 	</td><td class="tg-15">S$300
 	</td><td class="tg-15">S$300	
+	</td><td class="tg-15">S$340
+	</td><td class="tg-15">S$340	
 </td></tr>
 
 <tr>
   <td class="tg-40">Singapore Permanent Residents
-	</td><td class="tg-15">S$880
-	</td><td class="tg-15">S$880	
-	</td><td class="tg-15">S$880
-	</td><td class="tg-15">S$880	
+	</td><td class="tg-15">S$960
+	</td><td class="tg-15">S$960	
+	</td><td class="tg-15">S$960
+	</td><td class="tg-15">S$960	
 </td></tr>
 <tr>
   <td class="tg-40">International Students from ASEAN Countries
@@ -282,9 +277,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 </tbody>
 </table>
 <p><small>** <em>These rates are inclusive of the prevailing GST.</em><br>
-	<b>Note :</b>The above the school fee rates are updated as of April 2024. Any
-update in rates will be published on the school website once the new rates
-are confirmed (where applicable).</small></p>
+	<b>Note :</b>The above the school fee rates are updated as of April 2025. Any update in rates will be published on the school website once the new rates are confirmed (where applicable).</small></p>
 
 <h5>Miscellaneous fees</h5>
 
@@ -311,7 +304,7 @@ S$200 per month</td>
 </table>
 
 <h4><strong>7. Financial Assistance</strong></h4>
-<p>NYGH is committed to ensuring that no deserving student is denied the opportunity to our Nanyang Experience due to financial circumstances at home. Financial assistance schemes such as the MOE Independent School Bursary (MOE ISB), school-administered financial assistance schemes, as well as other bursaries provided by well-wishers and external institutions are available to help our needy students continue with their education and motivate them to strive for greater accomplishments. </p>
+<p>NYGH is committed to ensuring that no deserving student is denied the opportunity to our Nanyang Experience due to financial circumstances at home. Financial assistance schemes such as the MOE Independent School Bursary (MOE ISB), school-administered financial assistance schemes, as well as other bursaries provided by well-wishers and external institutions are available to help our needy students continue with their education and motivate them to strive for greater accomplishments.  </p>
 
 <h5>UPLIFT Scholarship</h5>
 <p>With effect from 2019, students who are Singapore citizens from low-income families admitted to Independent Schools (ISs) through DSA or are receiving the Edusave Scholarships for Independent Schools may apply for the UPLIFT Scholarship. Students from families with Gross Household Income up to $4,400 or Per Capita Income up to $1,100 will be eligible for the scholarship. The scholarship provides a cash award of $1,000 per annum. The tenure of the scholarship will be for the full duration of studies in the ISs subject to students meeting the annual renewal criteria.</p>
@@ -360,8 +353,7 @@ S$200 per month</td>
 
 <h5>Nanyang Girls' School Financial Assistance Scheme (NYGH FAS)</h5>
 <p>Students who do not qualify for the MOE ISB or MOE ISB recipients who wish to apply for financial assistance for other fees may apply for such assistance under the NYGH FAS. </p>
-<p>The MOE ISB and NYGH FAS application forms will be available on the school website from December 2024.
-</p>
+<p>The MOE ISB and NYGH FAS application forms will be available on the school website from December 2025.</p>
 
 <h4><strong>8. Frequently Asked Questions</strong></h4>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was the admission cut-off point for 2024 Secondary 1&nbsp;students (annual posting exercise)?</strong>
