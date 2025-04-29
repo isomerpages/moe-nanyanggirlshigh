@@ -356,100 +356,40 @@ S$200 per month</td>
 <p>The MOE ISB and NYGH FAS application forms will be available on the school website from December 2025.</p>
 
 <h4><strong>8. Frequently Asked Questions</strong></h4>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was the admission cut-off point for 2024 Secondary 1&nbsp;students (annual posting exercise)?</strong>
-</p>
-<p>For 2024 Secondary 1 admission, the cut-off was AL 7(D).</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How many Secondary 1&nbsp;students&nbsp;will be accepted in 2025?</strong>&nbsp;
-&nbsp; &nbsp;&nbsp;</p>
-<p>The projected number is 390.</p>
-<p><strong>3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is&nbsp;the NYGH-HCI Integrated Programme (IP)?</strong>
-</p>
-<p>NYGH runs the six-year Integrated Programme in partnership with Hwa Chong
+<p><strong>1. &nbsp;&nbsp;&nbsp; What was the admission cut-off point for 2025 Secondary 1 students (annual posting exercise)?
+</strong>
+<br>
+For 2025 Secondary 1 admission, the cut-off was AL 6(M). </p>
+<p><strong>2.&nbsp;&nbsp;&nbsp; How many Secondary 1 students will be accepted in 2026?</strong>
+<br>
+The projected number is 390.</p>
+<p><strong>3. &nbsp;&nbsp;&nbsp; What is&nbsp;the NYGH-HCI Integrated Programme (IP)?</strong>
+<br>
+NYGH runs the six-year Integrated Programme in partnership with Hwa Chong
 Institution (HCI). The IP is a six-year enriched curriculum that equips
 students with the necessary knowledge and skills to proceed directly to
 the A-Level programme in HCI. Students who have been successfully allocated
 to NYGH via DSA are expected to honour the commitment to NYGH from Year
 1 to 4 and to HCI from Year 5 to 6.</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does the school offer the Art Elective Programme (AEP) and the Music Elective Programme (MEP)?</strong>
-</p>
-<p>NYGH offers the AEP. It is a four-year programme and students&nbsp;in
+<p><strong>4.&nbsp;&nbsp;&nbsp; Does the school offer the Art Elective Programme (AEP) and the Music Elective Programme (MEP)?</strong>
+<br>NYGH offers the AEP. It is a four-year programme and students in
 the programme enjoy a fee subsidy as AEP is an MOE-initiated programme.</p>
-<p>&nbsp;Though our school is not an MEP centre, we offer our own four-year
-Higher Music Programme (HMP) which is modelled after the MEP. However,&nbsp;<em>students&nbsp;in our HMP&nbsp;<u>do not</u>&nbsp;enjoy a fee subsidy</em>&nbsp;unless
-they are on ESIS.</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What would the learning experience be like for students who enrol through DSA (Bilingualism,&nbsp;Mathematics, Science, Innovation or Service Leadership)?</strong>&nbsp;</p>
+<p>Though our school is not an MEP centre, we offer our own four-year
+Higher Music Programme (HMP) which is modelled after the MEP. However, <em>students in our HMP <u>do not</u> enjoy a fee subsidy</em> unless they are on ESIS.</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;What would the learning experience be like for students who enrol through DSA (Bilingualism, Mathematics, Science or Service Leadership)? </strong></p>
 <p><strong>DSA-Bilingualism</strong>
+<br>To nurture the DSA (Bilingualism) students to be effectively bilingual and bicultural, the school offers programmes beyond the classroom. The Lower Secondary students will attend fortnightly NY Enrich lessons to further develop their communication skills as well as appreciation for culture and literature.</p>
+<p>At upper secondary, it is mandatory for DSA (Bilingualism) students to read Literature in Chinese as part of the Chinese Language Elective Programme (CLEP). They will participate in CLEP either as an MOE scholar or non-scholar. For students who have broader interests, they can choose to additionally opt for the Humanities Programme (HP) or Bicultural Studies Programme (BSP). Students are selected into these two programmes based on their passion and aptitude.
 </p>
-<p>To nurture the DSA (Bilingualism) students to be effectively bilingual
-and bicultural, the school offers programmes beyond the classroom. The
-Lower Secondary students will attend fortnightly NY Enrich lessons to further
-develop their communication skills as well as appreciation for culture
-and literature.</p>
-<p>At upper secondary, it is mandatory for DSA (Bilingualism) students to
-read Literature in Chinese as part of the Chinese Language Elective Programme
-(CLEP). They will participate in CLEP either as an MOE scholar or non-scholar.
-For students who have broader interests, they can choose to additionally
-opt for the Humanities Programme (HP) or Bicultural Studies Programme (BSP).
-Students are selected into these two programmes based on their passion
-and aptitude.</p>
 <p><strong>DSA-Mathematics</strong>
-</p>
-<p>The Mathematics Talent Development Programme for students who are admitted
-to our school via DSA-Mathematics offers an invigorating learning experience.&nbsp;
-Students will develop their passion, sharpen their problem solving skills
-and deepen their learning of Mathematics through a comprehensive four-year
-Olympiad training programme.&nbsp; They are given opportunities to take
-part in local and international Mathematics competitions. At upper secondary
-level, students are encouraged to participate in various research programmes
-such as Math Research Project where they will get to explore different
-areas of mathematical inquiry.&nbsp; These research projects deepen their
-knowledge and hone their critical thinking skills. They are also encouraged
-to apply for a study in Advanced Mathematics which is adapted from the
-Pre-Calculus with Trigonometry course by Stanford University Online High
-School.</p>
+<br>The Mathematics Talent Development Programme for students who are admitted to our school via DSA-Mathematics offers an invigorating learning experience.  Students will develop their passion, sharpen their problem solving skills and deepen their learning of Mathematics through a comprehensive four-year Olympiad training programme.  They are given opportunities to take part in local and international Mathematics competitions. At upper secondary level, students are encouraged to participate in various research programmes such as Math Research Project where they will get to explore different areas of mathematical inquiry.  These research projects deepen their knowledge and hone their critical thinking skills. They are also encouraged to apply for a study in Advanced Mathematics which is adapted from the Pre-Calculus with Trigonometry course by Stanford University Online High School.</p>
 <p><strong>DSA-Science</strong>
-</p>
-<p>Students admitted to our school via DSA-Science are provided with a myriad
-of opportunities to hone their skills in research and enrich their learning
-in the various scientific disciplines beyond the core curriculum.&nbsp;
-They will get to learn from experts in external organisations and institutes
-of higher learning. In lower secondary level, students are expected to
-participate in at least one research and innovation project such as the
-Green Wave Environmental Care Competition or Innovation Programme. At upper
-secondary level, students are given various platforms to sharpen their
-skills of inquiry.&nbsp; They are expected to challenge themselves by taking
-up at least one advanced science course. They will learn to read scientific
-journals and carry out independent learning tasks. They are encouraged
-to participate in various science competitions and mentorship programmes.
-They will get to deepen their research skills through short-term attachment
-to research institutions such as DSTA and DSO.&nbsp;&nbsp;&nbsp;</p>
-<p><strong>DSA-Innovation</strong>
-</p>
-<p>The Innovation Direct School Admission (DSA) Programme seeks to develop
-students’ design mindsets and behaviours, which includes developing their
-capacity to come up with human-centric solutions or innovate systems and
-experiences. Various platforms will be created such as school-based opportunities
-for our Innovation DSA students to further develop ideas and early versions
-of prototypes. There will also be an active curation of external partnerships
-for our students to learn from institutes of higher learning, local start-ups
-and other community partners.</p>
-<p>Students could consider deepening their interest through programmes and
-projects in areas such as Data Science, Maker, Aesthetics or others which
-they are keen on. Extended learning opportunities would be facilitated
-for our students to observe how innovative design mindsets and behaviours
-play out in authentic settings that cut across different industries.</p>
+<br>Students admitted to our school via DSA-Science are provided with a myriad of opportunities to hone their skills in research and enrich their learning in the various scientific disciplines beyond the core curriculum.  They will get to learn from experts in external organisations and institutes of higher learning. In lower secondary level, students are expected to participate in at least one research and innovation project such as the Green Wave Environmental Care Competition or Innovation Programme. At upper secondary level, students are given various platforms to sharpen their skills of inquiry.  They are expected to challenge themselves by taking up at least one advanced science course. They will learn to read scientific journals and carry out independent learning tasks. They are encouraged to participate in various science competitions and mentorship programmes. They will get to deepen their research skills through short-term attachment to research institutions such as DSTA and DSO.</p>
+
 <p><strong>DSA-Service Leadership</strong>
+<br>The Service Leadership Direct School Admission (DSA) Programme seeks to nurture leaders who place service at the heart of leadership. Students will be provided with varied authentic learning experiences to develop their 21st century competencies and leadership qualities. The training sessions will cover concepts of leadership and give the students opportunities to work in teams with like-minded students to identify needs in their community and devise solutions to meet those needs. Mentoring will be provided to develop the leadership potential of the students.</p>
+
+<p><strong>9.&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
 </p>
-<p>The Service Leadership Direct School Admission (DSA) Programme seeks to
-nurture leaders who place service at the heart of leadership. Students
-will be provided with varied authentic learning experiences to develop
-their 21st century competencies and leadership qualities. The training
-sessions will cover concepts of leadership and give the students opportunities
-to work in teams with like-minded students to identify needs in their community
-and devise solutions to meet those needs. Mentoring will be provided to
-develop the leadership potential of the students.</p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
-</p>
-<p>For DSA matters, we would prefer that you email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. You can also call our hotline 6508 3654, Monday – Friday, 9.00 a.m. to 4.00 p.m. However, we seek your understanding that our General Office personnel may not always be available to pick your call. </p>
-<p>Both the email inbox and the hotline will be unmanned after 9 September 2024. 
-</p>
+<p>For DSA matters, please email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. The email inbox will be unmanned after 15 September 2025. </p>
+<p></p>
