@@ -390,6 +390,5 @@ Higher Music Programme (HMP) which is modelled after the MEP. However, <em>stude
 <br>The Service Leadership Direct School Admission (DSA) Programme seeks to nurture leaders who place service at the heart of leadership. Students will be provided with varied authentic learning experiences to develop their 21st century competencies and leadership qualities. The training sessions will cover concepts of leadership and give the students opportunities to work in teams with like-minded students to identify needs in their community and devise solutions to meet those needs. Mentoring will be provided to develop the leadership potential of the students.</p>
 
 <p><strong>9.&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
-</p>
-<p>For DSA matters, please email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. The email inbox will be unmanned after 15 September 2025. </p>
+<br>For DSA matters, please email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. The email inbox will be unmanned after 15 September 2025. </p>
 <p></p>
