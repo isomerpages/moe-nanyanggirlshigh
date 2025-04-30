@@ -10,19 +10,23 @@ variant: markdown
 <style type="text/css">
 .tb  {border-collapse:collapse;border-spacing:0;}
 .tb th{ background-color:#00558D; color:#FFF !important; text-align:left; vertical-align:top; font-size:15px; vertical-align: middle; }
+.tb .th-6{width:6%;}
 .tb .th-15{width:15%;}
 .tb .th-25{width:25%;}	
 .tb .th-30{width:30%;}	
 .tb .th-40{width:40%;}		
 .tb .th-50{width:50%;}
+.tb .th-64{width:64%;}
 .tb .th-70{width:70%;}
 .tb .th-100{width:100%;}	
 .tb td{ font-family:Arial, sans-serif; overflow:hidden; padding:10px 5px; word-break:normal; background-color:#FFF;color:#3c4764;text-align:left;vertical-align:middle !important; border-bottom:1px solid #00558D !important; font-size:15px !important;}	
+.tb .tg-6{width:6%;}	
 .tb .tg-15{width:15%;}	
 .tb .tg-25{width:25%;}		
 .tb .tg-30{width:30%;}	
 .tb .tg-40{width:40%;}		
 .tb .tg-50{width:50%;}	
+.tb .tg-64{width:64%;}	
 .tb .tg-70{width:70%;}	
 .tb .tg-100{width:100%;}		
 </style>
@@ -39,55 +43,55 @@ variant: markdown
 <table style="width: 100%" class="tb">  
 <tbody>
 	<tr>
-  <th class="th-10">No.</th>
-	<th class="th-60">Description</th>
+  <th class="th-6">No.</th>
+	<th class="th-64">Description</th>
 	<th class="th-30">Time Frame</th>	
 </tr>
 <tr>
-  <td class="tg-10">1	</td>
-	<td class="tg-60">From 2019, application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 June 2025, 3pm. For more details, please refer to <a target="_blank" href="https://www.moe.gov.sg/secondary/dsa">MOE’s website</a>.</td>
+  <td class="tg-6">1	</td>
+	<td class="tg-64">From 2019, application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 June 2025, 3pm. For more details, please refer to <a target="_blank" href="https://www.moe.gov.sg/secondary/dsa">MOE’s website</a>.</td>
 	<td class="tg-30">7 May 2025, 11am to 3 June 2025, 3pm </td>
 </tr>
 <tr>
-  <td class="tg-10">2	</td>
-	<td class="tg-60">NYGH conducts trials/ auditions* for <u>shortlisted</u> applicants who have applied for the Aesthetics, Sports and Games-related talent areas. <br><br> 
+  <td class="tg-6">2	</td>
+	<td class="tg-64">NYGH conducts trials/ auditions* for <u>shortlisted</u> applicants who have applied for the Aesthetics, Sports and Games-related talent areas. <br><br> 
 		<i>*Dates for trials/ auditions will be published on the school website by early June.</i> </td>
 	<td class="tg-30">10 July 2025 to 30 July 2025</td>
 </tr>	
 <tr>
-  <td class="tg-10">3	</td>
-	<td class="tg-60">NYGH conducts selection tests/ tasks for <u>shortlisted</u> applicants who have applied to the Bilingualism, Mathematics or Science talent areas.</td>
+  <td class="tg-6">3	</td>
+	<td class="tg-64">NYGH conducts selection tests/ tasks for <u>shortlisted</u> applicants who have applied to the Bilingualism, Mathematics or Science talent areas.</td>
 	<td class="tg-30">12 July 2025</td>
 </tr>		
 <tr>
-  <td class="tg-10">4	</td>
-	<td class="tg-60"><u>Shortlisted</u> applicants who have applied for the Service Leadership talent area are to submit their personal statements. <br><br>
+  <td class="tg-6">4	</td>
+	<td class="tg-64"><u>Shortlisted</u> applicants who have applied for the Service Leadership talent area are to submit their personal statements. <br><br>
 Further details will be sent to <u>shortlisted</u> applicants at least 1 week before the submission date.</td>
 	<td class="tg-30">14 July 2025</td>
 </tr>			
 <tr>
-  <td class="tg-10">&nbsp;</td>
-	<td class="tg-60"><i>~~~ You will receive notification from the school by 11 July 2025 if your child has been shortlisted to undergo Direct School Admission (DSA) selection. ~~~ </i></td>
+  <td class="tg-6">&nbsp;</td>
+	<td class="tg-64"><i>~~~ You will receive notification from the school by 11 July 2025 if your child has been shortlisted to undergo Direct School Admission (DSA) selection. ~~~ </i></td>
 	<td class="tg-30">&nbsp;</td>
 </tr>		
 <tr>
-  <td class="tg-10">6	</td>
-	<td class="tg-60">NYGH conducts interviews for <u>shortlisted</u> applicants who have cleared the first round of selection through trials/ auditions/ tests/ tasks/ personal statements.</td>
+  <td class="tg-6">6	</td>
+	<td class="tg-64">NYGH conducts interviews for <u>shortlisted</u> applicants who have cleared the first round of selection through trials/ auditions/ tests/ tasks/ personal statements.</td>
 	<td class="tg-30">2 August 2025 &amp; 16 August 2025</td>
 </tr>	
 <tr>
-  <td class="tg-10">7	</td>
-	<td class="tg-60">All applicants receive outcome of the selection exercise.</td>
+  <td class="tg-6">7	</td>
+	<td class="tg-64">All applicants receive outcome of the selection exercise.</td>
 	<td class="tg-30">Between 25 August 2025 and 4 September 2025</td>
 </tr>	
 <tr>
-  <td class="tg-10">8	</td>
-	<td class="tg-60">Students who receive at least one DSA offer may indicate up to three school preferences. They can submit their school preferences through the MOE online system or in hardcopy to their primary schools.</td>
+  <td class="tg-6">8	</td>
+	<td class="tg-64">Students who receive at least one DSA offer may indicate up to three school preferences. They can submit their school preferences through the MOE online system or in hardcopy to their primary schools.</td>
 	<td class="tg-30">27 October 2025, 9am to 31 October 2025, 3pm</td>
 </tr>	
 <tr>
-  <td class="tg-10">9	</td>
-	<td class="tg-60">The results of the DSA Exercise will be released to students on the same day as the release of PSLE results. </td>
+  <td class="tg-6">9	</td>
+	<td class="tg-64">The results of the DSA Exercise will be released to students on the same day as the release of PSLE results. </td>
 	<td class="tg-30">Late November</td>
 </tr>		
 </tbody>
@@ -156,7 +160,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <tbody><tr>
   <th class="th-40">Talent Areas</th>
 	<th class="th-15">Trials/ Auditions</th>
-	<th class="th-15">Portfolio / Personal Statement</th>	
+	<th class="th-15">Personal Statement</th>	
 	<th class="th-15">Selection Tests/ Tasks</th>
 	<th class="th-15">Interview <br>(for selected <u>shortlisted</u> applicants only)</th></tr>
 <tr>
@@ -183,7 +187,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <tr>
   <td class="tg-40">Service Leadership</td>
 	<td class="tg-15">-</td>
-	<td class="tg-15">Personal Statement required</td>
+	<td class="tg-15">Required</td>
 	<td class="tg-15">-</td>
 	<td class="tg-15">Required</td>
 </tr>		
@@ -227,8 +231,8 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <h4><strong>5.	Selection Criteria</strong></h4> 
 <ul>
 	<li>Passion and aptitude in the specific talent area</li>
-	<li>Performance at selection tests or tasks</li>
-	<li>Performance at trials or auditions</li>
+	<li>Performance at selection tests/ tasks/ trials/ auditions</li>
+	<li>Performance at interviews</li>
 	<li>Academic ability (to manage the IP curriculum)</li>
 	<li>Character and leadership disposition</li>
 </ul>	
@@ -307,7 +311,7 @@ S$200 per month</td>
 <p>NYGH is committed to ensuring that no deserving student is denied the opportunity to our Nanyang Experience due to financial circumstances at home. Financial assistance schemes such as the MOE Independent School Bursary (MOE ISB), school-administered financial assistance schemes, as well as other bursaries provided by well-wishers and external institutions are available to help our needy students continue with their education and motivate them to strive for greater accomplishments.  </p>
 
 <h5>UPLIFT Scholarship</h5>
-<p>With effect from 2019, students who are Singapore citizens from low-income families admitted to Independent Schools (ISs) through DSA or are receiving the Edusave Scholarships for Independent Schools may apply for the UPLIFT Scholarship. Students from families with Gross Household Income up to $4,400 or Per Capita Income up to $1,100 will be eligible for the scholarship. The scholarship provides a cash award of $1,000 per annum. The tenure of the scholarship will be for the full duration of studies in the ISs subject to students meeting the annual renewal criteria.</p>
+<p>With effect from 2019, students who are Singapore citizens from low-income families admitted to Independent Schools (ISs) through DSA or are receiving the Edusave Scholarships for Independent Schools may apply for the UPLIFT Scholarship. Students from families with Gross Household Income up to S$4,400 or Per Capita Income up to S$1,100 will be eligible for the scholarship. The scholarship provides a cash award of S$1,000 per annum. The tenure of the scholarship will be for the full duration of studies in the ISs subject to students meeting the annual renewal criteria.</p>
 <h5>MOE Independent School Bursary (MOE ISB)</h5>
 <p><strong>Eligibility Criteria</strong></p>
 <ul data-tight="true" class="tight">
@@ -325,28 +329,28 @@ S$200 per month</td>
 <th class="th-40">What it mean</th>
 </tr>
 <tr>
-<td class="tg-30">GHI ≤ $3,000;<br>or PCI ≤ $750</td>
+<td class="tg-30">GHI ≤ S$3,000;<br>or PCI ≤ S$750</td>
 <td class="tg-30">Tier 1 subsidy<br>~ 100% subsidy</td>
-<td class="tg-40">Students pay $0 of school &amp; miscellaneous fee per month.<br><br>In addition, they will receive :<br>
+<td class="tg-40">Students pay S$0 of school &amp; miscellaneous fee per month.<br><br>In addition, they will receive :<br>
 •	Free textbooks and school attire <br>
 •	Full subsidy of national exam fees<br>
 •	Transport Subsidy (for students taking public transport) <br>
 •	Meal Subsidy </td>
 </tr>
 <tr>
-<td class="tg-30">GHI $3,001 - $4,400;<br>or PCI $751 - $1,100</td>
+<td class="tg-30">GHI S$3,001 - S$4,400;<br>or PCI S$751 - S$1,100</td>
 <td class="tg-30">Tier 2 subsidy<br>~ the fees will be covered by the MOE ISB and the MOE School-Based FAS</td>
-<td class="tg-40">Students pay $0 of school &amp; miscellaneous fee per month</td>
+<td class="tg-40">Students pay S$0 of school &amp; miscellaneous fee per month</td>
 </tr>
 <tr>
-<td class="tg-30">GHI $4,401 - $7,500;<br>or PCI $1,101 - $1,875</td>
+<td class="tg-30">GHI S$4,401 - S$7,500;<br>or PCI S$1,101 - S$1,875</td>
 <td class="tg-30">Tier 3 subsidy<br>~ student pays 1.5x GGAS fee</td>
-<td class="tg-40">Students will pay $37.50 per month<br><br>MOE will subsidize the remaining school &amp; miscellaneous fee</td>
+<td class="tg-40">Students will pay S$37.50 per month<br><br>MOE will subsidize the remaining school &amp; miscellaneous fee</td>
 </tr>
 <tr>
-<td class="tg-30">GHI$7,501 - $10,000;<br>or PCI $1,876 - $2,500</td>
+<td class="tg-30">GHI S$7,501 - S$10,000;<br>or PCI S$1,876 - S$2,500</td>
 <td class="tg-30">Tier 4 subsidy<br>~ 33% subsidy of school and miscellaneous fees</td>
-<td class="tg-40">Lower Sec Students will pay $209.38 per month.<br>Upper Sec Students will pay $242.87 per month.<br><br>MOE will subsidize the remaining 33% of school &amp; miscellaneous fee</td>
+<td class="tg-40">Lower Sec Students will pay S$209.38 per month.<br>Upper Sec Students will pay S$242.87 per month.<br><br>MOE will subsidize the remaining 33% of school &amp; miscellaneous fee</td>
 </tr>
 </tbody>
 </table>
@@ -389,6 +393,6 @@ Higher Music Programme (HMP) which is modelled after the MEP. However, <em>stude
 <p><strong>DSA-Service Leadership</strong>
 <br>The Service Leadership Direct School Admission (DSA) Programme seeks to nurture leaders who place service at the heart of leadership. Students will be provided with varied authentic learning experiences to develop their 21st century competencies and leadership qualities. The training sessions will cover concepts of leadership and give the students opportunities to work in teams with like-minded students to identify needs in their community and devise solutions to meet those needs. Mentoring will be provided to develop the leadership potential of the students.</p>
 
-<p><strong>9.&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
+<p><strong>6.&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
 <br>For DSA matters, please email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. The email inbox will be unmanned after 15 September 2025. </p>
 <p></p>
