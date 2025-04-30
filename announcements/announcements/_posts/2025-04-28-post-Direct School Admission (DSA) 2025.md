@@ -156,7 +156,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <tbody><tr>
   <th class="th-40">Talent Areas</th>
 	<th class="th-15">Trials/ Auditions</th>
-	<th class="th-15">Portfolio / Personal Statement</th>	
+	<th class="th-15">Personal Statement</th>	
 	<th class="th-15">Selection Tests/ Tasks</th>
 	<th class="th-15">Interview <br>(for selected <u>shortlisted</u> applicants only)</th></tr>
 <tr>
@@ -183,7 +183,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <tr>
   <td class="tg-40">Service Leadership</td>
 	<td class="tg-15">-</td>
-	<td class="tg-15">Personal Statement required</td>
+	<td class="tg-15">Required</td>
 	<td class="tg-15">-</td>
 	<td class="tg-15">Required</td>
 </tr>		
@@ -227,8 +227,8 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <h4><strong>5.	Selection Criteria</strong></h4> 
 <ul>
 	<li>Passion and aptitude in the specific talent area</li>
-	<li>Performance at selection tests or tasks</li>
-	<li>Performance at trials or auditions</li>
+	<li>Performance at selection tests/ tasks/ trials/ auditions</li>
+	<li>Performance at interviews</li>
 	<li>Academic ability (to manage the IP curriculum)</li>
 	<li>Character and leadership disposition</li>
 </ul>	
@@ -389,6 +389,6 @@ Higher Music Programme (HMP) which is modelled after the MEP. However, <em>stude
 <p><strong>DSA-Service Leadership</strong>
 <br>The Service Leadership Direct School Admission (DSA) Programme seeks to nurture leaders who place service at the heart of leadership. Students will be provided with varied authentic learning experiences to develop their 21st century competencies and leadership qualities. The training sessions will cover concepts of leadership and give the students opportunities to work in teams with like-minded students to identify needs in their community and devise solutions to meet those needs. Mentoring will be provided to develop the leadership potential of the students.</p>
 
-<p><strong>9.&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
+<p><strong>6.&nbsp;&nbsp;&nbsp; Who should I contact for more information and further enquiries?</strong>
 <br>For DSA matters, please email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. The email inbox will be unmanned after 15 September 2025. </p>
 <p></p>
