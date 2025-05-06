@@ -125,6 +125,42 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
+<h5>CHEMISTRY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Science or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for Science/STEM competitions, research
+projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5>CHINESE LANGUAGE TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -383,6 +419,78 @@ and external stakeholders.</p>
 <p>Commitment Period: March to November 2025</p>
 </li>
 </ul>
+<hr>
+<h5>RELIEF BIOLOGY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NIE Postgraduate Diploma in Education or equivalent with good grade in
+"A" Level Biology (H2);</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching;</p>
+</li>
+<li>
+<p>Able to articulate well, pleasant, responsible, good team player and good
+organisation skills; and</p>
+</li>
+<li>
+<p>Some experience in teaching secondary high school students in a classroom
+setting will be an advantage.</p>
+</li>
+<li>
+<p>Commitment Period: 27 June to 25 July 2025</p>
+</li>
+</ul>
+<hr>
+<h5>RELIEF PHYSICAL EDUCATION TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Physical Education;</p>
+</li>
+<li>
+<p>In-depth knowledge in at least one sport and ability to teach multiple
+sports for PE;</p>
+</li>
+<li>
+<p>Ability to manage CCA, with emphasis in character education;</p>
+</li>
+<li>
+<p>Coaching ability is not essential but will be favorably considered;</p>
+</li>
+<li>
+<p>Strong team player, proactive and good interpersonal skills;</p>
+</li>
+<li>
+<p>Ability to communicate well, think flexibly and constantly seeks for professional
+development opportunities</p>
+</li>
+<li>
+<p>Strong desire to inculcate health and fitness and imbuing values through
+the work in school; and</p>
+</li>
+<li>
+<p>Willing to take on Sports-CCA duties if needed.</p>
+</li>
+</ul>
+<p>Commitment Period:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Sep to 3 Sep 2025: Covering of lessons</p>
+</li>
+<li>
+<p>15 Sep to 1 Oct 2025: Covering of lessons</p>
+</li>
+<li>
+<p>30 Oct to 7 Nov 2025: Covering 4 days of Post Exam Activities (ICG)</p>
+</li>
+<li>
+<p>5 Jan to 29 May 2026: Covering 2026 Term 1 &amp; 2 lessons</p>
+</li>
+</ul>
+<p>If you are unable to cover all the assignments, kindly specify which assignment
+you can take on in your application.</p>
 <hr>
 <h5>SPECIAL EDUCATIONAL NEEDS (SEN) OFFICER</h5>
 <p>Requirements:</p>
