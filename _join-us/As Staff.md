@@ -341,7 +341,7 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>MARKER TEACHER</h5>
+<h5>MAKER TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
