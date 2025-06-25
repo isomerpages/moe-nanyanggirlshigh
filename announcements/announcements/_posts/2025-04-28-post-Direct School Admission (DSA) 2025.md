@@ -55,7 +55,7 @@ variant: markdown
 <tr>
   <td class="tg-6">2	</td>
 	<td class="tg-64">NYGH conducts trials/ auditions* for <u>shortlisted</u> applicants who have applied for the Aesthetics, Sports and Games-related talent areas. <br><br> 
-		<i>*Dates for trials/ auditions will be published on the school website by early June.</i> </td>
+		Please click <a target="_blank" href="/files/DSA_trial_dates_for_school_website_2025.pdf">here</a> to access more information on the trials/auditions. </td>
 	<td class="tg-30">10 July 2025 to 30 July 2025</td>
 </tr>	
 <tr>
