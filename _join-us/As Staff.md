@@ -391,64 +391,6 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>RELIEF CHINESE LANGUAGE TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Chinese Language and Literature;</p>
-</li>
-<li>
-<p>Experience in teaching Higher Chinese Language;</p>
-</li>
-<li>
-<p>Good competency level in the use of learning platforms and ICT in teaching;</p>
-</li>
-<li>
-<p>Strong team player, proactive and good interpersonal skills;</p>
-</li>
-<li>
-<p>Ability to establish good rapport and connects well with students; and</p>
-</li>
-<li>
-<p>Commitment Period: June 2025 to October 2025.</p>
-</li>
-</ul>
-<hr>
-<h5>RELIEF MALAY LANGUAGE TEACHER (MSP)</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Malay Language and Literature or a related field;</p>
-</li>
-<li>
-<p>Experience in teaching Malay Language (any level) and a passion for fostering
-beginners’ proficiency in the language;</p>
-</li>
-<li>
-<p>Interest in teaching Malay culture and heritage and integrating cultural
-elements into lessons to deepen students’ appreciation of the language;</p>
-</li>
-<li>
-<p>Able to carry out Differentiated Instruction (DI) strategies effectively
-to address diverse profiles, needs and interests of students;</p>
-</li>
-<li>
-<p>Possess a strong level of assessment literacy, such as providing (targeted
-feedback, data-driven strategies, varied assessments);</p>
-</li>
-<li>
-<p>Experience in guiding students for competitions and research projects;
-and</p>
-</li>
-<li>
-<p>A team player who enjoys collaboration with colleagues as well as internal
-and external stakeholders.</p>
-</li>
-<li>
-<p>Commitment Period: March to November 2025</p>
-</li>
-</ul>
-<hr>
 <h5>RELIEF BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -468,7 +410,7 @@ organisation skills; and</p>
 setting will be an advantage.</p>
 </li>
 <li>
-<p>Commitment Period: 27 June to 25 July 2025</p>
+<p>Commitment Period: 14 July to 3 September 2025</p>
 </li>
 </ul>
 <hr>
