@@ -280,12 +280,12 @@ Nanyang Girls' Boarding School was established.<br>
 
 <tr>
     <th class="th-20">2005</th>
-		<th class="th-80">The Integrated Programme was offered to all Secondary 1 students. The Bicultural Studies Programme (Chinese) was implemented.</th>
+		<th class="th-80">The Integrated Programme was offered to all Secondary 1 students. The Bicultural Studies Programme was implemented. </th>
 </tr>	
 <tr>
     <td class="tg-20">&nbsp;</td>
 	<td class="tg-80"><img src="/images/milestone_2005.jpeg">
-		<p>The school’s continued emphasis on a bilingual education for its students led to the introduction of the Chinese Language Elective Programme (CLEP) and the Bicultural Studies Programme \[Chinese\], both of which aim&nbsp;at cultivating students who are effectively bilingual and well immersed in both cultures.</p><br></td>	
+		<p>The school’s continued emphasis on a bilingual education for its students led to the introduction of the the Bicultural Studies Programme, which aims at cultivating students who are effectively bilingual and well immersed in east and west cultures.</p><br></td>	
 </tr>			
 	
 <tr>
@@ -409,6 +409,7 @@ Nanyang Girls' Boarding School was established.<br>
     <td class="tg-20">&nbsp;</td>
 	  <td class="tg-80"><img src="/images/milestones_2018.jpeg"><br></td>	
 </tr>			
+	
 <tr>
     <th style="background-color:#FFF;" class="th-20">&nbsp;</th>
 		<th class="th-80">Mdm Ng Chuen-Yin joined the school as Principal.</th>
@@ -416,10 +417,19 @@ Nanyang Girls' Boarding School was established.<br>
 <tr>
     <td class="tg-20">&nbsp;</td>
 	  <td class="tg-80"><img src="/images/milestones_2018_1.jpeg">
-	<p>Mdm Ng Chuen-Yin was an SAP school alumna, and had 20 years of experience in education. Mdm Ng’s last appointment was Superintendent in Schools Division, MOE.  
-</p>
+	<p>Mdm Ng Chuen-Yin was an SAP school alumna, and had 20 years of experience in education. Mdm Ng’s last appointment was Superintendent in Schools Division, MOE.  <br><br></p>
 	</td>	
 </tr>					
+	
+<tr>
+    <th class="th-20">2020</th>
+		<th class="th-80">The Secondary Chinese Language Elective Programme (CLEP-Sec) was implemented.</th>
+</tr>	
+<tr>
+    <td class="tg-20">&nbsp;</td>
+	<td class="tg-80">
+		<p>NYGH became one of the nine Secondary Chinese Language Elective Programme (CLEP-Sec)  centres that offers Literature in Chinese. It aims to nurture promising students to attain a high level of language proficiency in Chinese, and to enhance their understanding of Chinese literature. </p><br></td>	
+</tr>						
 	
 <tr>
     <th class="th-20">2023</th>
