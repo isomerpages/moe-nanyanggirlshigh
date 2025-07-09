@@ -391,6 +391,53 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
+<h5>PHYSICAL EDUCATION (PE) TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree holder in related subject or equivalent;</p>
+</li>
+<li>
+<p>In-depth knowledge in at least one sport and ability to teach multiple
+sports for PE;</p>
+</li>
+<li>
+<p>Willing to go on both overseas and outdoor experiential trips;</p>
+</li>
+<li>
+<p>Strong desire to inculcate health and fitness and imbuing values through
+work in school;</p>
+</li>
+<li>
+<p>Competent in subject areas as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects,
+overseas and outdoor experiential trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5>RELIEF BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
