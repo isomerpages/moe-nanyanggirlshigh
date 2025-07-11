@@ -40,11 +40,6 @@ Ms Liew Kuan Yee Kelly
 
 * * *
 
-**Legal Advisor**  
-Mr Ang Peng Koon Patrick
-
-* * *
-
 **Treasurer**  
 Mr Lim Wenbin, Darren
 
