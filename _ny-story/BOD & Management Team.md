@@ -12,8 +12,10 @@ Mdm Wee Bee Hoon
 
 ##### HONORARY DIRECTORS
 
-Mr Ong Pang Boon  
-Mr Tang See Chim
+Mr Ong Pang Boon<br>
+Mr Tang See Chim<br>
+Mr David Lum Kok Seng<br>
+Mdm Amy Lee Yuen Ying
 
 * * *
 
@@ -25,8 +27,7 @@ Ms Ang Fung Fung
 * * *
 
 **Vice-Chairperson**  
-Mr David Lum Kok Seng  
-Mdm Amy Lee Yuen Ying
+Ms Mok Shoon Terk
 
 * * *
 
@@ -36,7 +37,7 @@ Mrs Lim Lay Ngoh
 * * *
 
 **Assistant School Supervisor**  
-Ms Liew Kuan Yee Kelly
+Ms Lau Wai Cheng
 
 * * *
 
@@ -51,13 +52,14 @@ Ms Lee Siok Tuan
 * * *
 
 **Director**  
-Mdm Ong Sioe Hong  
-Mr Ong Tze Guan  
-Prof Su Guaning  
-Ms Mok Shoon Terk  
-Mr Lum Wen Sum Kelvin  
-Ms Tea Wei Li  
-Ms Tjioe Ka In  
+Mdm Ong Sioe Hong<br>
+Ms Liew Kuan Yee Kelly<br>
+Ms Tea Wei Li<br>
+Mr Ong Tze Guan<br>
+Prof Su Guaning<br>
+Mr Lum Wen Sum Kelvin<br>
+Ms Tjioe Ka In<br>
+Mr Dennis Mak<br>
 Ms Siau Fong Fui
 
 * * *
