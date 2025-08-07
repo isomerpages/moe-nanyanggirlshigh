@@ -21,4 +21,4 @@ the following, other than Sec 1 posting exercise:</p>
 <h2>Entrance Examination</h2>
 <p>We regret to inform all prospective applicants that our Secondary 3 Annual
 Entrance Examination will not be conducted this year as there are no vacancies
-available for Secondary 3 in Academic Year 2025.</p>
+available for Secondary 3 in Academic Year 2026.</p>
