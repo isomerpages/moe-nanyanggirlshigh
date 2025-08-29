@@ -182,6 +182,27 @@ the work in school; and</p>
 <p>If you are unable to cover all the assignments, kindly specify which assignment
 you can take on in your application.</p>
 <hr>
+<h5>RELIEF SCIENCE TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NIE Postgraduate Diploma in Education or equivalent, with good grade in
+Chemistry/Biology/Physics (H2), preferably Biology;</p>
+</li>
+<li>
+<p>Competency in integrating ICT in&nbsp;teaching;</p>
+</li>
+<li>
+<p>Able to articulate well, pleasant, responsible, good team player and good
+organisation skills; and</p>
+</li>
+<li>
+<p>Some experience in&nbsp;teaching&nbsp;secondary high school students in
+a classroom setting will be an advantage.</p>
+</li>
+</ul>
+<p>Commitment period:&nbsp;9 Jan to 8 May 2026</p>
+<hr>
 <h2>Application Procedures</h2>
 <p>Staff recruitment is an ongoing process at Nanyang Girls' High School.
 We are constantly looking for suitably qualified and committed staff to
