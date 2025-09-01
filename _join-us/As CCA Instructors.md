@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Nanyang Girls’ High School is inviting applications for the following CCA instructor positions:</strong>&nbsp;</h4>
-<p>Commencing January 2025 to 31 December 2025</p>
+<p>Commencing January 2026 to 31 December 2026</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -14,76 +14,60 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games (Batch 2)</strong>
+<p><strong>Sports &amp; Games</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Estimated Training hours in 2025</strong>
+<p><strong>Estimated Training hours in 2026 (Range)</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gymnastics-Artistic &amp; Trampolin (2 Coaches)</p>
+<p>Basketball (Main &amp; Assistant Coaches)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>350 to 375 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Judo (Main Coach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>280 to 300 hours</p>
+<p>420 to 460 hours (Shared)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Judo (Assistant Coach)</p>
+<p>Softball (Assistant Coach)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>280 to 300 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tennis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>320 to 340 hours</p>
+<p>100 to 130 hours</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Track &amp; Field (Sprint)</p>
+<p>Table Tennis (Coach)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>280 to 300 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Track &amp; Field (Jump)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>280 to 300 hours</p>
+<p>330 to 350 hours</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Track &amp; Field (Throws)</p>
+<p>Volleyball (Main Coach)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>280 to 300 hours</p>
+<p>420 to 440 hours</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wushu (2 Coaches)</p>
+<p>Volleyball (Assistant Coach(es))</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>190 to 210 hours</p>
+<p>110 to 130 hours (Shared)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu (Coach)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>200 to 220 hours</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +75,7 @@ description: ""
 <p>Sports Club (Frisbee Coach)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 to 100 hours</p>
+<p>60 to 80 hours</p>
 </td>
 </tr>
 </tbody>
@@ -109,41 +93,9 @@ description: ""
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p><strong>Estimated Training hours in 2025</strong>
+<p><strong>Estimated Training hours in 2026 (Range)</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Saxophone)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Bassoon)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Flute)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Oboe)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -155,39 +107,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Concert Band (Trombone)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Horn)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Concert Band (Clarinet)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Assistant Conductor/Junior Band)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>80 to 90 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Double Bass)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>40 to 50 hours</p>
@@ -211,26 +131,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Concert Band (Tuba)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>50 to 60 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band (Main Conductor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>150 to 170 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>250 to 275 hours</p>
+<p>255 to 275 hours</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +142,7 @@ description: ""
 <p>Chinese Orchestra (Sheng)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +150,7 @@ description: ""
 <p>Chinese Orchestra (Dizi)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +158,7 @@ description: ""
 <p>Chinese Orchestra (Cello Bass)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +166,7 @@ description: ""
 <p>Chinese Orchestra (Erhu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -270,7 +174,7 @@ description: ""
 <p>Chinese Orchestra (Pipa)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +182,7 @@ description: ""
 <p>Chinese Orchestra (Liuqin &amp; Ruan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +198,7 @@ description: ""
 <p>Chinese Orchestra (Yangqin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -302,7 +206,7 @@ description: ""
 <p>Chinese Orchestra (Percussion)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65 to 75 hours</p>
+<p>55 to 75 hours</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +214,7 @@ description: ""
 <p>Chinese Orchestra (Suona)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -318,31 +222,7 @@ description: ""
 <p>Chinese Orchestra (Erhu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Choir (Main Coach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>90 to 100 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Choir (Assistant Coach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>50 to 60 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guzheng (Main Instructor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>230 to 250 hours</p>
+<p>95 to 115 hours</p>
 </td>
 </tr>
 <tr>
@@ -350,23 +230,7 @@ description: ""
 <p>Guzheng (Assistant Instructor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>95 to 105 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Modern Dance (Main Instructor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>150 to 170 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Modern Dance (Assistant Instructor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 to 25 hours</p>
+<p>85 to 105 hours</p>
 </td>
 </tr>
 <tr>
@@ -387,58 +251,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>String Ensemble (Conductor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>170 to 190 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>String Ensemble (Double Bass)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>120 to 140 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>String Ensemble (Harp)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 to 20 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>String Ensemble (Harp)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>String Ensemble (Cello)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90 to 100 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>String Ensemble (Cello)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>90 to 100 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>String Ensemble (Viola Cum Training Ensemble)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>155 to 175 hours</p>
+<p>80 to 100 hours</p>
 </td>
 </tr>
 </tbody>
@@ -456,56 +272,16 @@ description: ""
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p><strong>Estimated Training hours in 2025</strong>
+<p><strong>Estimated Training hours in 2026 (Range)</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debate Club (2 Coaches)</p>
+<p>Debate Club (Coach)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>200 to 220 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Calligraphy (Painting Instructor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>45 to 55 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Calligraphy (Calligraphy Instructor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>70 to 80 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mind Sports Club (Chess)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mind Sports Club (Scrabble)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mind Sports Club (Orthello)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>40 to 50 hours</p>
+<p>190 to 210 hours</p>
 </td>
 </tr>
 </tbody>
@@ -518,7 +294,7 @@ training hours in the final award based on the school's needs and resources.&nbs
 <p>To apply, please download a copy of the <a href="/files/Application_form_for_NYGH_CCA_Coach_or_Instructor.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> and
 email it with supporting documents (eg.: Valid MOE registration, First
 Aid with CPR and AED certification, NROC membership, Dance CCA specialisation
-registration) to the following address latest by 15th October 2024.</p>
+registration) to the following address latest by 22nd September 2025 (Monday).</p>
 <p>Note that there will be another batch of Sports &amp; Games CCA instructor
 positions up by mid of September. All Performing Arts and Clubs &amp; societies
 CCA instructor positions will also be available for application then.</p>
