@@ -133,6 +133,26 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
+<h5>RELIEF CHEMISTRY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NIE Postgraduate Diploma in Education or equivalent, with good grade in&nbsp;Chemistry;</p>
+</li>
+<li>
+<p>Competency in integrating ICT in&nbsp;teaching;</p>
+</li>
+<li>
+<p>Able&nbsp;to&nbsp;articulate well, pleasant, responsible, good team player
+and good organisation skills; and</p>
+</li>
+<li>
+<p>Some experience in&nbsp;teaching&nbsp;secondary high school students in
+a classroom setting will be an advantage.</p>
+</li>
+</ul>
+<p>Commitment period:&nbsp;1 year commitment in 2026</p>
+<hr>
 <h5>RELIEF PHYSICAL EDUCATION TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
