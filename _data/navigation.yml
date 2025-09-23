@@ -9,7 +9,7 @@ links:
   - title: Join Us
     collection: join-us
   - title: Quicklinks
-    url: /quicklinks
+    url: /#
     sublinks:
       - title: News
         url: /news/
