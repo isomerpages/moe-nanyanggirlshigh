@@ -13,6 +13,42 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
+<h5>BIOLOGY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Science or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and
+interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for Science/STEM competitions, research
+projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to
+help students achieve their fullest potential in the Integrated Programme
+(IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5>CHEMISTRY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -153,6 +189,36 @@ a classroom setting will be an advantage.</p>
 </ul>
 <p>Commitment period:&nbsp;1 year commitment in 2026</p>
 <hr>
+<h5>RELIEF GEOGRAPHY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Geography or equivalent;</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching; and</p>
+</li>
+<li>
+<p>Work collaboratively and contribute as a strong team player.</p>
+</li>
+</ul>
+<p>Commitment period:&nbsp;Semester 1, 2026</p>
+<hr>
+<h5>RELIEF HISTORY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in History or equivalent;</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching; and</p>
+</li>
+<li>
+<p>Work collaboratively and contribute as a strong team player.</p>
+</li>
+</ul>
+<p>Commitment period:&nbsp;Semester 1, 2026 or Whole year 2026</p>
+<hr>
 <h5>RELIEF PHYSICAL EDUCATION TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -186,15 +252,6 @@ the work in school; and</p>
 </ul>
 <p>Commitment Period:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>1 Sep to 3 Sep 2025: Covering of lessons</p>
-</li>
-<li>
-<p>15 Sep to 1 Oct 2025: Covering of lessons</p>
-</li>
-<li>
-<p>30 Oct to 7 Nov 2025: Covering 4 days of Post Exam Activities (ICG)</p>
-</li>
 <li>
 <p>5 Jan to 29 May 2026: Covering 2026 Term 1 &amp; 2 lessons</p>
 </li>
