@@ -280,6 +280,66 @@ a classroom setting will be an advantage.</p>
 </ul>
 <p>Commitment period:&nbsp;9 Jan to 8 May 2026</p>
 <hr>
+<h5>STEM INSTRUCTOR (LABORATORY)</h5>
+<p>Key Responsibilities:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Preparation of materials, make up solutions and assemble apparatus;</p>
+</li>
+<li>
+<p>Set-up equipments in&nbsp;labs&nbsp;for&nbsp;Science&nbsp;Practical lessons
+and assessments;</p>
+</li>
+<li>
+<p>Able to trial and troubleshoot practical activities;</p>
+</li>
+<li>
+<p>Support students’&nbsp;STEM&nbsp;learning by collaborating with&nbsp;teachers&nbsp;to
+plan, organise learning experiences/journeys and supporting their investigative
+projects;</p>
+</li>
+<li>
+<p>Manage and maintain inventory of&nbsp;laboratories&nbsp;supplies &nbsp;through
+regular stock-takes, routine calibration, and replacement of worn items/equipments;</p>
+</li>
+<li>
+<p>Collaborate with external partners for asset management and routine checks
+in the&nbsp;laboratories; and</p>
+</li>
+<li>
+<p>Assist in budget planning by providing relevant information and support
+finance operations.</p>
+</li>
+</ul>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Relevant certificate/diploma in a&nbsp;Science&nbsp;or Technology discipline,
+or equivalent qualifications;</p>
+</li>
+<li>
+<p>Proficient in Microsoft Office applications (e.g. Excel) and adept with
+using systems;</p>
+</li>
+<li>
+<p>Familiarity with implementation of&nbsp;laboratory&nbsp;safety requirements
+and able to undertake risk assessments;</p>
+</li>
+<li>
+<p>Good interpersonal and communication skills;</p>
+</li>
+<li>
+<p>Meticulous with good planning and organising skills;</p>
+</li>
+<li>
+<p>Able to work independently and in a team; and</p>
+</li>
+<li>
+<p>Relevant working experience in a school&nbsp;laboratory&nbsp;environment
+would be an advantage.</p>
+</li>
+</ul>
+<hr>
 <h2>Application Procedures</h2>
 <p>Staff recruitment is an ongoing process at Nanyang Girls' High School.
 We are constantly looking for suitably qualified and committed staff to
