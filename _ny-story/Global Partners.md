@@ -66,3 +66,16 @@ SEA<sup>2</sup> comprises schools in Southeast Asia include:
 * Nanyang Girls’ High School (Singapore)<br>
 
 Together, the schools provide extended opportunities for students from across the region to work and play together, through enriching experiential learning programmes and student forums.
+
+<br><br>
+
+* * *
+<br><br>
+<a target="_blank" href="https://www.ainexus.global/en"><img style="width:200px; float: left; margin:0px 0px 30px 0px;" src="/images/Gains_logo.png"></a>
+<br style="clear:both">
+<a style="text-decoration:none;" target="_blank" href="https://www.ainexus.global/en">
+### **Global AI Nexus of Schools (GAINS)**
+</a>
+Nanyang Girls’ High School is proud to be part of the newly formed Global AI Nexus of Schools (GAINS), a pioneering international network that brings together schools to explore the frontiers of artificial intelligence in education.  
+
+Together with Hwa Chong Institution, the School of Science and Technology, Singapore, and Crescent Girls’ School, NYGH joins 23 schools from seven countries, China, Estonia, Japan, Singapore, Romania, Ukraine, and the USA in this global collaboration. Supported by the Organisation for Economic Cooperation and Development (OECD), GAINS seeks to drive research and innovation in how AI can shape and enrich teaching and learning.
