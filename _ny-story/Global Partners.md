@@ -78,4 +78,3 @@ SEA<sup>2</sup> comprises schools in Southeast Asia include:
 * Nanyang Girls’ High School (Singapore)<br>
 
 Together, the schools provide extended opportunities for students from across the region to work and play together, through enriching experiential learning programmes and student forums.
-
