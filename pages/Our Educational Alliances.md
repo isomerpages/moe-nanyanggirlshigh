@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <style type="text/css">
-	a[target="_blank"]:after {content: none;}
+	a[target="_blank"]:after {content: none !important;}
 </style>
 
 <a target="_blank" href="https://www.ainexus.global/en"><img style="width:200px; float: left; margin:0px 0px 30px 0px;" src="/images/Gains_logo.png"></a>
