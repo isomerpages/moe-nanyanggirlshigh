@@ -5,14 +5,9 @@ description: ""
 variant: markdown
 ---
 <style type="text/css">
-	a[target="_blank"]:after {
-display: inline-block;
-font-family: "sgds-icons";
-content: none;
-padding-left: 0.25rem;
-font-weight: 400;
-}
-	</style>
+	a[target="_blank"]:after {content: none;}
+</style>
+	
 Nanyang Girls’ High School is a renowned school of global standing.
 
 A Nanyang girl not only enjoys the rich traditions of the school and its forward looking curriculum but also the exposure and opportunities that our school offers as a result of our strong partnership with fellow educators, high schools, universities, community service organizations and industrial partners both in Singapore and overseas.
