@@ -4,7 +4,7 @@ permalink: /ny-story/global-partners/
 description: ""
 variant: markdown
 ---
-<style>
+<style type="text/css">
 	a[target="_blank"]:after {
 display: inline-block;
 font-family: "sgds-icons";
