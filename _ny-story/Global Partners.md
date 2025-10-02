@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <style type="text/css">
-	a[target="_blank"]:after {content: none;}
+	a[target="_blank"]:after {content: none !important;}
 </style>
 	
 Nanyang Girls’ High School is a renowned school of global standing.
