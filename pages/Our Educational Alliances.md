@@ -15,7 +15,9 @@ variant: markdown
 
 <br><br>
 * * *
-<br><br>
+<div style="float: left; font-size:10pt; font-weight:bold; color:#fff; background-color:#00558d !important; padding:10px; margin: 50px 0px 0px 0px ;">FOUNDING MEMBER</div>
+
+<br><br><br>
 <img style="width:200px; float: left; margin: 10px 50px 0px 0px;" src="/images/sage-logo.png">
 <br style="clear:both">
 
@@ -39,6 +41,8 @@ The current members include:<br>
 <br><br>
 
 * * *
+<div style="float: left; font-size:10pt; font-weight:bold; color:#fff; background-color:#00558d !important; padding:10px; margin: 50px 0px 0px 0px ;">FOUNDING MEMBER</div>
+
 <br><br>
 <img style="width:200px; float: left; margin: 10px 50px 0px 0px;" src="/images/sea2_iconlogo-c.png">
 <br style="clear:both">
