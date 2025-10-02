@@ -4,10 +4,6 @@ permalink: /ny-story/global-partners/
 description: ""
 variant: markdown
 ---
-<style type="text/css">
-	a[target="_blank"]:after {content: none !important;}
-</style>
-	
 Nanyang Girls’ High School is a renowned school of global standing.
 
 A Nanyang girl not only enjoys the rich traditions of the school and its forward looking curriculum but also the exposure and opportunities that our school offers as a result of our strong partnership with fellow educators, high schools, universities, community service organizations and industrial partners both in Singapore and overseas.
@@ -26,7 +22,7 @@ With our deep and strong local and foreign engagements, Nanyang Girls’ High Sc
 
 * * *
 <br><br>
-<a target="_blank" href="https://www.ainexus.global/en"><img style="width:200px; float: left; margin:0px 0px 30px 0px;" src="/images/Gains_logo.png"></a>
+<a target="\_blank" href="https://www.ainexus.global/en"><img style="width:200px; float: left; margin:0px 0px 30px 0px;" src="/images/Gains_logo.png"></a>
 <br style="clear:both">
 ### **Global AI Nexus of Schools (GAINS)**
 <p>Nanyang Girls’ High School is proud to be part of the newly formed Global AI Nexus of Schools (GAINS), a pioneering international network that brings together schools to explore the frontiers of artificial intelligence in education.  </p>
