@@ -24,8 +24,8 @@ sections:
       url: /ourpartners
       button: Visit our partners
   - infopic:
-      title: A Founding Member of
-      button: our educational alliances
+      title: Our Educational Alliances
+      button: Visit our alliances
       url: /alliances
       image: /images/edu_alliance_logos.png
       alt: Image alt text
