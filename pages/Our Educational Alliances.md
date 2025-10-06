@@ -4,11 +4,7 @@ permalink: /alliances/
 description: ""
 variant: markdown
 ---
-<style type="text/css">
-	a[target="_blank"]:after {content: none !important;}
-</style>
-
-<a target="_blank" href="https://www.ainexus.global/en"><img style="width:200px; float: left; margin:0px 0px 30px 0px;" src="/images/Gains_logo.png"></a>
+<a target="\_blank" href="https://www.ainexus.global/en"><img style="width:200px; float: left; margin:0px 0px 30px 0px;" src="/images/Gains_logo.png"></a>
 <br style="clear:both">
 ### **Global AI Nexus of Schools (GAINS)**
 <p>Nanyang Girls’ High School is proud to be part of the newly formed Global AI Nexus of Schools (GAINS), a pioneering international network that brings together schools to explore the frontiers of artificial intelligence in education.  </p>
