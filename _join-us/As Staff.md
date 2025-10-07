@@ -225,6 +225,32 @@ a classroom setting will be an advantage.</p>
 </ul>
 <p>Commitment period:&nbsp;1 year commitment in 2026</p>
 <hr>
+<h5>RELIEF ENGLISH TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in English Language / Literature;</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching; and</p>
+</li>
+<li>
+<p>Work collaboratively and contribute as a strong team player.</p>
+</li>
+</ul>
+<p>Commitment Period:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>17 October 2025 - 28 October 2025; or</p>
+</li>
+<li>
+<p>Semester 1, 2026; or</p>
+</li>
+<li>
+<p>Semester 2, 2026</p>
+</li>
+</ul>
+<hr>
 <h5>RELIEF GEOGRAPHY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
