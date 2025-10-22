@@ -40,7 +40,7 @@ training hours in the final award based on the school's needs and resources.</p>
 <p>To apply, please download a copy of the <a href="/files/Application_form_for_NYGH_CCA_Coach_or_Instructor.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> and
 email it with supporting documents (eg.: Valid MOE registration, First
 Aid with CPR and AED certification, NROC membership, Dance CCA specialisation
-registration) to the following address latest by 14th October 2025 (Tuesday).</p>
+registration) to the following address latest by 10th November 2025 (Monday).</p>
 <p>Note that there will be another batch of Sports &amp; Games CCA instructor
 positions up by mid of September. All Performing Arts and Clubs &amp; societies
 CCA instructor positions will also be available for application then.</p>
