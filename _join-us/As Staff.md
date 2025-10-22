@@ -315,6 +315,20 @@ a classroom setting will be an advantage.</p>
 </ul>
 <p>Commitment period:&nbsp;Semester 1, 2026 or Whole year 2026</p>
 <hr>
+<h5>RELIEF MATHEMATICS TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Pure Math or Applied Math;</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching; and</p>
+</li>
+<li>
+<p>Work collaboratively and contribute as a strong team player.</p>
+</li>
+</ul>
+<hr>
 <h5>RELIEF PHYSICAL EDUCATION TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
