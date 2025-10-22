@@ -122,6 +122,40 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
+<h5>MATHEMATICS TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Pure Math or Applied Math;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn
+and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach&nbsp;to&nbsp;learning
+and interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted
+feedback, using data to improve teaching and learning and designing different
+modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Able to use technical tools such as MathType;</p>
+</li>
+<li>
+<p>Have experience in Olympiad Training and in mentoring students for competitions
+and research projects; and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5>PHYSICAL EDUCATION TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
