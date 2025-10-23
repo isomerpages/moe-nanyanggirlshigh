@@ -34,28 +34,23 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-	<th class="th-30">YEAR 2024</th>
-	<th class="th-40">WITH EFFECT FROM 1 JANUARY 2025</th>
+	<th style="text-align:center;" class="th-70">YEAR 2025 &amp; THEREAFTER</th>
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
-		<td class="tg-30">$250.00</td>	
-	  <td class="tg-40">$300.00</td>
+	  <td style="text-align:center;" class="tg-70">$300.00</td>
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
-		<td class="tg-30">$250.00</td>	
-	  <td class="tg-40">$300.00</td>
+	  <td style="text-align:center;" class="tg-70">$300.00</td>
 </tr>
 	<tr>
     <td class="tg-30">Secondary 3</td>
-		<td class="tg-30">$300.00</td>	
-		<td class="tg-40">$340.00</td>
+		<td style="text-align:center;" class="tg-70">$340.00</td>
 </tr>
 	<tr>
     <td class="tg-30">Secondary 4</td>
-		<td class="tg-30">$300.00</td>	
-		<td class="tg-40">$340.00</td>
+		<td style="text-align:center;" class="tg-70">$340.00</td>
 </tr>
 	</tbody>
 	</table>
@@ -65,28 +60,28 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-  <th class="th-30">YEAR 2024</th>	
-	<th class="th-40">WITH EFFECT FROM 1 JANUARY 2025</th>
+  <th class="th-30">YEAR 2025</th>	
+	<th class="th-40">WITH EFFECT FROM 1 JANUARY 2026</th>
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
-		<td class="tg-30">$880.00</td>	
-	  <td class="tg-40">$960.00</td>
+		<td class="tg-30">$960.00</td>	
+	  <td class="tg-40">$1,020.00</td>
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
-		<td class="tg-30">$880.00</td>	
-	  <td class="tg-40">$960.00</td>
+		<td class="tg-30">$960.00</td>	
+	  <td class="tg-40">$1,020.00</td>
 </tr>
 	<tr>
     <td class="tg-30">Secondary 3</td>
-		<td class="tg-30">$880.00</td>	
-		<td class="tg-40">$960.00</td>
+		<td class="tg-30">$960.00</td>	
+	  <td class="tg-40">$1,020.00</td>
 </tr>
 	<tr>
     <td class="tg-30">Secondary 4</td>
-		<td class="tg-30">$880.00</td>	
-		<td class="tg-40">$960.00</td>
+		<td class="tg-30">$960.00</td>	
+	  <td class="tg-40">$1,020.00</td>
 </tr>
 	</tbody>
 	</table>
@@ -96,23 +91,23 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-	<th class="th-70">YEAR 2024 &amp; THEREAFTER</th>
+	<th style="text-align:center;" class="th-70">YEAR 2024 &amp; THEREAFTER</th>
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
-		<td class="tg-70">$1580.50</td>	
+		<td style="text-align:center;" class="tg-70">$1580.50</td>	
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
-		<td class="tg-70">$1580.50</td>	
+		<td style="text-align:center;" class="tg-70">$1580.50</td>	
 </tr>
 	<tr>
     <td class="tg-30">Secondary 3</td>
-		<td class="tg-70">$1580.50</td>	
+		<td style="text-align:center;" class="tg-70">$1580.50</td>	
 </tr>
 	<tr>
     <td class="tg-30">Secondary 4</td>
-		<td class="tg-70">$1580.50</td>	
+		<td style="text-align:center;" class="tg-70">$1580.50</td>	
 </tr>
 	</tbody>
 	</table>
@@ -122,23 +117,28 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-	<th class="th-70">YEAR 2024 &amp; THEREAFTER</th>
+	<th class="th-30">YEAR 2025</th>
+	<th class="th-40">WITH EFFECT FROM 1 JANUARY 2026</th>	
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
-		<td class="tg-70">$2398.00</td>	
+		<td class="tg-30">$2398.00</td>	
+	  <td class="tg-40">$2,540.00</td>	
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
-		<td class="tg-70">$2398.00</td>	
+		<td class="tg-30">$2398.00</td>	
+  	<td class="tg-40">$2,540.00</td>	
 </tr>
 	<tr>
     <td class="tg-30">Secondary 3</td>
-		<td class="tg-70">$2398.00</td>	
+		<td class="tg-30">$2398.00</td>	
+		<td class="tg-40">$2,540.00</td>	
 </tr>
 	<tr>
     <td class="tg-30">Secondary 4</td>
-		<td class="tg-70">$2398.00</td>	
+		<td class="tg-30">$2398.00</td>	
+		<td class="tg-40">$2,540.00</td>	
 </tr>
 	</tbody>
 	</table>
@@ -167,21 +167,33 @@ through the Inter-bank Giro scheme in May and September.
 ## Collection of Fees Through Edusave or Inter-Bank GIRO Scheme
 
 
-**Edusave**
+**Edusave Payment Standing Order (EPSO)**<br>
+(Applicable only to Singapore Citizen students with Edusave accounts)
+<ul>
+	<li>All Singapore Citizen students are required to sign up for the Edusave Payment Standing Order (EPSO) once via the FormSG platform at the start of Secondary 1.</li>
+	<li>EPSO allows the school to make direct deductions from the student's Edusave account
+(where applicable) for:
+		<ul>
+			<li>Enrichment programmes</li>
+			<li>CCA attires</li>
+			<li>Personalised Digital Learning Programme (PDLP)</li>
+			<li>Local and overseas learning journeys/trips</li>
+		</ul></li>
+	<li>This is a one-time authorisation and will remain valid for the duration of the student's
+		secondary school education.</li>
+	<li>For students without Edusave accounts, or in cases where Edusave funds are insufficient, payment will be collected via the Inter-Bank GIRO scheme.</li>
+</ul>
 
-The procedure for collection of fees through Edusave Accounts is as follows:
+**Inter-Bank GIRO**
 
-*   Students are strongly encouraged to sign up for the Edusave Enrichment Programme Standing Order (where applicable) for local enrichment programmes.
-*   The school will issue a letter giving parents details of the activities or programmes to be conducted.
-*   Parents of students with Edusave Accounts will receive an Authorisation Form together with the letter to apply for withdrawal of Edusave funds for overseas programmes.
-*   Students will return the completed Authorization Form to the school to process the application.
-*   Students without Edusave accounts will make payments through the Interbank Giro Scheme.
+<ul>
+	<li>It is compulsory for all students to participate in the Inter-Bank GIRO scheme.</li>
+	<li>Parents/guardians are required to submit the electronic Direct Debit Authorisation (eDDA) application upon admission to Secondary 1.</li>
+	<li>A valid Direct Debit Authorisation (DDA) must be maintained with the school throughout the student’s enrolment.</li>
+	<li>The GIRO scheme will be used to collect school-related payments not covered by Edusave or in situations where Edusave funds are unavailable or insufficient.</li>
+</ul>	
 
-**Inter-Bank Giro**
-
-It is compulsory for all students to take part in the Inter-bank Giro scheme. Parents / guardians are to submit the Direct Debit Authorization application form for the scheme upon admission of their daughter / ward to Secondary 1.
-
-**Giro Deduction Timetable For Year 2025**
+**Giro Deduction Timetable For Year 2026**
 
 <table style="width: 100%" class="sf">  
 <tbody>
@@ -191,46 +203,46 @@ It is compulsory for all students to take part in the Inter-bank Giro scheme. Pa
 	<th class="th-25">FOR THE PERIOD</th>
 </tr>
 <tr>
-    <td style="text-align:center" class="tg-25">28/02/25</td>
+    <td style="text-align:center" class="tg-25">27/02/26</td>
 		<td class="tg-50">School Fee (Quarter 1)</td>	
 		<td class="tg-25">January to March</td>	
 </tr>
 <tr>
-    <td style="text-align:center" class="tg-25">28/03/25</td>
+    <td style="text-align:center" class="tg-25">27/03/26</td>
 		<td class="tg-50">Miscellaneous Fee (1st Half Year)</td>	
 		<td class="tg-25">January to June</td>	
 </tr>
 <tr>
-    <td style="text-align:center" class="tg-25">04/04/25</td>
+    <td style="text-align:center" class="tg-25">06/04/26</td>
 		<td class="tg-50">School Fee (Quarter 2)</td>	
 		<td class="tg-25">April to June</td>	
 </tr>
 <tr>
-    <td style="text-align:center" class="tg-25">30/04/25<br>(tentative)</td>
+    <td style="text-align:center" class="tg-25">30/04/26<br>(tentative)</td>
 		<td class="tg-50">Personalised Digital Learning Programme Device<br> <i>(For Sec 1 students only; where applicable)</i></td>	
 		<td class="tg-25">N.A</td>	
 </tr>
 <tr>
-    <td style="text-align:center" class="tg-25">30/05/25</td>
+    <td style="text-align:center" class="tg-25">29/05/26</td>
 		<td class="tg-50">Enrichment Programme Fee<br> <i>(where applicable)</i></td>	
 		<td class="tg-25">January to June</td>	
 </tr>	
 <tr>
-    <td style="text-align:center" class="tg-25">04/07/25</td>
+    <td style="text-align:center" class="tg-25">03/07/26</td>
 		<td class="tg-50">School Fee (Quarter 3)</td>	
 		<td class="tg-25">July to September</td>	
 </tr>			
 <tr>
-    <td style="text-align:center" class="tg-25">29/08/25</td>
+    <td style="text-align:center" class="tg-25">28/08/26</td>
 		<td class="tg-50">Miscellaneous Fee (2nd Half Year)</td>	
 		<td class="tg-25">July to December</td>	
 </tr>			
 <tr>
-    <td style="text-align:center" class="tg-25">30/09/25</td>
+    <td style="text-align:center" class="tg-25">30/09/26</td>
 		<td class="tg-50">Enrichment Programme Fee<br> <i>(where applicable)</i></td>	
 		<td class="tg-25">July to December</td>	
 </tr>				
-<tr><td style="text-align:center" class="tg-25">03/10/25</td>
+<tr><td style="text-align:center" class="tg-25">05/10/26</td>
 		<td class="tg-50">School Fee (Quarter 4)</td>	
 		<td class="tg-25">October to December</td>	
 </tr>				
@@ -264,7 +276,7 @@ The UPLIFT Scholarship is awarded to students who are:
 
 1.  Singapore Citizens attending Independent Schools;
 2.  Admitted to the school through Direct School Admission or qualified for the Edusave Scholarships for Independent Schools; and
-3.  From families with gross monthly household income (GHI) ≤ $4,400, or gross monthly household per capita income (PCI) ≤ $1,100 (PCI = GHI divided by number of household members). 
+3.  From families with gross monthly household income (GHI) ≤ $5,500, or gross monthly household per capita income (PCI) ≤ $1,375 (PCI = GHI divided by number of household members). 
 
 MOE ISB recipients who meet the above income criteria will be auto-awarded the UPLIFT Scholarship. 
 
@@ -286,15 +298,11 @@ MOE ISB recipients who meet the above income criteria will be auto-awarded the U
 
 *   This scholarship is awarded to the top IP student. The recipient will be someone who embodies the 3 tenets of the IP, being reflective, responsive and responsible
 
-(b) Top Structured Integrated Programme (SIP) Scholarship
-
-*   This scholarship is awarded to the top SIP student. The recipient will be someone who embodies the 3 tenets of the SIP, being reflective, responsive and responsible
-
-(c) Top Affiliated Nanyang Primary School Student Scholarship
+(b) Top Affiliated Nanyang Primary School Student Scholarship
 
 *   This scholarship is awarded to the top Nanyang Primary School student  who meet the Achievement Level criteria in the year of award and has opted for Nanyang Girls’ High School as her 1st choice Secondary School
 
-(d) Outstanding Fine Arts&nbsp;Scholarship
+(c) Outstanding Fine Arts&nbsp;Scholarship
 
 *   This award is given to the students who excel in fine arts.
 
@@ -314,11 +322,13 @@ Note: The recipient of the above scholarship can only be in receipt of one schol
 
 **1\. Ministry of Education Independent School Bursary**
 
-<a target="_blank" href="/files/2025_MOE_ISB_Fom.pdf">CLICK HERE</a>&nbsp;to download MOE ISB Application Form (2025)
+Link to MOE ISB Application Form (to be submitted via FormSG):
+<a target="_blank" href="https://go.gov.sg/moe-efasis">https://go.gov.sg/moe-efasis</a>
+
 
 *   The applicant must be a Singapore citizen
 
-From 1 January 2023, the revised subsidy levels for MOE Independent School Bursary (ISB) are to as follows:
+From 1 January 2026, the revised subsidy levels for MOE Independent School Bursary (ISB) are to as follows:
 
 <table style="width: 100%" class="sf">  
 <tbody>
@@ -327,7 +337,7 @@ From 1 January 2023, the revised subsidy levels for MOE Independent School Bursa
 	<th class="th-70">School &amp; Miscellaneous Fees Subsidy</th>
 </tr>
 <tr>
-    <td class="tg-30">GHI &lt;= $3,000; or<br>PCI &lt;= $750</td>
+    <td class="tg-30">GHI &lt;= $4,000; or<br>PCI &lt;= $1,000</td>
 	<td class="tg-70">100%. <br><br>
 Additional benefits :<br>
 			• Free textbooks and school attire.<br>
@@ -337,15 +347,15 @@ Additional benefits :<br>
 			</td>	
 </tr>
 <tr>
-    <td class="tg-30">GHI $3,001 - $4,400; or<br>PCI $751 - $1,100</td>
+    <td class="tg-30">GHI $4,001 - $5,500; or<br>PCI $1,001 - $1,375</td>
 		<td class="tg-70">The monthly fees payable by students is capped at $25 per month, the equivalent of GGAS (Government and Government-aided schools) fees.</td>	
 </tr>
 	<tr>
-    <td class="tg-30">GHI $4,401 - $7,500; or<br>PCI $1,101 - $1,875</td>
+    <td class="tg-30">GHI $5,501 - $9,000; or<br>PCI $1,375 - $2,250</td>
 		<td class="tg-70">The monthly fees payable by students is capped at $37.50 per month, the equivalent of 1.5 x GGAS (Government and Government-aided schools) fees.</td>	
 </tr>
 	<tr>
-    <td class="tg-30">GHI $7,501 - $10,000; or<br>PCI $1,876 - $2,500</td>
+    <td class="tg-30">GHI $9,001 - $12,000; or<br>PCI $2,251 - $3,000</td>
 		<td class="tg-70"> 33%.</td>	
 </tr>
 	</tbody>
@@ -361,6 +371,6 @@ Additional benefits :<br>
 
 *   Students who do not qualify for the MOE ISB may apply for financial assistance under the Nanyang Girls' School Financial Assistance Scheme.
 
-<a target="_blank" href="/files/2025_NYGH_FAS_Form.pdf">CLICK HERE</a> to download NYGH FAS Application Form (2025).
+<a target="_blank" href="/files/NYGH_FAS_2026.pdf">CLICK HERE</a> to download NYGH FAS Application Form (2026).
 
-<a target="_blank" href="/files/2025_Textbk_n_Sch_Attire_Form.pdf">CLICK HERE</a> to download NYGH FAS for Textbook / School Attire Form (2025).
+<a target="_blank" href="/files/Textbk_n_Uniform_2026.pdf">CLICK HERE</a> to download NYGH FAS for Textbook / School Attire Form (2026).
