@@ -342,7 +342,7 @@ From 1 January 2026, the revised subsidy levels for MOE Independent School Bursa
 Additional benefits :<br>
 			• Free textbooks and school attire.<br>
 			• Full subsidy of national exam fees.<br>
-			• Transport Subsidy: $17 transport per month* from the month of approval (for students taking public transport).<br>
+			• Transport Subsidy: $21 transport per month* from the month of approval (for students taking public transport).<br>
 		 • School Meal Subsidy
 			</td>	
 </tr>
