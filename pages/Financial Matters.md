@@ -4,7 +4,7 @@ permalink: /financial-matters/
 description: ""
 variant: markdown
 ---
-The fees payable by students include school fees, miscellaneous fees and enrichment programmes.
+The fees payable by students include school fees, miscellaneous fees, enrichment programmes fees and CCA attires fees.
 
 
 ## School Fees
@@ -351,7 +351,7 @@ Additional benefits :<br>
 		<td class="tg-70">The monthly fees payable by students is capped at $25 per month, the equivalent of GGAS (Government and Government-aided schools) fees.</td>	
 </tr>
 	<tr>
-    <td class="tg-30">GHI $5,501 - $9,000; or<br>PCI $1,375 - $2,250</td>
+    <td class="tg-30">GHI $5,501 - $9,000; or<br>PCI $1,376 - $2,250</td>
 		<td class="tg-70">The monthly fees payable by students is capped at $37.50 per month, the equivalent of 1.5 x GGAS (Government and Government-aided schools) fees.</td>	
 </tr>
 	<tr>
