@@ -239,26 +239,6 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>RELIEF CHEMISTRY TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NIE Postgraduate Diploma in Education or equivalent, with good grade in&nbsp;Chemistry;</p>
-</li>
-<li>
-<p>Competency in integrating ICT in&nbsp;teaching;</p>
-</li>
-<li>
-<p>Able&nbsp;to&nbsp;articulate well, pleasant, responsible, good team player
-and good organisation skills; and</p>
-</li>
-<li>
-<p>Some experience in&nbsp;teaching&nbsp;secondary high school students in
-a classroom setting will be an advantage.</p>
-</li>
-</ul>
-<p>Commitment period:&nbsp;1 year commitment in 2026</p>
-<hr>
 <h5>RELIEF ENGLISH TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -275,7 +255,7 @@ a classroom setting will be an advantage.</p>
 <p>Commitment Period:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>17 October 2025 - 28 October 2025; or</p>
+<p>1 year stint; or</p>
 </li>
 <li>
 <p>Semester 1, 2026; or</p>
@@ -284,21 +264,6 @@ a classroom setting will be an advantage.</p>
 <p>Semester 2, 2026</p>
 </li>
 </ul>
-<hr>
-<h5>RELIEF GEOGRAPHY TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Geography or equivalent;</p>
-</li>
-<li>
-<p>Competency in integrating ICT in teaching; and</p>
-</li>
-<li>
-<p>Work collaboratively and contribute as a strong team player.</p>
-</li>
-</ul>
-<p>Commitment period:&nbsp;Semester 1, 2026</p>
 <hr>
 <h5>RELIEF HISTORY TEACHER</h5>
 <p>Requirements:</p>
@@ -329,124 +294,77 @@ a classroom setting will be an advantage.</p>
 </li>
 </ul>
 <hr>
-<h5>RELIEF PHYSICAL EDUCATION TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Physical Education;</p>
-</li>
-<li>
-<p>In-depth knowledge in at least one sport and ability to teach multiple
-sports for PE;</p>
-</li>
-<li>
-<p>Ability to manage CCA, with emphasis in character education;</p>
-</li>
-<li>
-<p>Coaching ability is not essential but will be favorably considered;</p>
-</li>
-<li>
-<p>Strong team player, proactive and good interpersonal skills;</p>
-</li>
-<li>
-<p>Ability to communicate well, think flexibly and constantly seeks for professional
-development opportunities</p>
-</li>
-<li>
-<p>Strong desire to inculcate health and fitness and imbuing values through
-the work in school; and</p>
-</li>
-<li>
-<p>Willing to take on Sports-CCA duties if needed.</p>
-</li>
-</ul>
-<p>Commitment Period:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>5 Jan to 29 May 2026: Covering 2026 Term 1 &amp; 2 lessons</p>
-</li>
-</ul>
-<p>If you are unable to cover all the assignments, kindly specify which assignment
-you can take on in your application.</p>
-<hr>
-<h5>RELIEF SCIENCE TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NIE Postgraduate Diploma in Education or equivalent, with good grade in
-Chemistry/Biology/Physics (H2), preferably Biology;</p>
-</li>
-<li>
-<p>Competency in integrating ICT in&nbsp;teaching;</p>
-</li>
-<li>
-<p>Able to articulate well, pleasant, responsible, good team player and good
-organisation skills; and</p>
-</li>
-<li>
-<p>Some experience in&nbsp;teaching&nbsp;secondary high school students in
-a classroom setting will be an advantage.</p>
-</li>
-</ul>
-<p>Commitment period:&nbsp;9 Jan to 8 May 2026</p>
-<hr>
-<h5>STEM INSTRUCTOR (LABORATORY)</h5>
+<h5>ICT MANAGER</h5>
 <p>Key Responsibilities:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Preparation of materials, make up solutions and assemble apparatus;</p>
+<p>Manage the school’s ICT infrastructure, including networks, servers, Wi-Fi
+systems, and endpoint devices;</p>
 </li>
 <li>
-<p>Set-up equipments in&nbsp;labs&nbsp;for&nbsp;Science&nbsp;Practical lessons
-and assessments;</p>
+<p>Oversee asset management, procurement processes (e.g., GeBIZ), and vendor
+coordination;</p>
 </li>
 <li>
-<p>Able to trial and troubleshoot practical activities;</p>
+<p>Ensure cybersecurity risk management and compliance with MOE or international
+data protection standards;</p>
 </li>
 <li>
-<p>Support students’&nbsp;STEM&nbsp;learning by collaborating with&nbsp;teachers&nbsp;to
-plan, organise learning experiences/journeys and supporting their investigative
-projects;</p>
+<p>Lead and coordinate school-wide ICT projects to support digital transformation
+initiatives;</p>
 </li>
 <li>
-<p>Manage and maintain inventory of&nbsp;laboratories&nbsp;supplies &nbsp;through
-regular stock-takes, routine calibration, and replacement of worn items/equipments;</p>
+<p>Manage and maintain learning management systems (e.g., Google Workspace
+for Education) and ensure their effective integration into teaching and
+learning;</p>
 </li>
 <li>
-<p>Collaborate with external partners for asset management and routine checks
-in the&nbsp;laboratories; and</p>
+<p>Provide technical support and training to teachers and staff on ICT tools
+and educational technology practices;</p>
 </li>
 <li>
-<p>Assist in budget planning by providing relevant information and support
-finance operations.</p>
+<p>Track and report ICT funding utilisation and data analytics to support
+planning and decision-making;</p>
+</li>
+<li>
+<p>Liaise with MOE HQ ICT Divisions, NCS, and relevant vendors to ensure
+smooth ICT operations;</p>
+</li>
+<li>
+<p>Develop and implement ICT strategies aligned with the school’s overall
+goals and direction;</p>
+</li>
+<li>
+<p>Support digital learning initiatives, promoting the adoption of innovative
+EdTech tools; and</p>
+</li>
+<li>
+<p>Any other adhoc duties.</p>
 </li>
 </ul>
+<p></p>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Relevant certificate/diploma in a&nbsp;Science&nbsp;or Technology discipline,
-or equivalent qualifications;</p>
+<p>Diploma or Degree in Information Technology, Computer Science, or a related
+discipline;</p>
 </li>
 <li>
-<p>Proficient in Microsoft Office applications (e.g. Excel) and adept with
-using systems;</p>
+<p>Professional certifications in network administration or cybersecurity
+(e.g., CompTIA, Cisco, or equivalent) preferred;</p>
 </li>
 <li>
-<p>Familiarity with implementation of&nbsp;laboratory&nbsp;safety requirements
-and able to undertake risk assessments;</p>
+<p>Minimum 3 years of relevant experience in ICT systems administration,
+infrastructure, or educational technology, preferably within an educational
+institution;</p>
 </li>
 <li>
-<p>Good interpersonal and communication skills;</p>
+<p>Analytical, organised, and collaborative, with strong problem-solving
+and communication skills; and</p>
 </li>
 <li>
-<p>Meticulous with good planning and organising skills;</p>
-</li>
-<li>
-<p>Able to work independently and in a team; and</p>
-</li>
-<li>
-<p>Relevant working experience in a school&nbsp;laboratory&nbsp;environment
-would be an advantage.</p>
+<p>Passionate about leveraging technology to enhance teaching and learning.
+Background in education technology or digital learning environments.</p>
 </li>
 </ul>
 <hr>
