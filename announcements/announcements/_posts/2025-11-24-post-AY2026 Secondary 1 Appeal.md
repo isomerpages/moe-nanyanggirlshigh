@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4><strong>Details of the Appeal application will be available on the school website on the day of Secondary 1 Posting Results release.</strong></h4>
+<p></p>
