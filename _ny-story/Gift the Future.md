@@ -4,6 +4,10 @@ permalink: /gift-the-future/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/donor_banner.jpg">
+</div>
 <p>For more than a century, Nanyang Girls’ High School has been a place where
 young women discover their purpose, cultivate character, and strive for
 excellence. Rooted in our rich heritage and guided by our vision to nurture
