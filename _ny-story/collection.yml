@@ -2,7 +2,6 @@ collections:
   ny-story:
     output: true
     order:
-      - Gift the Future.md
       - About Us.md
       - School Direction.md
       - Milestones.md
@@ -11,5 +10,6 @@ collections:
       - Global Alumni.md
       - Global Partners.md
       - Corporate Social Responsibility.md
+      - Gift the Future.md
       - Achievements.md
       - NY105 History Book.md
