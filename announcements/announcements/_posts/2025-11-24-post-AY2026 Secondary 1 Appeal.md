@@ -7,5 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Details of the Appeal application will be available on the school website on the day of Secondary 1 Posting Results release.</strong></h4>
+<p>Application period:&nbsp;<strong>19 December 2025, 10am - 23 December 2025, 3pm</strong>.</p>
+<p></p>
+<p>Please click <a href="https://form.gov.sg/684b78e4edffe5c03c933a99" rel="noopener nofollow" target="_blank"><u>HERE</u></a> for
+the application e-form.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
