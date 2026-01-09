@@ -34,7 +34,7 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-	<th style="text-align:center;" class="th-70">YEAR 2025 &amp; THEREAFTER</th>
+	<th style="text-align:center;" class="th-70">YEAR 2026</th>
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
@@ -60,28 +60,23 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-  <th class="th-30">YEAR 2025</th>	
-	<th class="th-40">WITH EFFECT FROM 1 JANUARY 2026</th>
+	<th style="text-align:center;" class="th-70">YEAR 2026</th>
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
-		<td class="tg-30">$960.00</td>	
-	  <td class="tg-40">$1,020.00</td>
+	  <td style="text-align:center;" class="tg-70">$1,020.00</td>
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
-		<td class="tg-30">$960.00</td>	
-	  <td class="tg-40">$1,020.00</td>
+	  <td style="text-align:center;" class="tg-70">$1,020.00</td>
 </tr>
 	<tr>
     <td class="tg-30">Secondary 3</td>
-		<td class="tg-30">$960.00</td>	
-	  <td class="tg-40">$1,020.00</td>
+	  <td style="text-align:center;" class="tg-70">$1,020.00</td>
 </tr>
 	<tr>
     <td class="tg-30">Secondary 4</td>
-		<td class="tg-30">$960.00</td>	
-	  <td class="tg-40">$1,020.00</td>
+	  <td style="text-align:center;" class="tg-70">$1,020.00</td>
 </tr>
 	</tbody>
 	</table>
@@ -91,7 +86,7 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-	<th style="text-align:center;" class="th-70">YEAR 2024 &amp; THEREAFTER</th>
+	<th style="text-align:center;" class="th-70">YEAR 2026</th>
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
@@ -117,28 +112,23 @@ School fees are collected through Giro at quarterly intervals in February, April
 <tbody>
 <tr>
   <th class="th-30">LEVEL</th>
-	<th class="th-30">YEAR 2025</th>
-	<th class="th-40">WITH EFFECT FROM 1 JANUARY 2026</th>	
+	<th style="text-align:center;" class="th-70">YEAR 2026</th>	
 </tr>
 <tr>
     <td class="tg-30">Secondary 1</td>
-		<td class="tg-30">$2398.00</td>	
-	  <td class="tg-40">$2,540.00</td>	
+	  <td style="text-align:center;" class="tg-70">$2,540.00</td>	
 </tr>
 <tr>
     <td class="tg-30">Secondary 2</td>
-		<td class="tg-30">$2398.00</td>	
-  	<td class="tg-40">$2,540.00</td>	
+  	<td style="text-align:center;" class="tg-70">$2,540.00</td>	
 </tr>
 	<tr>
     <td class="tg-30">Secondary 3</td>
-		<td class="tg-30">$2398.00</td>	
-		<td class="tg-40">$2,540.00</td>	
+		<td style="text-align:center;" class="tg-70">$2,540.00</td>	
 </tr>
 	<tr>
     <td class="tg-30">Secondary 4</td>
-		<td class="tg-30">$2398.00</td>	
-		<td class="tg-40">$2,540.00</td>	
+		<td style="text-align:center;" class="tg-70">$2,540.00</td>	
 </tr>
 	</tbody>
 	</table>
