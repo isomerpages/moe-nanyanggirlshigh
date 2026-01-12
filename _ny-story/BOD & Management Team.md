@@ -21,12 +21,12 @@ Mdm Amy Lee Yuen Ying
 
 ##### BOARD OF DIRECTORS
 
-**Chairperson**  
+**Chairman**  
 Ms Ang Fung Fung
 
 * * *
 
-**Vice-Chairperson**  
+**Vice-Chairman**  
 Ms Mok Shoon Terk
 
 * * *
