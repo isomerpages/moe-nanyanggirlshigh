@@ -13,9 +13,7 @@ Mdm Wee Bee Hoon
 ##### HONORARY DIRECTORS
 
 Mr Ong Pang Boon<br>
-Mr Tang See Chim<br>
-Mr David Lum Kok Seng<br>
-Mdm Amy Lee Yuen Ying
+Mr Tang See Chim
 
 * * *
 
