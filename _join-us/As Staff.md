@@ -254,6 +254,50 @@ a classroom setting will be an advantage.</p>
 </ul>
 <p>Commitment period:&nbsp;Jan - End May 2026</p>
 <hr>
+<h5>RELIEF PHYSICAL EDUCATION TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Physical Education;</p>
+</li>
+<li>
+<p>In-depth knowledge in at least one sport and ability to teach multiple
+sports for PE;</p>
+</li>
+<li>
+<p>Ability to manage CCA, with emphasis in character education;</p>
+</li>
+<li>
+<p>Coaching ability is not essential but will be favorably considered;</p>
+</li>
+<li>
+<p>Strong team player, proactive and good interpersonal skills;</p>
+</li>
+<li>
+<p>Ability to communicate well, think flexibly and constantly seeks for professional
+development opportunities;</p>
+</li>
+<li>
+<p>Strong desire to inculcate health and fitness and imbuing values through
+the work in school; and</p>
+</li>
+<li>
+<p>Willing to take on Sports-CCA duties if needed.</p>
+</li>
+</ul>
+<p>Commitment Period:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>19 Jan, 21 Jan, 26 Jan, 6 Feb, 11 Feb, 27 Feb, 2 Mar, 4 Mar, 9 Mar and
+12 Mar 2026; or</p>
+</li>
+<li>
+<p>24 Mar - 27 Mar and 30 Mar 2026; or</p>
+</li>
+</ul>
+<p>If you are unable to cover all the assignments, kindly specify which assignment
+<br>you can take on in your application.</p>
+<hr>
 <h5>ICT MANAGER</h5>
 <p>Key Responsibilities:</p>
 <ul data-tight="true" class="tight">
