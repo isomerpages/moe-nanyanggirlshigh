@@ -20,7 +20,7 @@ The content areas include
 	<li>Cyber Wellness</li>
 	<li>National Education</li>
 	<li>Family Education</li>
-	<li><a target="_blank" href="/files/2025_Info_on_SEd_for_schs_website_NYGH.pdf">Sexuality Education</a></li>
+	<li><a target="_blank" href="/files/2026_Info_on_SEd.pdf">Sexuality Education</a></li>
 </ol>
 
 CCE fundamentals are taught across several curriculum content areas and well incorporated in timetabled lessons, co-curricular activities as well as workshops and programmes offered throughout the year. The range of experiences allows our students to apply what they have learnt in authentic settings and reflect on their growth and learning.
