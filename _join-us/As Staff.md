@@ -192,6 +192,27 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
+<h5>RELIEF BIOLOGY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NIE Postgraduate Diploma in Education or equivalent with good grade in
+"A" Level Biology (H2);</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching;</p>
+</li>
+<li>
+<p>Able to articulate well, pleasant, responsible, good team player and good
+organisation skills; and</p>
+</li>
+<li>
+<p>Some experience in teaching secondary high school students in a classroom
+setting will be an advantage.</p>
+</li>
+</ul>
+<p>Commitment period:&nbsp;Term 2 2026</p>
+<hr>
 <h5>RELIEF ENGLISH TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
