@@ -4,6 +4,17 @@ permalink: /newsletters/
 description: ""
 variant: markdown
 ---
+<h3>2025 Generation NY</h3>
+<div style="float: left; margin: 20px 80px 80px 0px;">
+<img style="width:200px;" src="/images/2025_GenNY_Family_Edition.jpg">
+<br>
+	
+<a href="https://drive.google.com/file/d/1WRaX48MBlwiFrahJRJkyIY1tiFKlwtyu/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">FAMILY EDITION</a>
+</div>
+
+<br style="clear:both">
+<hr>
+
 <h3>2024 Generation NY</h3>
 <div style="float: left; margin: 20px 80px 80px 0px;">
 <img style="width:200px;" src="/images/thumbnail2024genny_Page_01.png">
