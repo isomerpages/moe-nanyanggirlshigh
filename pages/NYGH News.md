@@ -14,15 +14,11 @@ variant: markdown
 
 <hr>
 
-### Online Newsletter: Generation NY
+<a target="\_blank" href="https://sites.google.com/nygh.edu.sg/nanyangtermly/home"></a><h3><a target="\_blank" href="https://sites.google.com/nygh.edu.sg/nanyangtermly/home">NYGH Termly</a>
 
-<a target="\_blank" href="http://generationny.home.blog/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny-thumbnail-1.jpg"></a>
-<br style="clear:both">
 
 <hr>
 
-### PDF Newsletter: Generation NY
+<a href="/newsletters/"><h3>Generation NY Family Edition (PDF newsletters)</h3></a>
 
-<a href="/newsletters/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/2023_genny_family_edition_thumbnail.png"></a>
-<br style="clear:both">
-
+</h3>
