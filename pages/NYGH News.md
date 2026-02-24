@@ -6,12 +6,19 @@ variant: markdown
 ---
 ### <a target="\_blank" href="https://sites.google.com/nygh.edu.sg/nanyangtermly/home">NYGH Termly</a>
 
+ Termly Letters to Parents and Positive Parenting Hub
+<br>
+<br>
 
+<hr>
 
 
 ### <a href="/newsletters/">Generation NY Family Edition (PDF newsletters)</a>
+Newsletters featuring happenings across the Nanyang Family of Schools and the Nanyang Schools Alumni Association (NSAA) which celebrate community, achievements, and connections
+<br>
+<br>
 
-
+<hr>
 
 ### Read our latest news on:
 
