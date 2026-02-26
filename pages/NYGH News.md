@@ -4,25 +4,30 @@ permalink: /news/
 description: NYGH news
 variant: markdown
 ---
-### Read our latest news on:
+### Read Our Stories in Action
 
 <a target="\_blank" href="https://www.instagram.com/nygh_official/">
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/instagram_glyph_gradient_rgb.png"></a>
 <a target="\_blank" href="https://www.facebook.com/NanyangGirlsHighSchool">
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/f_logo_rgb-blue_250.png"></a>
 <br style="clear:both">
+<br>
 
 <hr>
 
-### Online Newsletter: Generation NY
 
-<a target="\_blank" href="http://generationny.home.blog/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/genny-thumbnail-1.jpg"></a>
-<br style="clear:both">
+### <a target="\_blank" href="https://sites.google.com/nygh.edu.sg/nanyangtermly/home">NYGH Termly</a>
+
+**Repository of Termly Letters to Parents, Positive Parenting Hub, Student Voices, and School Stories**
+<br>
+<br>
 
 <hr>
 
-### PDF Newsletter: Generation NY
 
-<a href="/newsletters/"><img style="width:300px; float: left; margin: 10px 50px 50px 0px;" src="/images/2023_genny_family_edition_thumbnail.png"></a>
-<br style="clear:both">
+### <a href="/newsletters/">Generation NY Family Edition</a>
+**Collaborative newsletter by the Nanyang Family of Schools and the Nanyang Schools Alumni Association (NSAA) which celebrates our school communities, achievements, and connections**
+<br>
+<br>
 
+<hr>
