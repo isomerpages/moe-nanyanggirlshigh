@@ -12,7 +12,6 @@ variant: markdown
 <img style="width:80px; float: left; margin: 10px 50px 50px 0px;" src="/images/f_logo_rgb-blue_250.png"></a>
 <br style="clear:both">
 <br>
-<br>
 
 <hr>
 
@@ -32,4 +31,3 @@ variant: markdown
 <br>
 
 <hr>
-
