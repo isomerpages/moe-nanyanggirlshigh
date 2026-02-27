@@ -1,6 +1,6 @@
 title: Nanyang Girls' High School
 url: https://en.nygh.moe.edu.sg
-favicon: /images/school-crest.png
+favicon: /images/NYGH_crest_C.png
 colors:
   primary-color: "#0fbdf2"
   secondary-color: "#00558d"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1tkndelvffn87.amplifyapp.com
 prod: https://master.d1tkndelvffn87.amplifyapp.com
 resources_name: announcements
-shareicon: /images/school-crest.png
+shareicon: /images/NYGH_crest_C.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
