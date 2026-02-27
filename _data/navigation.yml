@@ -1,14 +1,14 @@
-logo: /images/nyghlogo.png
+logo: /images/NYGH_logo_h_C_Blk.png
 links:
-  - title: NY Story
+  - title: NY STORY
     collection: ny-story
-  - title: NY Experience
+  - title: NY EXPERIENCE
     collection: ny-experience
-  - title: Ny Ip Curriculum
+  - title: NY IP CURRICULUM
     collection: ny-ip-curriculum
-  - title: Join Us
+  - title: JOIN US
     collection: join-us
-  - title: Quicklinks
+  - title: QUICKLINKS
     url: /#
     sublinks:
       - title: News
