@@ -45,7 +45,6 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
-<p>
 		<a class="button" href="#bio">BIOLOGY TEACHER</a>
 		<a class="button" href="#chem">CHEMISTRY TEACHER</a>
 		<a class="button" href="#eng">ENGLISH LANGUAGE TEACHER</a>
@@ -59,7 +58,7 @@ workforce.</p>
 		<a class="button" href="#ict">ICT MANAGER</a>
 		<br>
 		<a class="line-button" href="#app">Application Procedures</a>
-</p>
+
 	
 <h5 id="bio">BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
