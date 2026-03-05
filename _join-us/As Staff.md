@@ -4,6 +4,35 @@ permalink: /join-us/as-staff/
 description: ""
 variant: markdown
 ---
+<style type="text/css">
+.button {
+      background-color: #00558D; 
+      border: none; 
+      color: white !important; 
+      padding: 15px 32px; 
+      text-align: center;
+      text-decoration: none !important;
+      display: inline-block; 
+      font-size: 16px; 
+      margin: 4px 2px; 
+      cursor: pointer;
+      border-radius: 8px; 
+    }
+.line-button {
+      background-color: white; 
+      border: 2px solid #00558D; 
+      color: #00558D !important; 
+      padding: 15px 32px; 
+      text-align: center;
+      text-decoration: none !important;
+      display: inline-block; 
+      font-size: 16px; 
+      margin: 4px 2px; 
+      cursor: pointer;
+      border-radius: 8px; 
+    }	
+</style>
+
 <p>Founded in 1917, Nanyang Girls’ High School is a premier independent and
 Special Assistance Plan (SAP) school that provides an all-round holistic
 education to the students.</p>
@@ -14,6 +43,19 @@ motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
     <a class="button" href="#bio">BIOLOGY TEACHER</a>
+		<a class="button" href="#chem">CHEMISTRY TEACHER</a>
+		<a class="button" href="#eng">ENGLISH LANGUAGE TEACHER</a>
+		<a class="button" href="#math">MATHEMATICS TEACHER</a>
+		<a class="button" href="#phy">PHYSICS TEACHER</a>
+		<a class="button" href="#r-bio">RELIEF BIOLOGY TEACHER</a>
+		<a class="button" href="#r-eng">RELIEF ENGLISH TEACHER</a>
+		<a class="button" href="#r-his">RELIEF HISTORY TEACHER</a>
+		<a class="button" href="#r-sci">RELIEF SCIENCE TEACHER</a>
+		<a class="button" href="#r-phy">RELIEF PHYSICAL EDUCATION TEACHER</a>
+		<a class="button" href="#ict">ICT MANAGER</a>
+		<br>
+		<a class="line-button" href="#app">Application Procedures</a>
+		
 	
 <h5 id="bio">BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
