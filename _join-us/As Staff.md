@@ -13,12 +13,12 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
-<p><a href="#bio" rel="noopener nofollow" target="_blank">BIOLOGY TEACHER</a> |
-<a href="#chem" rel="noopener nofollow" target="_blank">CHEMISTRY TEACHER</a>| <a href="#eng" rel="noopener nofollow" target="_blank">ENGLISH LANGUAGE TEACHER</a> |
-<a href="#math" rel="noopener nofollow" target="_blank">MATHEMATICS TEACHER</a>| <a href="#phy" rel="noopener nofollow" target="_blank">PHYSICS TEACHER</a> |
-<a href="r-bio" rel="noopener nofollow" target="_blank">RELIEF BIOLOGY TEACHER</a>| <a href="#r-eng" rel="noopener nofollow" target="_blank">RELIEF ENGLISH TEACHER</a> | <a href="#r-his" rel="noopener nofollow" target="_blank">RELIEF HISTORY TEACHER</a> | <a href="#r-sci" rel="noopener nofollow" target="_blank">RELIEF SCIENCE TEACHER</a> | <a href="#r-phy" rel="noopener nofollow" target="_blank">RELIEF PHYSICAL EDUCATION TEACHER</a> | <a href="#ict" rel="noopener nofollow" target="_blank">ICT MANAGER</a>
+<p><a href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a> |
+<a href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a>| <a href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> |
+<a href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a>| <a href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a> |
+<a href="r-bio" rel="noopener nofollow" target="_self">RELIEF BIOLOGY TEACHER</a>| <a href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a> | <a href="#r-his" rel="noopener nofollow" target="_self">RELIEF HISTORY TEACHER</a> | <a href="#r-sci" rel="noopener nofollow" target="_self">RELIEF SCIENCE TEACHER</a> | <a href="#r-phy" rel="noopener nofollow" target="_self">RELIEF PHYSICAL EDUCATION TEACHER</a> | <a href="#ict" rel="noopener nofollow" target="_self">ICT MANAGER</a>
 </p>
-<p><a href="#app" rel="noopener nofollow" target="_blank">Application Procedures</a>
+<p><a href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
 </p>
 <p></p>
 <hr>
