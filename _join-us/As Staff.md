@@ -24,7 +24,7 @@ workforce.</p>
 </p>
 <p></p>
 <hr>
-<h5>BIOLOGY TEACHER</h5>
+<h5 id="bio">BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,7 +60,7 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>CHEMISTRY TEACHER</h5>
+<h5 id="chem">CHEMISTRY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -96,7 +96,7 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>ENGLISH LANGUAGE TEACHER</h5>
+<h5 id="eng">ENGLISH LANGUAGE TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
