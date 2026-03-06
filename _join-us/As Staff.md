@@ -4,38 +4,6 @@ permalink: /join-us/as-staff/
 description: ""
 variant: markdown
 ---
-<style type="text/css">
-.button {
-      background-color: #00558D; 
-      border: none; 
-      color: white !important; 
-      padding: 15px 25px; 
-      text-align: center;
-      text-decoration: none !important;
-      display: inline-block; 
-      font-size: 14px; 
-      margin: 0px 3px; 
-      cursor: pointer;
-      border-radius: 8px; 
-    }
-	
-a.button {margin-bottom: 15px;}	
-	
-.line-button {
-      background-color: white; 
-      border: 2px solid #00558D; 
-      color: #00558D !important; 
-      padding: 15px 32px; 
-      text-align: center;
-      text-decoration: none !important;
-      display: inline-block; 
-      font-size: 16px; 
-      margin: 4px 2px; 
-      cursor: pointer;
-      border-radius: 8px; 
-    }	
-</style>
-
 <p>Founded in 1917, Nanyang Girls’ High School is a premier independent and
 Special Assistance Plan (SAP) school that provides an all-round holistic
 education to the students.</p>
