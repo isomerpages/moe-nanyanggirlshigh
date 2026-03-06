@@ -2,7 +2,7 @@
 title: As Staff
 permalink: /join-us/as-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Founded in 1917, Nanyang Girls’ High School is a premier independent and
 Special Assistance Plan (SAP) school that provides an all-round holistic
@@ -16,7 +16,9 @@ workforce.</p>
 <p><a href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a> |
 <a href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a>| <a href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> |
 <a href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a>| <a href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a> |
-<a href="r-bio" rel="noopener nofollow" target="_self">RELIEF BIOLOGY TEACHER</a>| <a href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a> | <a href="#r-his" rel="noopener nofollow" target="_self">RELIEF HISTORY TEACHER</a> | <a href="#r-sci" rel="noopener nofollow" target="_self">RELIEF SCIENCE TEACHER</a> | <a href="#r-phy" rel="noopener nofollow" target="_self">RELIEF PHYSICAL EDUCATION TEACHER</a> | <a href="#ict" rel="noopener nofollow" target="_self">ICT MANAGER</a>
+<a href="r-bio" rel="noopener nofollow" target="_self">RELIEF BIOLOGY TEACHER</a>| <a href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a> |
+<a href="#r-his" rel="noopener nofollow" target="_self">RELIEF HISTORY TEACHER</a>| <a href="#r-sci" rel="noopener nofollow" target="_self">RELIEF SCIENCE TEACHER</a> |
+<a href="#r-phy" rel="noopener nofollow" target="_self">RELIEF PHYSICAL EDUCATION TEACHER</a>| <a href="#ict" rel="noopener nofollow" target="_self">ICT MANAGER</a>
 </p>
 <p><a href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
 </p>
