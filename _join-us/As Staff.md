@@ -133,7 +133,7 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>MATHEMATICS TEACHER</h5>
+<h5 id="math">MATHEMATICS TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -167,7 +167,7 @@ and research projects; and</p>
 </li>
 </ul>
 <hr>
-<h5>PHYSICS TEACHER</h5>
+<h5 id="phy">PHYSICS TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -203,7 +203,7 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5>RELIEF BIOLOGY TEACHER</h5>
+<h5 id="r-bio">RELIEF BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -224,7 +224,7 @@ setting will be an advantage.</p>
 </ul>
 <p>Commitment period: Term 2 2026</p>
 <hr>
-<h5>RELIEF ENGLISH TEACHER</h5>
+<h5 id="r-eng">RELIEF ENGLISH TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -250,7 +250,7 @@ setting will be an advantage.</p>
 </li>
 </ul>
 <hr>
-<h5>RELIEF HISTORY TEACHER</h5>
+<h5 id="r-his">RELIEF HISTORY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -265,7 +265,7 @@ setting will be an advantage.</p>
 </ul>
 <p>Commitment period: Semester 1, 2026 or Whole year 2026</p>
 <hr>
-<h5>RELIEF SCIENCE TEACHER</h5>
+<h5 id="r-sci">RELIEF SCIENCE TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -286,7 +286,7 @@ setting will be an advantage.</p>
 </ul>
 <p>Commitment period: Jan - End May 2026</p>
 <hr>
-<h5>RELIEF PHYSICAL EDUCATION TEACHER</h5>
+<h5 id="r-phy">RELIEF PHYSICAL EDUCATION TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -330,7 +330,7 @@ the work in school; and</p>
 <p>If you are unable to cover all the assignments, kindly specify which assignment
 you can take on in your application.</p>
 <hr>
-<h5>ICT MANAGER</h5>
+<h5 id="ict">ICT MANAGER</h5>
 <p>Key Responsibilities:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -403,7 +403,7 @@ Background in education technology or digital learning environments.</p>
 </li>
 </ul>
 <hr>
-<h2>Application Procedures</h2>
+<h2 id="app">Application Procedures</h2>
 <p>Staff recruitment is an ongoing process at Nanyang Girls' High School.
 We are constantly looking for suitably qualified and committed staff to
 join our team.</p>
