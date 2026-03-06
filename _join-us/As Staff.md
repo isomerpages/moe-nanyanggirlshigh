@@ -45,7 +45,20 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
-			
+		<p><a class="button" href="#bio">BIOLOGY TEACHER</a>
+		<a class="button" href="#chem">CHEMISTRY TEACHER</a>
+		<a class="button" href="#eng">ENGLISH LANGUAGE TEACHER</a>
+		<a class="button" href="#math">MATHEMATICS TEACHER</a>
+		<a class="button" href="#phy">PHYSICS TEACHER</a>
+		<a class="button" href="#r-bio">RELIEF BIOLOGY TEACHER</a>
+		<a class="button" href="#r-eng">RELIEF ENGLISH TEACHER</a>
+		<a class="button" href="#r-his">RELIEF HISTORY TEACHER</a>
+		<a class="button" href="#r-sci">RELIEF SCIENCE TEACHER</a>
+		<a class="button" href="#r-phy">RELIEF PHYSICAL EDUCATION TEACHER</a>
+		<a class="button" href="#ict">ICT MANAGER</a>
+		<br>
+		<a class="line-button" href="#app">Application Procedures</a></p>
+		
 <h5 id="bio">BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
