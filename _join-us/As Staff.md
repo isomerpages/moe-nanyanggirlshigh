@@ -4,6 +4,38 @@ permalink: /join-us/as-staff/
 description: ""
 variant: markdown
 ---
+<style type="text/css">
+.button {
+      background-color: #00558D; 
+      border: none; 
+      color: white !important; 
+      padding: 15px 25px; 
+      text-align: center;
+      text-decoration: none !important;
+      display: inline-block; 
+      font-size: 14px; 
+      margin: 0px 3px; 
+      cursor: pointer;
+      border-radius: 8px; 
+    }
+	
+a.button {margin-bottom: 15px;}	
+	
+.line-button {
+      background-color: white; 
+      border: 2px solid #00558D; 
+      color: #00558D !important; 
+      padding: 15px 32px; 
+      text-align: center;
+      text-decoration: none !important;
+      display: inline-block; 
+      font-size: 16px; 
+      margin: 4px 2px; 
+      cursor: pointer;
+      border-radius: 8px; 
+    }	
+</style>	
+
 <p>Founded in 1917, Nanyang Girls’ High School is a premier independent and
 Special Assistance Plan (SAP) school that provides an all-round holistic
 education to the students.</p>
@@ -13,14 +45,14 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
-<p><a href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a> |
-<a href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a>| <a href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> |
-<a href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a>| <a href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a> |
-<a href="r-bio" rel="noopener nofollow" target="_self">RELIEF BIOLOGY TEACHER</a>| <a href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a> |
-<a href="#r-his" rel="noopener nofollow" target="_self">RELIEF HISTORY TEACHER</a>| <a href="#r-sci" rel="noopener nofollow" target="_self">RELIEF SCIENCE TEACHER</a> |
-<a href="#r-phy" rel="noopener nofollow" target="_self">RELIEF PHYSICAL EDUCATION TEACHER</a>| <a href="#ict" rel="noopener nofollow" target="_self">ICT MANAGER</a>
+<p><a class="button" href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a>
+<a class="button" href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a> <a class="button" href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> 
+<a class="button" href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
+<a class="button" href="r-bio" rel="noopener nofollow" target="_self">RELIEF BIOLOGY TEACHER</a> <a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
+<a class="button" href="#r-his" rel="noopener nofollow" target="_self">RELIEF HISTORY TEACHER</a> <a class="button" href="#r-sci" rel="noopener nofollow" target="_self">RELIEF SCIENCE TEACHER</a> 
+<a class="button" href="#r-phy" rel="noopener nofollow" target="_self">RELIEF PHYSICAL EDUCATION TEACHER</a> <a class="button" href="#ict" rel="noopener nofollow" target="_self">ICT MANAGER</a>
 </p>
-<p><a href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
+<p><a class="line-button" href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
 </p>
 <p></p>
 <hr>
