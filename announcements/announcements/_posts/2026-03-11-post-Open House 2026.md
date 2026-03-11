@@ -28,4 +28,4 @@ High School</p>
 <p><img style="text-align:left; width:600px;" src="/images/2026_Social_Media___School_Talks.png"></p>
 <p><img style="text-align:left; width:600px;" src="/images/Social_Media___Performance_temp.png"></p>
 <p><img style="text-align:left; width:600px;" src="/images/Social_Media___Checklist.png"></p>
-<p><img style="text-align:left; width:600px;" src="/images/Social_Media___No_Parking.png"></p>![]
+<p><img style="text-align:left; width:600px;" src="/images/Social_Media___No_Parking.png"></p>
