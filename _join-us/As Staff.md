@@ -46,11 +46,13 @@ motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
 <p><a class="button" href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a>
-<a class="button" href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a> <a class="button" href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> 
+<a class="button" href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a> 
+<a class="button" href="#hcl" rel="noopener nofollow" target="_self">CHINESE LANGUAGE TEACHER</a>
+<a class="button" href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> 
+<a class="button" href="#geo" rel="noopener nofollow" target="_self">GEOGRAPHY TEACHER</a> 
 <a class="button" href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
-<a class="button" href="r-bio" rel="noopener nofollow" target="_self">RELIEF BIOLOGY TEACHER</a> <a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
-<a class="button" href="#r-his" rel="noopener nofollow" target="_self">RELIEF HISTORY TEACHER</a> <a class="button" href="#r-sci" rel="noopener nofollow" target="_self">RELIEF SCIENCE TEACHER</a> 
-<a class="button" href="#r-phy" rel="noopener nofollow" target="_self">RELIEF PHYSICAL EDUCATION TEACHER</a> <a class="button" href="#ict" rel="noopener nofollow" target="_self">ICT MANAGER</a>
+<a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
+<a class="button" href="#ict" rel="noopener nofollow" target="_self">ICT MANAGER</a>
 </p>
 <p><a class="line-button" href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
 </p>
@@ -128,6 +130,36 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
+
+<h5 id="eng">CHINESE LANGUAGE TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Chinese Language, Chinese Studies, or related fields;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
 <h5 id="eng">ENGLISH LANGUAGE TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -159,6 +191,35 @@ and overseas trips;</p>
 <p>Able to act as mentor in the holistic development of students so as to
 help students achieve their fullest potential in the Integrated Programme
 (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5 id="phy">GEOGRAPHY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Geography &amp; Social Studies or related fields;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
 </li>
 <li>
 <p>Enjoy working with others and is a good team player.</p>
@@ -235,27 +296,6 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5 id="r-bio">RELIEF BIOLOGY TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NIE Postgraduate Diploma in Education or equivalent with good grade in
-"A" Level Biology (H2);</p>
-</li>
-<li>
-<p>Competency in integrating ICT in teaching;</p>
-</li>
-<li>
-<p>Able to articulate well, pleasant, responsible, good team player and good
-organisation skills; and</p>
-</li>
-<li>
-<p>Some experience in teaching secondary high school students in a classroom
-setting will be an advantage.</p>
-</li>
-</ul>
-<p>Commitment period: Term 2 2026</p>
-<hr>
 <h5 id="r-eng">RELIEF ENGLISH TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -272,95 +312,9 @@ setting will be an advantage.</p>
 <p>Commitment Period:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1 year stint; or</p>
-</li>
-<li>
-<p>Semester 1, 2026; or</p>
-</li>
-<li>
 <p>Semester 2, 2026</p>
 </li>
 </ul>
-<hr>
-<h5 id="r-his">RELIEF HISTORY TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in History or equivalent;</p>
-</li>
-<li>
-<p>Competency in integrating ICT in teaching; and</p>
-</li>
-<li>
-<p>Work collaboratively and contribute as a strong team player.</p>
-</li>
-</ul>
-<p>Commitment period: Semester 1, 2026 or Whole year 2026</p>
-<hr>
-<h5 id="r-sci">RELIEF SCIENCE TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NIE Postgraduate Diploma in Education or equivalent, with good grade in
-Chemistry/Biology/Physics(H2), preferably Biology;</p>
-</li>
-<li>
-<p>Competency in integrating ICT in teaching;</p>
-</li>
-<li>
-<p>Able to articulate well, pleasant, responsible, good team player and good
-organisation skills; and</p>
-</li>
-<li>
-<p>Some experience in teaching secondary high school students in a classroom
-setting will be an advantage.</p>
-</li>
-</ul>
-<p>Commitment period: Jan - End May 2026</p>
-<hr>
-<h5 id="r-phy">RELIEF PHYSICAL EDUCATION TEACHER</h5>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Physical Education;</p>
-</li>
-<li>
-<p>In-depth knowledge in at least one sport and ability to teach multiple
-sports for PE;</p>
-</li>
-<li>
-<p>Ability to manage CCA, with emphasis in character education;</p>
-</li>
-<li>
-<p>Coaching ability is not essential but will be favorably considered;</p>
-</li>
-<li>
-<p>Strong team player, proactive and good interpersonal skills;</p>
-</li>
-<li>
-<p>Ability to communicate well, think flexibly and constantly seeks for professional
-development opportunities;</p>
-</li>
-<li>
-<p>Strong desire to inculcate health and fitness and imbuing values through
-the work in school; and</p>
-</li>
-<li>
-<p>Willing to take on Sports-CCA duties if needed.</p>
-</li>
-</ul>
-<p>Commitment Period:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>9 Jan, 21 Jan, 26 Jan, 6 Feb, 11 Feb, 27 Feb, 2 Mar, 4 Mar, 9 Mar and
-12 Mar 2026; or</p>
-</li>
-<li>
-<p>24 Mar - 27 Mar and 30 Mar 2026; or</p>
-</li>
-</ul>
-<p>If you are unable to cover all the assignments, kindly specify which assignment
-you can take on in your application.</p>
 <hr>
 <h5 id="ict">ICT MANAGER</h5>
 <p>Key Responsibilities:</p>
