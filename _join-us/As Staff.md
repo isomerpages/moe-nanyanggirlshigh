@@ -131,7 +131,7 @@ help students achieve their fullest potential in the Integrated Programme
 </ul>
 <hr>
 
-<h5 id="eng">CHINESE LANGUAGE TEACHER</h5>
+<h5 id="hcl">CHINESE LANGUAGE TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -197,7 +197,7 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5 id="phy">GEOGRAPHY TEACHER</h5>
+<h5 id="geo">GEOGRAPHY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
