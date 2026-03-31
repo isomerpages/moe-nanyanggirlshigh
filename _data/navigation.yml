@@ -27,9 +27,9 @@ links:
         url: https://vle.learning.moe.edu.sg/login/
       - title: NYGH Library
         url: https://schoolibrary.moe.edu.sg/nygh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-      - title: Contact Us
-        url: /contact-nygh/
       - title: Nanyang Girls' High School
         url: /nanyang-girls-boarding-school/
+      - title: Contact Us
+        url: /contact-nygh/
   - title: 中文
     url: https://zh.NYGH.moe.edu.sg
