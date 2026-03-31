@@ -9,16 +9,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pic2.jpg">
 </div>
 <h4><strong>Nanyang Girls' Boarding School is currently closed</strong><br><strong>until further notice.</strong></h4>
-<p>
-<br>Watch this space for updates.</p>
+<h4>Watch this space for updates.</h4>
 <p><em>Thank you to our Boarding Alumni, Staff, Teachers, Partners, Vendors, Residents for your support all these years!</em>
 </p>
 <p></p>
-<h4>About Us</h4>
-<p></p>
-<p>A Premier Hostel</p>
-<p><em>For Students, Overseas Guests &amp; Student Groups</em>
-</p>
+<h4><strong>About Us</strong></h4>
+<h4>A Premier Hostel<br><em>For Students, Overseas Guests &amp; Student Groups</em></h4>
 <p>Established in Year 2000, Nanyang Girls’ Boarding School (NYGBS) is nestled
 in District 10, a peaceful and premier residential district in Singapore.</p>
 <p>We are located near numerous schools and universities; and easily accessible
