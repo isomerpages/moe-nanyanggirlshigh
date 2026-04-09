@@ -52,6 +52,7 @@ workforce.</p>
 <a class="button" href="#geo" rel="noopener nofollow" target="_self">GEOGRAPHY TEACHER</a> 
 <a class="button" href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
 <a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
+<a class="button" href="#r-hcl" rel="noopener nofollow" target="_self">RELIEF CHINESE LANGUAGE TEACHER</a>
 </p>
 <p><a class="line-button" href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
 </p>
@@ -312,6 +313,32 @@ help students achieve their fullest potential in the Integrated Programme
 <ul data-tight="true" class="tight">
 <li>
 <p>Semester 2, 2026</p>
+</li>
+</ul>
+<hr>
+<h5 id="r-hcl">RELIEF CHINESE LANGUAGE TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Chinese Language and Literature;</p>
+</li>
+<li>
+<p>Experience in teaching Higher Chinese Language;</p>
+</li>	
+<li>
+<p>Good competency level in the use of learning platforms and ICT in teaching; </p>
+</li>
+<li>
+<p>Strong team player, proactive and good interpersonal skills; and</p>
+</li>
+<li>
+<p>Ability to establish good rapport and connect well with students.</p>
+</li>
+</ul>
+<p>Commitment Period:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>29 June 2026 - 20 November 2026</p>
 </li>
 </ul>
 <hr>
