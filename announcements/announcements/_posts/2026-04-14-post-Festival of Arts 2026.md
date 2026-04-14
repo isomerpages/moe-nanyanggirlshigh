@@ -10,6 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ppt_widescreen_publicity.png">
 </div>
+<h4>Two Stages. One Nanyang Spirit.</h4>
 <p>The Nanyang Festival of Arts (FOA) 2026 returns with a special milestone
 - two public productions showcasing the very best of our performing arts
 groups.</p>
