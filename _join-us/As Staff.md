@@ -45,7 +45,7 @@ education and a global perspective.</p>
 motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
-<p><a class="button" href="#admin" rel="noopener nofollow" target="_self">ADMIN EXECUTIVE</a>
+<p>
 <a class="button" href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a>
 <a class="button" href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a> 
 <a class="button" href="#hcl" rel="noopener nofollow" target="_self">CHINESE LANGUAGE TEACHER</a>
@@ -54,74 +54,10 @@ workforce.</p>
 <a class="button" href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
 <a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
 <a class="button" href="#r-hcl" rel="noopener nofollow" target="_self">RELIEF CHINESE LANGUAGE TEACHER</a>
+<a class="button" href="#admin" rel="noopener nofollow" target="_self">ADMIN EXECUTIVE</a>
 </p>
 <p><a class="line-button" href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
 </p>
-<hr>
-<h5 id="admin">ADMIN EXECUTIVE</h5>
-<p>Key Responsibilities:</p>
-<p>To play an instrumental role in ensuring the efficient operations of the school’s General Office by providing administrative support in the following areas:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Customer Service:</p>
-</li>
-<ul>
-<li>
-<p>Attend to enquiries from walk-in customers and phone calls, ensuring timely dissemination of school information to stakeholders;</p>
-</li>
-<li>
-<p>Manage the loan of school items and lost &amp; found records;</p>
-</li>
-<li>
-<p>Monitor students’ wellbeing and maintain cleanliness and hygiene of the sick bay;</p>
-</li>
-<li>
-<p>Monitor students leaving school early and ensure confirmation of their safe arrival home;</p>
-</li>	
-<li>
-<p>Issue Secondary 1 Smart Cards and Student Passes; and</p>
-</li>	
-<li>
-<p>Provide general office support including printing, laminating, and guest refreshments.</p>
-</li>
-</ul>	
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Project/Vendor Management:</p>
-</li>
-<ul>
-<li>
-<p>Coordinate school events and exercises such as Student Photo-Taking, Prize-Giving Ceremony, Sec 4 Graduation Ceremony, and Student Admissions.</p>
-</li>
-</ul>	
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Other Duties:</p>
-</li>
-<ul>
-<li>
-<p>Perform other ad-hoc duties as assigned by the School Senior Management Team and Head of Department.</p>
-</li>
-</ul>
-
-</ul>
-<p>Requirements:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>GCE ‘A’ Level or Diploma;</p>
-</li>
-<li>
-<p>Strong communication skills, meticulous, able to multitask, and a good team player;</p>
-</li>
-<li>
-<p>Basic knowledge of AI tools; and</p>
-</li>
-<li>
-<p>Prior experience working in a school is an added advantage.</p>
-</li>
-</ul>
 <hr>
 <h5 id="bio">BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
@@ -195,7 +131,6 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-
 <h5 id="hcl">CHINESE LANGUAGE TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -404,6 +339,70 @@ help students achieve their fullest potential in the Integrated Programme
 <ul data-tight="true" class="tight">
 <li>
 <p>29 June 2026 - 20 November 2026</p>
+</li>
+</ul>
+<hr>
+<h5 id="admin">ADMIN EXECUTIVE</h5>
+<p>Key Responsibilities:</p>
+<p>To play an instrumental role in ensuring the efficient operations of the school’s General Office by providing administrative support in the following areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Customer Service:</p>
+</li>
+<ul>
+<li>
+<p>Attend to enquiries from walk-in customers and phone calls, ensuring timely dissemination of school information to stakeholders;</p>
+</li>
+<li>
+<p>Manage the loan of school items and lost &amp; found records;</p>
+</li>
+<li>
+<p>Monitor students’ wellbeing and maintain cleanliness and hygiene of the sick bay;</p>
+</li>
+<li>
+<p>Monitor students leaving school early and ensure confirmation of their safe arrival home;</p>
+</li>	
+<li>
+<p>Issue Secondary 1 Smart Cards and Student Passes; and</p>
+</li>	
+<li>
+<p>Provide general office support including printing, laminating, and guest refreshments.</p>
+</li>
+</ul>	
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Project/Vendor Management:</p>
+</li>
+<ul>
+<li>
+<p>Coordinate school events and exercises such as Student Photo-Taking, Prize-Giving Ceremony, Sec 4 Graduation Ceremony, and Student Admissions.</p>
+</li>
+</ul>	
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Other Duties:</p>
+</li>
+<ul>
+<li>
+<p>Perform other ad-hoc duties as assigned by the School Senior Management Team and Head of Department.</p>
+</li>
+</ul>
+</ul>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCE ‘A’ Level or Diploma;</p>
+</li>
+<li>
+<p>Strong communication skills, meticulous, able to multitask, and a good team player;</p>
+</li>
+<li>
+<p>Basic knowledge of AI tools; and</p>
+</li>
+<li>
+<p>Prior experience working in a school is an added advantage.</p>
 </li>
 </ul>
 <hr>
