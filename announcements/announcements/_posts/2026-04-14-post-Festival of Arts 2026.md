@@ -18,13 +18,13 @@ groups.</p>
 <br>Date: Tuesday, 5 May 2026
 <br>Time: 7pm - 9.20pm
 <br>Venue: Concert Hall, Esplanade
-<br>Purchase tickets at Sistics: <a href="https://www.sistic.com.sg/events/harmony0526" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/harmony0526</a>
+<br>Purchase tickets at SISTIC: <a href="https://www.sistic.com.sg/events/harmony0526" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/harmony0526</a>
 </p>
 <p><strong>Dance &amp; Theatre — In Motion 《南洋动律：为她序章》</strong>
 <br>Date: Tuesday, 12 May 2026
 <br>Time: 7pm - 9.20pm
 <br>Venue: University Cultural Centre
-<br>Purchase tickets at Sistics: <a href="https://www.sistic.com.sg/events/donamotion0526" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/donamotion0526</a>
+<br>Purchase tickets at SISTIC: <a href="https://www.sistic.com.sg/events/donamotion0526" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/donamotion0526</a>
 </p>
 <p>From music and movement to storytelling and tradition, our students bring
 creativity to life with passion and purpose.</p>
