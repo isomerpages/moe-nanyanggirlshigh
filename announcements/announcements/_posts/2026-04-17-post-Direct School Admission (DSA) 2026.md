@@ -354,7 +354,7 @@ NYGH runs the six-year Integrated Programme in partnership with Hwa Chong Instit
 <br>
 NYGH offers the AEP. It is a four-year programme and students in the programme enjoy a fee subsidy as AEP is an MOE-initiated programme. <br><br>
 Though our school is not an MEP centre, we offer our own four-year Higher Music Programme (HMP) which is modelled after the MEP. However, students in our HMP <b>do not</b> enjoy a fee subsidy unless they are on ESIS.</li><br>
-<li><strong>v)	What would the learning experience be like for students who enrol through DSA (Bilingualism or Service Leadership) </strong><br><br>
+<li><strong>What would the learning experience be like for students who enrol through DSA (Bilingualism or Service Leadership) </strong><br><br>
 <strong>DSA-Bilingualism</strong>
 <br>To nurture the DSA (Bilingualism) students to be effectively bilingual and bicultural, the school offers programmes beyond the classroom. The Lower Secondary students will attend fortnightly NY Enrich lessons to further develop their communication skills as well as appreciation for culture and literature.
 <br><br>
@@ -362,7 +362,7 @@ At upper secondary, it is mandatory for DSA (Bilingualism) students to read Lite
 <br><br>
 <strong>DSA-Service Leadership</strong>
 <br>The Service Leadership Direct School Admission (DSA) Programme seeks to nurture leaders who place service at the heart of leadership. Students will be provided with varied authentic learning experiences to develop their 21st century competencies and leadership qualities. The training sessions will cover concepts of leadership and give the students opportunities to work in teams with like-minded students to identify needs in their community and devise solutions to meet those needs. Mentoring will be provided to develop the leadership potential of the students.</li>
-
+<br>
 <li><strong>Who should I contact for more information and further enquiries?</strong>
 <br>For DSA matters, please email us at <a href="mailto:nygh_dsa@nygh.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nygh_dsa@nygh.edu.sg</a>. The email inbox will be unmanned after 15 September 2026 till 31 March 2027. </li>
 </ol>
