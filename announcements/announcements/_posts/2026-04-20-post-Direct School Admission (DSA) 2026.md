@@ -76,7 +76,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 </tr>		
 <tr>
   <td class="tg-6">6	</td>
-	<td class="tg-64">NYGH conducts interviews for <u>shortlisted</u> applicants who have cleared the first round of selection through trials/ auditions/ tests/ tasks/ personal statements.</td>
+	<td class="tg-64">NYGH conducts interviews for <u>shortlisted</u> applicants who have cleared the first round of selection through trials/ auditions/ tests/ personal statements.</td>
 	<td class="tg-30">1 &amp; 8 Aug 2026</td>
 </tr>	
 <tr>
@@ -143,7 +143,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 </tbody>
 </table>
 
-<p><small>Chinese Orchestra is accepting DSA applications for the following instruments: 弦乐 (Bowed strings), 阮 (Ruan), 柳琴 (Liuqin),  笙 (Sheng), 唢呐  (Suona), 笛子 (Dizi),  琵琶 (Pipa),  扬琴 (Yangqin), Cello, Double Bass, Percussion<br>
+<p><small>*Chinese Orchestra is accepting DSA applications for the following instruments: 弦乐 (Bowed strings), 阮 (Ruan), 柳琴 (Liuqin),  笙 (Sheng), 唢呐  (Suona), 笛子 (Dizi),  琵琶 (Pipa),  扬琴 (Yangqin), Cello, Double Bass, Percussion<br>
 **Concert Band is accepting DSA applications for the following instruments: Flute/ Piccolo, Oboe, Clarinet, Bassoon, Horn, Trumpet, Trombone, Tuba, Euphonium, Saxophone<br>
 ***Lion and Dragon Dance is accepting DSA applications for the following roles: 狮头 (the head), 狮尾 (the tail)<br>
 ****String Ensemble is accepting DSA applications for the following instruments: Violin, Viola, Cello, Double Bass</small></p>
@@ -156,7 +156,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
   <th class="th-40">Talent Areas</th>
 	<th class="th-15">Trials/ Auditions</th>
 	<th class="th-15">Personal Statement</th>	
-	<th class="th-15">Selection Tests/ Tasks</th>
+	<th class="th-15">Selection Tests</th>
 	<th class="th-15">Interview <br>(for selected <u>shortlisted</u> applicants only)</th></tr>
 <tr>
   <td class="tg-40">Bilingualism</td>
@@ -211,7 +211,7 @@ Further details will be sent to <u>shortlisted</u> applicants at least 1 week be
 <h4><strong>5.	Selection Criteria</strong></h4> 
 <ul>
 	<li>Passion and aptitude in the specific talent area</li>
-	<li>Performance at selection tests/ tasks/ trials/ auditions</li>
+	<li>Performance at selection tests/ trials/ auditions</li>
 	<li>Performance at interviews</li>
 	<li>Academic ability (to manage the IP curriculum)</li>
 	<li>Character and leadership disposition</li>
@@ -341,10 +341,10 @@ S$200 per month</td>
 
 <h4><strong>8. Frequently Asked Questions</strong></h4>
 <ol>
-<li><strong>What was the admission cut-off point for 2025 Secondary 1 students (annual posting exercise)?</strong>
+<li><strong>What was the admission cut-off point for 2026 Secondary 1 students (annual posting exercise)?</strong>
 <br>
 For 2026 Secondary 1 admission, the cut-off was AL 6(M). </li><br>
-<li><strong>How many Secondary 1 students will be accepted in 2026?</strong>
+<li><strong>How many Secondary 1 students will be accepted in 2027?</strong>
 <br>
 	The projected number is 390.</li><br>
 <li><strong>What is the NYGH-HCI Integrated Programme (IP)?</strong>
