@@ -60,7 +60,7 @@ variant: markdown
 </tr>	
 <tr>
   <td class="tg-6">3	</td>
-	<td class="tg-64">NYGH conducts selection tests/ tasks for <u>shortlisted</u> applicants who have applied to the Bilingualism talent area.</td>
+	<td class="tg-64">NYGH conducts selection tests for <u>shortlisted</u> applicants who have applied to the Bilingualism talent area.</td>
 	<td class="tg-30"> 10 Jul 2026</td>
 </tr>		
 <tr>
