@@ -34,5 +34,5 @@ of Nanyang girls to lead with confidence, create with courage, and serve
 with heart.</p>
 <p>We warmly invite our community to join us in celebrating this special
 year.</p>
-<p>Check out more at FOA website: <a href="foa2026.nygh.edu.sg" rel="noopener nofollow" target="_blank">foa2026.nygh.edu.sg</a>
+<p>Check out more at FOA website: <a href="https://foa2026.nygh.edu.sg" rel="noopener nofollow" target="_blank">foa2026.nygh.edu.sg</a>
 </p>
