@@ -72,5 +72,3 @@ It is important that our students know our neighbour. At Secondary 2, all our st
 At Secondary 3, all our students gain a deeper understanding of China through the China GCP. This 6-day programme includes school visits, industry visits, cross-cultural learning and experiential learning. 
 
 The school also offers Subject-Based Special Programme GCP for selected students at upper secondary level.
-
-
