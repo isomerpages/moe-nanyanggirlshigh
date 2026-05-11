@@ -74,10 +74,3 @@ At Secondary 3, all our students gain a deeper understanding of China through th
 The school also offers Subject-Based Special Programme GCP for selected students at upper secondary level.
 
 
-
-## Boarding School Experience LIGHT (BseLIGHT)
-
-
-Complementing the NYGH curriculum is the Boarding School Experience (BseLIGHT), a school activity exclusive to all current Secondary 4 students to build communal spirit. 
-
-Based on the theme of self-discovery and rooted in the principles of experiential learning, the one-week boarding school programme allows students to learn more about themselves and others through becoming more aware of managing their emotions and those in relation to others, exercising responsible decision-making, and being more appreciative and aware of the different cultures, habits and lifestyles of others.
