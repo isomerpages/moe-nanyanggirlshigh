@@ -55,7 +55,7 @@ variant: markdown
 <tr>
   <td class="tg-6">2	</td>
 	<td class="tg-64">NYGH conducts trials/ auditions* for <u>shortlisted</u> applicants who have applied for the Aesthetics, Sports and Games-related talent areas.   <br><br> 
-Please <a target="_blank" href="/files/DSA_trial_dates_for_school_website_2026_final.pdf"> click here </a> to access more information on the trials/auditions.  </td>
+Please <a target="_blank" href="/files/DSA_trial_dates_for_school_website_2026_final.pdf">click here</a> to access more information on the trials/auditions.  </td>
 	<td class="tg-30">10 to 31 July 2026</td>
 </tr>	
 <tr>
