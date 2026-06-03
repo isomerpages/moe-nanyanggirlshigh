@@ -10,15 +10,15 @@ variant: markdown
 
 Our IP curriculum is designed with the following principles:
 
-* **Concept–centric &amp; Inquiry–based** Students’ curiosity and motivation to learn will be enhanced through meaningful connections within and between disciplines, building deep knowledge and developing levels of thinking to make sense of the content, knowledge, processes and systems of the world via teachers’ skilful questioning and inductive pedagogical approaches.
+* **Concept–centric &amp; Inquiry–based:** Students’ curiosity and motivation to learn will be enhanced through meaningful connections within and between disciplines, building deep knowledge and developing levels of thinking to make sense of the content, knowledge, processes and systems of the world via teachers’ skilful questioning and inductive pedagogical approaches.
 
-* **Authentic** Students will immerse in positive engagements and interactions with teachers, peers, and information, set in an authentic context, designing solutions to solve real–world issues.
+* **Authentic:** Students will immerse in positive engagements and interactions with teachers, peers, and information, set in an authentic context, designing solutions to solve real–world issues.
 
-* **Relevant** Students will learn knowledge and develop skills and attributes that are relevant to the future world they will inhabit.
+* **Relevant:** Students will learn knowledge and develop skills and attributes that are relevant to the future world they will inhabit.
 
-* **Experiential** With a ‘Head On, Heart On and Hands On’ approach, students will develop a heart and mind for the community through service learning within and beyond Singapore.
+* **Experiential:** With a ‘Head On, Heart On and Hands On’ approach, students will develop a heart and mind for the community through service learning within and beyond Singapore.
 
-* **Developmentally Appropriate and Differentiated** Programmes and activities are designed and curated to cater to the different needs of the students, allowing them to learn at the level and pace that meet the different levels of cognitive, socio-emotional and physical development of different students.
+* **Developmentally Appropriate and Differentiated:** Programmes and activities are designed and curated to cater to the different needs of the students, allowing them to learn at the level and pace that meet the different levels of cognitive, socio-emotional and physical development of different students.
 
 Teachers individually will serve as mentors to their students; teaching, coaching and demonstrating the learning for life framework as role-models. Just like an incubator for a new-born child and also an incubator for potential start-ups, the NYGH environment created collectively by all staff, is caring and nurturing, open and encouraging to ideas and innovations, daring students to challenge new frontiers.
 
