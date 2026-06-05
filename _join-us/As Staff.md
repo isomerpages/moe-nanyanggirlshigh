@@ -217,7 +217,6 @@ workforce.</p>
 </li>
 </ul>
 <hr>
-<hr>
 <h5 id="sh-geo">SUBJECT HEAD, GEOGRAPHY</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -330,6 +329,7 @@ workforce.</p>
 <p>Work in close partnership with school management, SSD and Senior Teachers to chart the professional development of teachers in the school.</p>
 </li>
 </ul>
+<hr>
 <h5 id="bio">BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
