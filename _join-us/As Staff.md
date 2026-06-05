@@ -46,11 +46,20 @@ motivated individuals, to be part of the dynamic, committed and innovative
 workforce.</p>
 <h2>We are looking for</h2>
 <p>
+<a class="button" href="#hol" rel="noopener nofollow" target="_self">HEAD OF LEVEL</a>
+<a class="button" href="#sh-art" rel="noopener nofollow" target="_self">SUBJECT HEAD, ART</a>
+<a class="button" href="#sh-cl" rel="noopener nofollow" target="_self">SUBJECT HEAD, CHINESE LANGUAGE</a>
+<a class="button" href="#sh-edu" rel="noopener nofollow" target="_self">SUBJECT HEAD, EDUCATION TECHNOLOGY (EDTECH)</a>
+<a class="button" href="#sh-geo" rel="noopener nofollow" target="_self">SUBJECT HEAD, GEOGRAPHY</a>
+<a class="button" href="#sh-his" rel="noopener nofollow" target="_self">SUBJECT HEAD, HISTORY</a>
+<a class="button" href="#sh-sc" rel="noopener nofollow" target="_self">SUBJECT HEAD, SCIENCE</a>
+<a class="button" href="#st-im" rel="noopener nofollow" target="_self">SENIOR TEACHER, MATHEMATICS</a>
 <a class="button" href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a>
 <a class="button" href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a> 
 <a class="button" href="#hcl" rel="noopener nofollow" target="_self">CHINESE LANGUAGE TEACHER</a>
 <a class="button" href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> 
 <a class="button" href="#geo" rel="noopener nofollow" target="_self">GEOGRAPHY TEACHER</a> 
+<a class="button" href="#msp" rel="noopener nofollow" target="_self">MALAY SPECIAL PROGRAMME (MSP) TEACHER</a> 
 <a class="button" href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
 <a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
 <a class="button" href="#r-hcl" rel="noopener nofollow" target="_self">RELIEF CHINESE LANGUAGE TEACHER</a>
@@ -59,6 +68,268 @@ workforce.</p>
 <p><a class="line-button" href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
 </p>
 <hr>
+<h5 id="hol">HEAD OF LEVEL</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in relevant subject or equivalent;</p>
+</li>
+</ul>
+<p>Leadership and Programme Management</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide leadership to ensure effective implementation of student development programmes and processes for the assigned level(s);</p>
+</li>
+<li>
+<p>Coordinate upstream and preventive efforts to support students’ academic, social-emotional, and holistic development;</p>
+</li>
+<li>
+<p>Collaborate effectively with staff and galvanise teachers towards shared student development goals; and</p>
+</li>
+<li>
+<p>Demonstrate competency in subject teaching, Character and Citizenship Education (CCE), and co-curricular areas.</p>
+</li>
+</ul>
+<p>Student Management and Support</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guide teachers in providing timely support and designing engaging learning experiences tailored to students’ holistic growth;</p>
+</li>
+<li>
+<p>Support students’ well-being and development to ensure school programmes cater to diverse student profiles;</p>
+</li>
+<li>
+<p>Work closely with level teachers, student support teams, and Student Development Committees to build strong relationships with students and understand their diverse needs;</p>
+</li>
+<li>
+<p>Support students with additional needs by collaborating with relevant stakeholders to customise programmes and interventions where appropriate; and</p>
+</li>
+<li>
+<p>Mentor students in their holistic development and support them in achieving their fullest potential in the Integrated Programme (IP).</p>
+</li>
+</ul>
+<p>Collaboration and Stakeholder Engagement</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Partner with teachers, student support personnel, and relevant committees to strengthen student support systems; and</p>
+</li>
+<li>
+<p>Build a collaborative culture among staff to enhance student engagement, care, and development.</p>
+</li>
+</ul>
+<hr>
+<h5 id="sh-art">SUBJECT HEAD, ART</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in relevant subject or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to design an Integrated Programme (IP) curriculum that will engage high ability learners who are keen and motivated to learn and enhance the IP experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning, and is able to guide teachers to design a curriculum and assessment that supports these approaches to learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy and is able to guide teachers in giving targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is able to galvanise teachers to work towards a common goal. Have experience leading teams to implement programmes for the department/school.</p>
+</li>
+</ul>
+<hr>
+<h5 id="sh-cl">SUBJECT HEAD, CHINESE LANGUAGE</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Chinese Language/Chinese Literature or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to design an Integrated Programme (IP) curriculum that will engage high ability learners who are keen and motivated to learn and enhance the IP experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning, and is able to guide teachers to design a curriculum and assessment that supports these approaches to learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy and is able to guide teachers in giving targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is able to galvanise teachers to work towards a common goal. Have experience leading teams to implement programmes for the department/school.</p>
+</li>
+</ul>
+<hr>
+<h5 id="sh-edu">SUBJECT HEAD, EDUCATION TECHNOLOGY (EDTECH)</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in related subjects or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>A e-pedagogical leader who is able to use e-pedagogical approaches that will engage high ability learners who are keen and motivated to learn and enhance the IP experience for students in the school;</p>
+</li>
+<li>
+<p>Expertise in applying e-pedagogy, specifically the Ed-Tech Pedagogical Scaffold (PS), with a strong focus on designing and faciliting active learning using technology;</p>
+</li>
+<li>
+<p>Skilled in leveraging technology for assessment and feedback, utilizing tools like the Student Learning Space (SLS) to enhance learning outcomes and provide timely, targeted feedbacks;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning, and is able to guide teachers to design a curriculum and assessment that supports these approaches to learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy and is able to guide teachers in giving targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP);</p>
+</li>
+<li>
+<p>Work in close partnership with school management, SSD and Senior Teachers to chart the professional development of teachers in the school;</p>
+</li>
+<li>
+<p>Enjoy working with others and is able to galvanise teachers to work towards a common goal. Have experience leading teams to implement programmes for the department/school; and</p>
+</li>
+<li>
+<p>High proficiency in educational technology tools and platforms that enhance learning outcomes.</p>
+</li>
+</ul>
+<hr>
+<hr>
+<h5 id="sh-geo">SUBJECT HEAD, GEOGRAPHY</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Geography or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to design an Integrated Programme (IP) curriculum that will engage high ability learners who are keen and motivated to learn and enhance the IP experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning, and is able to guide teachers to design a curriculum and assessment that supports these approaches to learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy and is able to guide teachers in giving targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is able to galvanise teachers to work towards a common goal. Have experience leading teams to implement programmes for the department/school.</p>
+</li>
+</ul>
+<hr>
+<h5 id="sh-his">SUBJECT HEAD, HISTORY</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in History or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to design an Integrated Programme (IP) curriculum that will engage high ability learners who are keen and motivated to learn and enhance the IP experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning, and is able to guide teachers to design a curriculum and assessment that supports these approaches to learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy and is able to guide teachers in giving targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is able to galvanise teachers to work towards a common goal. Have experience leading teams to implement programmes for the department/school.</p>
+</li>
+</ul>
+<hr>
+<h5 id="sh-sc">SUBJECT HEAD, SCIENCE</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Science or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to design an Integrated Programme (IP) curriculum that will engage high ability learners who are keen and motivated to learn and enhance the IP experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning, and is able to guide teachers to design a curriculum and assessment that supports these approaches to learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy and is able to guide teachers in giving targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is able to galvanise teachers to work towards a common goal. Have experience leading teams to implement programmes for the department/school.</p>
+</li>
+</ul>
+<hr>
+<h5 id="st-im">SENIOR TEACHER, MATHEMATICS</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Mathematics or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>A pedagogical leader who is able to mentor other teachers in using pedagogical approaches that will engage high ability learners who are keen and motivated to learn and enhance the IP experience for students in the school and in the cluster;</p>
+</li>
+<li>
+<p>Have a very good understanding of the concept-based approach to learning and interdisciplinary learning, and is able to guide teachers in the school to use pedagogy that supports these approaches to learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy and is able to spearhead the design and customisation of curriculum and assessment to meet the Integrated Programme (IP) goals and learners' needs;</p>
+</li>
+<li>
+<p>Foster a culture of learning and able to galvanise teachers to work towards a common goal. Have experience leading teams to implement programmes for the department/school; and</p>
+</li>
+<li>
+<p>Work in close partnership with school management, SSD and Senior Teachers to chart the professional development of teachers in the school.</p>
+</li>
+</ul>
 <h5 id="bio">BIOLOGY TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
@@ -214,6 +485,35 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 <li>
 <p>Possess a strong level of assessment literacy in terms of providing targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5 id="msp">MALAY SPECIAL PROGRAMME (MSP) TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in related subjects or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targetted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
 </li>
 <li>
 <p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
