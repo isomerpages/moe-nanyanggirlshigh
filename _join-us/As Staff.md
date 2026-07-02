@@ -59,6 +59,7 @@ workforce.</p>
 <a class="button" href="#hcl" rel="noopener nofollow" target="_self">CHINESE LANGUAGE TEACHER</a>
 <a class="button" href="#eng" rel="noopener nofollow" target="_self">ENGLISH LANGUAGE TEACHER</a> 
 <a class="button" href="#geo" rel="noopener nofollow" target="_self">GEOGRAPHY TEACHER</a> 
+	<a class="button" href="#his" rel="noopener nofollow" target="_self">HISTORY TEACHER</a> 
 <a class="button" href="#msp" rel="noopener nofollow" target="_self">MALAY SPECIAL PROGRAMME (MSP) TEACHER</a> 
 <a class="button" href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
 <a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
@@ -485,6 +486,35 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 <li>
 <p>Possess a strong level of assessment literacy in terms of providing targeted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
+</li>
+</ul>
+<hr>
+<h5 id="his">HISTORY TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in related subjects or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targetted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
 </li>
 <li>
 <p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
