@@ -54,6 +54,7 @@ workforce.</p>
 <a class="button" href="#sh-his" rel="noopener nofollow" target="_self">SUBJECT HEAD, HISTORY</a>
 <a class="button" href="#sh-sc" rel="noopener nofollow" target="_self">SUBJECT HEAD, SCIENCE</a>
 <a class="button" href="#st-im" rel="noopener nofollow" target="_self">SENIOR TEACHER, MATHEMATICS</a>
+<a class="button" href="#art" rel="noopener nofollow" target="_self">ART TEACHER</a>	
 <a class="button" href="#bio" rel="noopener nofollow" target="_self">BIOLOGY TEACHER</a>
 <a class="button" href="#chem" rel="noopener nofollow" target="_self">CHEMISTRY TEACHER</a> 
 <a class="button" href="#hcl" rel="noopener nofollow" target="_self">CHINESE LANGUAGE TEACHER</a>
@@ -328,6 +329,35 @@ workforce.</p>
 </li>
 <li>
 <p>Work in close partnership with school management, SSD and Senior Teachers to chart the professional development of teachers in the school.</p>
+</li>
+</ul>
+<hr>
+<h5 id="art">ART TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in related subjects or equivalent;</p>
+</li>
+<li>
+<p>Competent in subject area as well as CCE and co-curricular areas;</p>
+</li>
+<li>
+<p>Able to engage high ability learners who are keen and motivated to learn and enhance the Integrated Programme (IP) experience for students;</p>
+</li>
+<li>
+<p>Have a good understanding of the concept-based approach to learning and interdisciplinary learning;</p>
+</li>
+<li>
+<p>Possess a strong level of assessment literacy in terms of providing targetted feedback, using data to improve teaching and learning and designing different modes of assessment to support learning outcomes;</p>
+</li>
+<li>
+<p>Have experience in guiding students for competitions, research projects and overseas trips;</p>
+</li>	
+<li>
+<p>Able to act as mentor in the holistic development of students so as to help students achieve their fullest potential in the Integrated Programme (IP); and</p>
+</li>
+<li>
+<p>Enjoy working with others and is a good team player.</p>
 </li>
 </ul>
 <hr>
