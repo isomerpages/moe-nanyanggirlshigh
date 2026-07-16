@@ -62,9 +62,10 @@ workforce.</p>
 <a class="button" href="#geo" rel="noopener nofollow" target="_self">GEOGRAPHY TEACHER</a> 
 	<a class="button" href="#his" rel="noopener nofollow" target="_self">HISTORY TEACHER</a> 
 <a class="button" href="#msp" rel="noopener nofollow" target="_self">MALAY SPECIAL PROGRAMME (MSP) TEACHER</a> 
-<a class="button" href="#math" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
+<a class="button" href="#im" rel="noopener nofollow" target="_self">MATHEMATICS TEACHER</a> <a class="button" href="#phy" rel="noopener nofollow" target="_self">PHYSICS TEACHER</a>
 <a class="button" href="#r-eng" rel="noopener nofollow" target="_self">RELIEF ENGLISH TEACHER</a>
 <a class="button" href="#r-hcl" rel="noopener nofollow" target="_self">RELIEF CHINESE LANGUAGE TEACHER</a>
+	<a class="button" href="#r-im" rel="noopener nofollow" target="_self">RELIEF MATHEMATICS TEACHER</a>
 <a class="button" href="#admin" rel="noopener nofollow" target="_self">ADMIN EXECUTIVE</a>
 </p>
 <p><a class="line-button" href="#app" rel="noopener nofollow" target="_self">Application Procedures</a>
@@ -586,7 +587,7 @@ help students achieve their fullest potential in the Integrated Programme
 </li>
 </ul>
 <hr>
-<h5 id="math">MATHEMATICS TEACHER</h5>
+<h5 id="im">MATHEMATICS TEACHER</h5>
 <p>Requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -699,6 +700,26 @@ help students achieve their fullest potential in the Integrated Programme
 <ul data-tight="true" class="tight">
 <li>
 <p>29 June 2026 - 20 November 2026</p>
+</li>
+</ul>
+<hr>
+<h5 id="r-im">RELIEF MATHEMATICS TEACHER</h5>
+<p>Requirements:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Pure Math or Applied Math;</p>
+</li>
+<li>
+<p>Competency in integrating ICT in teaching; and</p>
+</li>
+<li>
+<p>Work collaboratively and contribute as a strong team player.</p>
+</li>
+</ul>
+<p>Commitment Period:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Semester 1, 2027</p>
 </li>
 </ul>
 <hr>
